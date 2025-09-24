@@ -25,6 +25,12 @@
         
     
     
+
+
+
+    
+    
+<link rel="stylesheet" href="/css/simple-datatables.css">
          
         <link rel="preload" href="/fonts/inter-v12-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
 
@@ -55,7 +61,7 @@
 
 <meta property="og:url" content="http://localhost:1313/">
 <meta property="og:site_name" content="Pickup Position &#34;Database&#34;">
-<meta property="og:updated_time" content="2025-08-24T00:00:00+00:00">
+<meta property="og:updated_time" content="2025-09-24T00:00:00+00:00">
     <meta property="og:image" content="http://localhost:1313/img/logo1280x640.png">
 <meta property="og:image:alt" content="deine Mudda">
 
@@ -117,7 +123,7 @@
       "about": {
           "@id": "http://localhost:1313/#/schema/organization/1"
         },
-      "datePublished": "2025-08-24T00:00:00CET","dateModified": "2025-08-24T00:00:00CET","breadcrumb": {
+      "datePublished": "2025-09-24T00:00:00CET","dateModified": "2025-09-24T00:00:00CET","breadcrumb": {
         "@id": "http://localhost:1313/#/schema/breadcrumb/1"
       },
       "primaryImageOfPage": {
@@ -345,7 +351,295 @@
 
     <div class="container-xxl flex-fill p-4 px-xxl-0">
         
-Ich wäre dann mal die Seite
+<p>A modest searchable and sortable list of Pickup measurements. Mostly compiled by the good people of 
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+    <a href="https://www.bassic.de/threads/pu-positions-database.14789156/">bassic.de</a>.</p>
+<p>The list below consists of:</p>
+<ul>
+<li><strong>#</strong>: the counter/id of the bass. Sort by this to group all measurements by bass</li>
+<li><strong>Brand</strong>: the brand of the bass</li>
+<li><strong>Make</strong>: the make of the bass</li>
+<li><strong>Scale</strong>: the scale of the bass. For historic and convention reasons given in a strange and irrational unit (inch)</li>
+<li><strong>Pickup/Coil</strong>: a short (!) textual description of the measurement. Sometimes just the name of the pickup (singlecoils) or also the name of the coil (in case of humbuckers or splitcoils). Sometimes multiple measurements per coil must be given (at an angle)</li>
+<li><strong>Measurement</strong>: the actual measurement. In a proper unit (cm; rounded to mm). Always measured from the 12th fret of the instrument. Usually measured to the pole piece. If the pole piece is not visible the edges of the pickup can be measured or an estimation can be made (add a <strong>Comment</strong>).</li>
+<li><strong>Normalized</strong>: the measurement scaled down to a virtual bass with a 1 inch scale (rounded to 4 decimal points). This makes measurements of basses with different scales comparable (and sortable). Multiply this value by the target scale (in inch) to get the position of the coil (in cm) measured from the 12th fret.</li>
+<li><strong>Target 34/32/30</strong>: The measurement scaled to a bass of scale 34, 32 or 30 respectively (in cm, rounded to mm)</li>
+<li><strong>Reporter</strong>: Name or handle of the person or user who provided the measurement</li>
+<li><strong>Comment</strong>: An additional comment if the measurement needs any</li>
+</ul>
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+        <div class="table-responsive-md ">
+        
+
+
+
+
+
+    
+
+
+
+
+
+
+<table class="table %!s(<nil>) data-table" data-table-sortable=true data-table-searchable=true>
+  <thead>
+    
+      
+      <tr>
+          <th >#</th>
+          <th >Brand</th>
+          <th >Make</th>
+          <th >Scale (inch)</th>
+          <th >Pickup/Coil</th>
+          <th >Measurement (cm)</th>
+          <th >Normalized</th>
+          <th >Target 34 (cm)</th>
+          <th >Target 32 (cm)</th>
+          <th >Target 30 (cm)</th>
+          <th >Reporter</th>
+          <th >Comment</th>
+      </tr>
+    
+  </thead>
+  <tbody>
+    
+      
+        <tr>
+            <td >1</td>
+            <td >Fender</td>
+            <td >CJJ Jazzbass</td>
+            <td >34</td>
+            <td >J:Neck</td>
+            <td >27.5</td>
+            <td >0.8088</td>
+            <td >27.5</td>
+            <td >25.9</td>
+            <td >24.3</td>
+            <td >Doschd</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >1</td>
+            <td >Fender</td>
+            <td >CJJ Jazzbass</td>
+            <td >34</td>
+            <td >J:Bridge</td>
+            <td >36.5</td>
+            <td >1.0735</td>
+            <td >36.5</td>
+            <td >34.3</td>
+            <td >32.2</td>
+            <td >Doschd</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >2</td>
+            <td >Fenix</td>
+            <td >Precision</td>
+            <td >34</td>
+            <td >P: E-A</td>
+            <td >28.3</td>
+            <td >0.8323</td>
+            <td >28.3</td>
+            <td >26.6</td>
+            <td >25.0</td>
+            <td >mosys</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >2</td>
+            <td >Fenix</td>
+            <td >Precision</td>
+            <td >34</td>
+            <td >P: D-G</td>
+            <td >31.0</td>
+            <td >0.9118</td>
+            <td >31.0</td>
+            <td >29.2</td>
+            <td >27.4</td>
+            <td >mosys</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >3</td>
+            <td >Hartwood</td>
+            <td >Satelite</td>
+            <td >32</td>
+            <td >P: E-A</td>
+            <td >20.2</td>
+            <td >0.6312</td>
+            <td >21.4</td>
+            <td >20.2</td>
+            <td >18.9</td>
+            <td >wasabi 2.0</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >3</td>
+            <td >Hartwood</td>
+            <td >Satelite</td>
+            <td >32</td>
+            <td >P: D-G</td>
+            <td >23.0</td>
+            <td >0.7188</td>
+            <td >24.4</td>
+            <td >23.0</td>
+            <td >21.6</td>
+            <td >wasabi 2.0</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >4</td>
+            <td >Sterling</td>
+            <td >SUB Ray 4</td>
+            <td >34</td>
+            <td >MM: Neck Coil</td>
+            <td >33.3</td>
+            <td >0.9794</td>
+            <td >33.3</td>
+            <td >31.3</td>
+            <td >29.4</td>
+            <td >Seven Bass</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >4</td>
+            <td >Sterling</td>
+            <td >SUB Ray 4</td>
+            <td >34</td>
+            <td >MM: Bridge Coil</td>
+            <td >35.8</td>
+            <td >1.0529</td>
+            <td >35.8</td>
+            <td >33.7</td>
+            <td >31.6</td>
+            <td >Seven Bass</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >5</td>
+            <td >Guild</td>
+            <td >Newark St. Starfire</td>
+            <td >30.75</td>
+            <td >Singlecoil</td>
+            <td >31.1</td>
+            <td >1.0113</td>
+            <td >34.4</td>
+            <td >32.4</td>
+            <td >30.3</td>
+            <td >RomanS</td>
+            <td >Bisonic Singlecoil</td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >6</td>
+            <td >Rickenbacker</td>
+            <td >4003 / V63</td>
+            <td >33.25</td>
+            <td >Neck</td>
+            <td >20.7</td>
+            <td >0.6226</td>
+            <td >21.2</td>
+            <td >19.9</td>
+            <td >18.7</td>
+            <td >Oli Wan</td>
+            <td ></td>
+        </tr>
+      
+    
+      
+        <tr>
+            <td >6</td>
+            <td >Rickenbacker</td>
+            <td >4003 / V63</td>
+            <td >33.25</td>
+            <td >Bridge</td>
+            <td >32</td>
+            <td >0.9624</td>
+            <td >32.7</td>
+            <td >30.8</td>
+            <td >28.9</td>
+            <td >Oli Wan</td>
+            <td ></td>
+        </tr>
+      
+  </tbody>
+</table>
+        </div>
+
+        
+    
+
+
+
 
     </div>
 </div><footer class="container-fluid footer text-center p-3">
@@ -426,5 +720,8 @@ Ich wäre dann mal die Seite
          data-category="analytics" async></script>
 
 <script src="/js/core.bundle.en.js"
+         async></script>
+
+<script src="/js/simple-datatables.en.js"
          async></script></body>
 </html>
