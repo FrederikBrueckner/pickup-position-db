@@ -56,6 +56,9 @@ extra-doc-files:    CHANGELOG.md
 
 common warnings
     ghc-options: -Wall
+    -Werror=missing-methods
+    -Werror=missing-fields
+
 
 executable ze-ueber-generator
     -- Import common warning flags.
@@ -71,7 +74,10 @@ executable ze-ueber-generator
     -- other-extensions:
 
     -- Other library packages from which modules are imported.
-    build-depends:    base ^>=4.15.1.0
+    build-depends:
+      , base                 ^>=4.15.1.0
+      , optparse-applicative ^>= 0.15
+
 
     -- Directories containing source files.
     hs-source-dirs:   app
