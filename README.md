@@ -9,11 +9,19 @@ We use the [Hinode theme](https://gethinode.com/) because its [data tables](http
 ## Reqiurements
 
  * Hugo (tested with version v0.150.0)
+ * Haskell / Cabal (tested with ghc 9.0.2 and cabal 3.12.1.0. Newer versions will most likely work)
 
 ## Build
 
-As of now the best way to build the site is:
+Refer to the [makefile](./GNUmakefile) for build targets.
 
+You'll most likely just want to run `make` in order to:
+ * compile the generator
+ * generate the new content file
+ * clean up the old site
+ * generate the site
+
+After generating the new conten you can also run
 ```
 hugo server
 ```
