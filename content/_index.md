@@ -39,8 +39,8 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 7 | Johnson | Jazzbass | 34.0 | J:Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | BigB |  |
 | 8 | Warwick | Streamer Stage 2 (2 J-Singlecoils) | 34.0 | J:Neck | 31.4 | 0.9235 | 31.4 | 29.6 | 27.7 | jam_bass |  |
 | 8 | Warwick | Streamer Stage 2 (2 J-Singlecoils) | 34.0 | J:Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | jam_bass |  |
-| 9 | Fender | Jaguar Deluce MIJ | 34.0 | J:Neck | 27.4 | 0.8059 | 27.4 | 25.8 | 24.2 | stoneface |  |
-| 9 | Fender | Jaguar Deluce MIJ | 34.0 | J:Bridge | 38.9 | 1.1441 | 38.9 | 36.6 | 34.3 | stoneface |  |
+| 9 | Fender | Jaguar Deluxe MIJ | 34.0 | J:Neck | 27.4 | 0.8059 | 27.4 | 25.8 | 24.2 | stoneface |  |
+| 9 | Fender | Jaguar Deluxe MIJ | 34.0 | J:Bridge | 38.9 | 1.1441 | 38.9 | 36.6 | 34.3 | stoneface |  |
 | 10 | Fenix | Jazzbass | 34.0 | J:Neck | 27.6 | 0.8118 | 27.6 | 26.0 | 24.4 | stoneface |  |
 | 10 | Fenix | Jazzbass | 34.0 | J:Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | stoneface |  |
 | 11 | Guilber | ??? | 34.0 | J:Neck | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
@@ -65,5 +65,18 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 20 | Sandberg | TT | 34.0 | J:Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | Seven Basses |  |
 | 21 | Marleaux | Votan X-Tra | 34.0 | J:Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | Seven Basses |  |
 | 21 | Marleaux | Votan X-Tra | 34.0 | J:Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Seven Basses |  |
+| 22 | Squier | Affinity Precision - 20th Anniversary | 34.0 | P: E/A | 28.1 | 0.8265 | 28.1 | 26.4 | 24.8 | Axel |  |
+| 22 | Squier | Affinity Precision - 20th Anniversary | 34.0 | P: D/G | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | Axel |  |
+| 23 | Self-Built | Precision | 34.0 | P: E/A | 28.1 | 0.8265 | 28.1 | 26.4 | 24.8 | stoneface |  |
+| 23 | Self-Built | Precision | 34.0 | P: D/G | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | stoneface |  |
+| 24 | Fender | Precision Road Worn | 34.0 | P: E/A | 28.4 | 0.8353 | 28.4 | 26.7 | 25.1 | indian66 |  |
+| 24 | Fender | Precision Road Worn | 34.0 | P: D/G | 31.1 | 0.9147 | 31.1 | 29.3 | 27.4 | indian66 |  |
+| 25 | Fender | Precision | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | Nick McNoise |  |
+| 25 | Fender | Precision | 34.0 | P: D/G | 30.8 | 0.9059 | 30.8 | 29.0 | 27.2 | Nick McNoise |  |
+| 26 | Fender | 51 Model CIJ (Singlecoil) | 34.0 | P Singlecoil | 26.2 | 0.7706 | 26.2 | 24.7 | 23.1 |  |  |
+| 27 | Aria | Pro II RSB-Deluxe (Revers P) | 34.0 | P: E/A | 33.8 | 0.9941 | 33.8 | 31.8 | 29.8 | Youth |  |
+| 27 | Aria | Pro II RSB-Deluxe (Revers P) | 34.0 | P: D/G | 32.1 | 0.9441 | 32.1 | 30.2 | 28.3 | Youth |  |
+| 28 | Fenix | Precision | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | mosys |  |
+| 28 | Fenix | Precision | 34.0 | P: D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | mosys |  |
 
 {{< /table >}}

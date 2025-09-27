@@ -94,7 +94,7 @@
       value: 38.5
 
 - brand: Fender
-  make: Jaguar Deluce MIJ
+  make: Jaguar Deluxe MIJ
   year: 2014
   scale: 34
   reporter: stoneface
@@ -232,3 +232,77 @@
       value: 27.5
     - description: "J:Bridge"
       value: 36.5
+
+- brand: Squier
+  make: Affinity Precision - 20th Anniversary
+  scale: 34
+  reporter: Axel
+  measurements:
+    - description: "P: E/A"
+      value: 28.1
+    - description: "P: D/G"
+      value: 30.9
+
+- brand: Self-Built
+  make: Precision
+  scale: 34
+  reporter: stoneface
+  measurements:
+    - description: "P: E/A"
+      value: 28.1
+    - description: "P: D/G"
+      value: 30.9
+
+- brand: Fender
+  make: Precision Road Worn
+  year: 2011
+  scale: 34
+  reporter: indian66
+  measurements:
+    - description: "P: E/A"
+      value: 28.4
+    - description: "P: D/G"
+      value: 31.1
+
+- brand: Fender
+  make: Precision
+  year: 1972
+  scale: 34
+  reporter: Nick McNoise
+  measurements:
+    - description: "P: E/A"
+      value: 28.3
+    - description: "P: D/G"
+      value: 30.8
+
+- brand: Fender
+  make: 51 Model CIJ (Singlecoil)
+  year: 2006
+  scale: 34
+  reporter:
+  measurements:
+    - description: "P Singlecoil"
+      value: 26.2
+
+- brand: Aria
+  make: Pro II RSB-Deluxe (Revers P)
+  year: 1983
+  scale: 34
+  reporter: Youth
+  measurements:
+    - description: "P: E/A"
+      value: 33.8
+    - description: "P: D/G"
+      value: 32.1
+
+- brand: Fenix
+  make: Precision
+  year: 1991
+  scale: 34
+  reporter: mosys
+  measurements:
+    - description: "P: E/A"
+      value: 28.3
+    - description: "P: D/G"
+      value: 31.0
+
