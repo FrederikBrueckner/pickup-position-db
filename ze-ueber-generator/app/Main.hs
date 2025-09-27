@@ -41,8 +41,6 @@ main = do
 
     let output = prefix <> table <> postfix
 
-    putStrLn table
-
     writeFile args'target output
 
 mkTable :: [LineData] -> String
