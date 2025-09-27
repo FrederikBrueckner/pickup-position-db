@@ -8,7 +8,7 @@ build-generator:
 
 .PHONY : run-generator
 run-generator:
-	cabal run --project-dir ze-ueber-generator ze-ueber-generator -- --prefix "geht di nix an" --data "sicha ned" --postfix "naaaaaa" --target "nicht wirklich"
+	cabal run --project-dir ze-ueber-generator ze-ueber-generator -- --prefix "./ze-ueber-generator/templates/prefix.md" --data "./data.yaml" --postfix "./ze-ueber-generator/templates/postfix.md" --target "./content/_index.md"
 
 .PHONY : clean-generator
 clean-generator:

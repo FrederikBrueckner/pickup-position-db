@@ -2,6 +2,7 @@ module Main where
 
 import Options.Applicative
 import Control.Monad       (join)
+import System.IO           (openFile, IOMode(ReadMode), hGetContents, hClose)
 
 data Args = Args {
     args'prefix  :: FilePath
@@ -21,5 +22,8 @@ argsParser = Args <$> fileParam "prefix" "file that holds the prefix of the targ
 main :: IO ()
 main = do
     args <- execParser $ info argsParser fullDesc
-    putStrLn "Hello, Haskell!"
-    putStrLn $ show args
+    x    <- readFile $ args'prefix args
+
+    putStrLn "LOL"
+    putStrLn x
+
