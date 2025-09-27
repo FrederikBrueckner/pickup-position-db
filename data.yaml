@@ -3,19 +3,19 @@
   scale: 34
   reporter: Doschd
   measurements:
-    - description: |- J:Neck
+    - description: "J:Neck"
       value: 27.5
-    - description: |- J:Bridge
+    - description: "J:Bridge"
       value: 36.5
 
 - brand: Fenix
   make: Precision
   reporter: mosys
   measurements:
-    - description: |- P: E-A
+    - description: "P: E-A"
       value: 28.3
       scale: 34
-    - description: |- P: D-G
+    - description: "P: D-G"
       value: 31.0
       scale: 34
 
@@ -25,9 +25,9 @@
   scale: 32
   comment: was reported as "mid scale". 32 inch were assumed
   measurements:
-    - description: |- P: E-A
+    - description: "P: E-A"
       value: 20.2
-    - description: |- P: D-G
+    - description: "P: D-G"
       value: 23.0
 
 - brand: Sterling
@@ -35,9 +35,9 @@
   scale: 34
   reporter: Seven Bass
   measurements:
-    - description: |- MM: Neck Coil
+    - description: "MM: Neck Coil"
       value: 33.3
-    - description: |- MM: Bridge Coil
+    - description: "MM: Bridge Coil"
       value: 35.8
 
 - brand: Guild
@@ -50,15 +50,15 @@
       value: 31.1
 
 - brand: Rickenbacker
-  make: |- 4003 / V63
+  make: 4003 / V63
   scale: 33.25
   reporter: Oli Wan
   # TODO delete me
-  comment: |- Test: per Bass-Comment
+  comment: "Test: per Bass-Comment"
   measurements:
     - description: Neck
       # TODO delete me
-      comment: |- Test: per Measurement Comment
+      comment: "Test: per Measurement Comment"
       value: 20.7
     - description: Bridge
       value: 32

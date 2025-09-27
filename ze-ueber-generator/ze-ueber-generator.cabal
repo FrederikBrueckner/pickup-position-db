@@ -77,6 +77,8 @@ executable ze-ueber-generator
     build-depends:
       , base                 ^>=4.15.1.0
       , optparse-applicative ^>= 0.15
+      , text                 ^>= 1.2.5
+      , yaml                 ^>= 0.11.11
 
 
     -- Directories containing source files.
