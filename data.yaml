@@ -1,7 +1,8 @@
 - brand: Fender
-  make: CCJ Jazzbass
+  make: CJJ Jazzbass
   scale: 34
   reporter: Doschd
+  comment: "TODO: CJJ or CCJ?"
   measurements:
     - description: "J:Neck"
       value: 27.5
