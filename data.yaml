@@ -16,9 +16,9 @@
   scale: 34
   reporter: Doschd
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.5
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.5
 
 - brand: Fender-like self-built
@@ -26,9 +26,9 @@
   scale: 34
   reporter: BassManni
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 28.0
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.6
 
 - brand: Fender
@@ -36,9 +36,9 @@
   scale: 34.0
   reporter: lenni
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.7
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.8
 
 - brand: Fender
@@ -46,9 +46,9 @@
   scale: 34
   reporter: griznak
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.7
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.8
 
 - brand: Fender
@@ -57,9 +57,9 @@
   scale: 34
   reporter: EMUBASS
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.7
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.8
 
 - brand: Fender
@@ -68,9 +68,9 @@
   scale: 34
   reporter: BassManni
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.7
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 37.7
 
 - brand: Johnson
@@ -78,9 +78,9 @@
   scale: 34
   reporter: BigB
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.8
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 38.0
 
 - brand: Warwick
@@ -88,9 +88,9 @@
   scale: 34
   reporter: jam_bass
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 31.4
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 38.5
 
 - brand: Fender
@@ -99,9 +99,9 @@
   scale: 34
   reporter: stoneface
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.4
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 38.9
 
 - brand: Fenix
@@ -110,9 +110,9 @@
   scale: 34
   reporter: stoneface
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.6
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.7
 
 - brand: Guilber
@@ -121,9 +121,9 @@
   scale: 34
   reporter: stoneface
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 26.9
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.5
 
 - brand: Fender
@@ -132,9 +132,9 @@
   scale: 34
   reporter: olebass
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.5
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.5
 
 - brand: Lodestone
@@ -142,9 +142,9 @@
   scale: 34
   reporter: olebass
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 28.0
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 37
 
 - brand: Sandberg
@@ -153,9 +153,9 @@
   scale: 34
   reporter: olebass
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 28.0
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.9
 
 - brand: Vester
@@ -164,9 +164,9 @@
   scale: 34
   reporter: olebass
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 30.0
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 37.5
 
 - brand: Yamaha
@@ -175,9 +175,9 @@
   scale: 34
   reporter: Youth
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.2
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.4
 
 - brand: Yamaha
@@ -185,9 +185,9 @@
   scale: 34
   reporter: Youth
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 30.5
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 38.2
 
 - brand: Fender
@@ -195,9 +195,9 @@
   scale: 34
   reporter: Youth
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.3
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 37.7
 
 - brand: BolleBass
@@ -206,9 +206,9 @@
   scale: 32.67
   reporter: bassilisk
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.9
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.9
 
 - brand: Sandberg
@@ -217,9 +217,9 @@
   scale: 34
   reporter: Seven Basses
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.7
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.7
 
 - brand: Marleaux
@@ -228,9 +228,9 @@
   scale: 34
   reporter: Seven Basses
   measurements:
-    - description: "J:Neck"
+    - description: "J: Neck"
       value: 27.5
-    - description: "J:Bridge"
+    - description: "J: Bridge"
       value: 36.5
 
 - brand: Squier
