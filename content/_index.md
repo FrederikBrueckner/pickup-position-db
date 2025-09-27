@@ -23,16 +23,47 @@ This project is published under the GPL v3 license. This explicitly includes the
 {{< table sortable="true" searchable="true" >}}
 |  #  | Brand | Make | Scale (inch) | Pickup/Coil | Measurement (cm) | Normalized | Target 34 (cm) | Target 32 (cm) | Target 30 (cm) | Reporter | Comment |
 | --- | ----- | ---- | ------------ | ----------- | ---------------- | ---------- | -------------- | -------------- | -------------- | -------- | ------- |
-| 1 | Fender | CJJ Jazzbass | 34.0 | J:Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | Doschd | TODO: CJJ or CCJ? |
-| 1 | Fender | CJJ Jazzbass | 34.0 | J:Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Doschd | TODO: CJJ or CCJ? |
-| 2 | Fenix | Precision | 34.0 | P: E-A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | mosys |  |
-| 2 | Fenix | Precision | 34.0 | P: D-G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | mosys |  |
-| 3 | Hartwood | Satelite | 32.0 | P: E-A | 20.2 | 0.6312 | 21.5 | 20.2 | 18.9 | wasabi 2.0 | was reported as "mid scale". 32 inch were assumed |
-| 3 | Hartwood | Satelite | 32.0 | P: D-G | 23.0 | 0.7188 | 24.4 | 23.0 | 21.6 | wasabi 2.0 | was reported as "mid scale". 32 inch were assumed |
-| 4 | Sterling | SUB Ray 4 | 34.0 | MM: Neck Coil | 33.3 | 0.9794 | 33.3 | 31.3 | 29.4 | Seven Bass |  |
-| 4 | Sterling | SUB Ray 4 | 34.0 | MM: Bridge Coil | 35.8 | 1.0529 | 35.8 | 33.7 | 31.6 | Seven Bass |  |
-| 5 | Guild | Newark St. Starfire | 30.75 | Singlecoil | 31.1 | 1.0114 | 34.4 | 32.4 | 30.3 | RomanS | Bisonic Singlecoil |
-| 6 | Rickenbacker | 4003 / V63 | 33.25 | Neck | 20.7 | 0.6226 | 21.2 | 19.9 | 18.7 | Oli Wan |  |
-| 6 | Rickenbacker | 4003 / V63 | 33.25 | Bridge | 32.0 | 0.9624 | 32.7 | 30.8 | 28.9 | Oli Wan |  |
+| 1 | Fender | CIJ Jazzbass JB75-100NAT/R | 34.0 | J:Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | Doschd |  |
+| 1 | Fender | CIJ Jazzbass JB75-100NAT/R | 34.0 | J:Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Doschd |  |
+| 2 | Fender-like self-built | Jazz Bass | 34.0 | J:Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | BassManni |  |
+| 2 | Fender-like self-built | Jazz Bass | 34.0 | J:Bridge | 36.6 | 1.0765 | 36.6 | 34.4 | 32.3 | BassManni |  |
+| 3 | Fender | USA Jazz Standard S1 | 34.0 | J:Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | lenni |  |
+| 3 | Fender | USA Jazz Standard S1 | 34.0 | J:Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | lenni |  |
+| 4 | Fender | CIJ Jazz Bass 62-83US | 34.0 | J:Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | griznak |  |
+| 4 | Fender | CIJ Jazz Bass 62-83US | 34.0 | J:Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | griznak |  |
+| 5 | Fender | Jazzbass Fretless | 34.0 | J:Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | EMUBASS |  |
+| 5 | Fender | Jazzbass Fretless | 34.0 | J:Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | EMUBASS |  |
+| 6 | Fender | Fender JB Special Edition 70s Spacing | 34.0 | J:Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | BassManni |  |
+| 6 | Fender | Fender JB Special Edition 70s Spacing | 34.0 | J:Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | BassManni |  |
+| 7 | Johnson | Jazzbass | 34.0 | J:Neck | 27.8 | 0.8176 | 27.8 | 26.2 | 24.5 | BigB |  |
+| 7 | Johnson | Jazzbass | 34.0 | J:Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | BigB |  |
+| 8 | Warwick | Streamer Stage 2 (2 J-Singlecoils) | 34.0 | J:Neck | 31.4 | 0.9235 | 31.4 | 29.6 | 27.7 | jam_bass |  |
+| 8 | Warwick | Streamer Stage 2 (2 J-Singlecoils) | 34.0 | J:Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | jam_bass |  |
+| 9 | Fender | Jaguar Deluce MIJ | 34.0 | J:Neck | 27.4 | 0.8059 | 27.4 | 25.8 | 24.2 | stoneface |  |
+| 9 | Fender | Jaguar Deluce MIJ | 34.0 | J:Bridge | 38.9 | 1.1441 | 38.9 | 36.6 | 34.3 | stoneface |  |
+| 10 | Fenix | Jazzbass | 34.0 | J:Neck | 27.6 | 0.8118 | 27.6 | 26.0 | 24.4 | stoneface |  |
+| 10 | Fenix | Jazzbass | 34.0 | J:Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | stoneface |  |
+| 11 | Guilber | ??? | 34.0 | J:Neck | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
+| 11 | Guilber | ??? | 34.0 | J:Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | stoneface |  |
+| 12 | Fender | Victor Nailey JB | 34.0 | J:Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | olebass |  |
+| 12 | Fender | Victor Nailey JB | 34.0 | J:Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | olebass |  |
+| 13 | Lodestone | Primal Artist V JB | 34.0 | J:Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
+| 13 | Lodestone | Primal Artist V JB | 34.0 | J:Bridge | 37.0 | 1.0882 | 37.0 | 34.8 | 32.6 | olebass |  |
+| 14 | Sandberg | California JM V | 34.0 | J:Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
+| 14 | Sandberg | California JM V | 34.0 | J:Bridge | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | olebass |  |
+| 15 | Vester | Clipper IV | 34.0 | J:Neck | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | olebass |  |
+| 15 | Vester | Clipper IV | 34.0 | J:Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | olebass |  |
+| 16 | Yamaha | BB Standard | 34.0 | J:Neck | 27.2 | 0.8 | 27.2 | 25.6 | 24.0 | Youth |  |
+| 16 | Yamaha | BB Standard | 34.0 | J:Bridge | 36.4 | 1.0706 | 36.4 | 34.3 | 32.1 | Youth |  |
+| 17 | Yamaha | BB604 | 34.0 | J:Neck | 30.5 | 0.8971 | 30.5 | 28.7 | 26.9 | Youth |  |
+| 17 | Yamaha | BB604 | 34.0 | J:Bridge | 38.2 | 1.1235 | 38.2 | 36.0 | 33.7 | Youth |  |
+| 18 | Fender | Jaguar MIJ | 34.0 | J:Neck | 27.3 | 0.8029 | 27.3 | 25.7 | 24.1 | Youth |  |
+| 18 | Fender | Jaguar MIJ | 34.0 | J:Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | Youth |  |
+| 19 | BolleBass | Corinna | 32.67 | J:Neck | 27.9 | 0.854 | 29.0 | 27.3 | 25.6 | bassilisk |  |
+| 19 | BolleBass | Corinna | 32.67 | J:Bridge | 36.9 | 1.1295 | 38.4 | 36.1 | 33.9 | bassilisk |  |
+| 20 | Sandberg | TT | 34.0 | J:Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Seven Basses |  |
+| 20 | Sandberg | TT | 34.0 | J:Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | Seven Basses |  |
+| 21 | Marleaux | Votan X-Tra | 34.0 | J:Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | Seven Basses |  |
+| 21 | Marleaux | Votan X-Tra | 34.0 | J:Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Seven Basses |  |
 
 {{< /table >}}

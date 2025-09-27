@@ -12,64 +12,223 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 - brand: Fender
-  make: CJJ Jazzbass
+  make: CIJ Jazzbass JB75-100NAT/R
   scale: 34
   reporter: Doschd
-  comment: "TODO: CJJ or CCJ?"
   measurements:
     - description: "J:Neck"
       value: 27.5
     - description: "J:Bridge"
       value: 36.5
 
-- brand: Fenix
-  make: Precision
-  reporter: mosys
-  measurements:
-    - description: "P: E-A"
-      value: 28.3
-      scale: 34
-    - description: "P: D-G"
-      value: 31.0
-      scale: 34
-
-- brand: Hartwood
-  make: Satelite
-  reporter: wasabi 2.0
-  scale: 32
-  comment: was reported as "mid scale". 32 inch were assumed
-  measurements:
-    - description: "P: E-A"
-      value: 20.2
-    - description: "P: D-G"
-      value: 23.0
-
-- brand: Sterling
-  make: SUB Ray 4
+- brand: Fender-like self-built
+  make: Jazz Bass
   scale: 34
-  reporter: Seven Bass
+  reporter: BassManni
   measurements:
-    - description: "MM: Neck Coil"
-      value: 33.3
-    - description: "MM: Bridge Coil"
-      value: 35.8
+    - description: "J:Neck"
+      value: 28.0
+    - description: "J:Bridge"
+      value: 36.6
 
-- brand: Guild
-  make: Newark St. Starfire
-  scale: 30.75
-  reporter: RomanS
-  comment: Bisonic Singlecoil
+- brand: Fender
+  make: USA Jazz Standard S1
+  scale: 34.0
+  reporter: lenni
   measurements:
-    - description: Singlecoil
-      value: 31.1
+    - description: "J:Neck"
+      value: 27.7
+    - description: "J:Bridge"
+      value: 36.8
 
-- brand: Rickenbacker
-  make: 4003 / V63
-  scale: 33.25
-  reporter: Oli Wan
+- brand: Fender
+  make: CIJ Jazz Bass 62-83US
+  scale: 34
+  reporter: griznak
   measurements:
-    - description: Neck
-      value: 20.7
-    - description: Bridge
-      value: 32
+    - description: "J:Neck"
+      value: 27.7
+    - description: "J:Bridge"
+      value: 36.8
 
+- brand: Fender
+  make: Jazzbass Fretless
+  year: 1998
+  scale: 34
+  reporter: EMUBASS
+  measurements:
+    - description: "J:Neck"
+      value: 27.7
+    - description: "J:Bridge"
+      value: 36.8
+
+- brand: Fender
+  make: Fender JB Special Edition 70s Spacing
+  year: 1982?
+  scale: 34
+  reporter: BassManni
+  measurements:
+    - description: "J:Neck"
+      value: 27.7
+    - description: "J:Bridge"
+      value: 37.7
+
+- brand: Johnson
+  make: Jazzbass
+  scale: 34
+  reporter: BigB
+  measurements:
+    - description: "J:Neck"
+      value: 27.8
+    - description: "J:Bridge"
+      value: 38.0
+
+- brand: Warwick
+  make: Streamer Stage 2 (2 J-Singlecoils)
+  scale: 34
+  reporter: jam_bass
+  measurements:
+    - description: "J:Neck"
+      value: 31.4
+    - description: "J:Bridge"
+      value: 38.5
+
+- brand: Fender
+  make: Jaguar Deluce MIJ
+  year: 2014
+  scale: 34
+  reporter: stoneface
+  measurements:
+    - description: "J:Neck"
+      value: 27.4
+    - description: "J:Bridge"
+      value: 38.9
+
+- brand: Fenix
+  make: Jazzbass
+  year: 1989
+  scale: 34
+  reporter: stoneface
+  measurements:
+    - description: "J:Neck"
+      value: 27.6
+    - description: "J:Bridge"
+      value: 36.7
+
+- brand: Guilber
+  make: "???"
+  year: 1992
+  scale: 34
+  reporter: stoneface
+  measurements:
+    - description: "J:Neck"
+      value: 26.9
+    - description: "J:Bridge"
+      value: 36.5
+
+- brand: Fender
+  make: Victor Nailey JB
+  year: 2007
+  scale: 34
+  reporter: olebass
+  measurements:
+    - description: "J:Neck"
+      value: 27.5
+    - description: "J:Bridge"
+      value: 36.5
+
+- brand: Lodestone
+  make: Primal Artist V JB
+  scale: 34
+  reporter: olebass
+  measurements:
+    - description: "J:Neck"
+      value: 28.0
+    - description: "J:Bridge"
+      value: 37
+
+- brand: Sandberg
+  make: California JM V
+  year: 2005
+  scale: 34
+  reporter: olebass
+  measurements:
+    - description: "J:Neck"
+      value: 28.0
+    - description: "J:Bridge"
+      value: 36.9
+
+- brand: Vester
+  make: Clipper IV
+  year: 1990
+  scale: 34
+  reporter: olebass
+  measurements:
+    - description: "J:Neck"
+      value: 30.0
+    - description: "J:Bridge"
+      value: 37.5
+
+- brand: Yamaha
+  make: BB Standard
+  year: 1997
+  scale: 34
+  reporter: Youth
+  measurements:
+    - description: "J:Neck"
+      value: 27.2
+    - description: "J:Bridge"
+      value: 36.4
+
+- brand: Yamaha
+  make: BB604
+  scale: 34
+  reporter: Youth
+  measurements:
+    - description: "J:Neck"
+      value: 30.5
+    - description: "J:Bridge"
+      value: 38.2
+
+- brand: Fender
+  make: Jaguar MIJ
+  scale: 34
+  reporter: Youth
+  measurements:
+    - description: "J:Neck"
+      value: 27.3
+    - description: "J:Bridge"
+      value: 37.7
+
+- brand: BolleBass
+  make: Corinna
+  year: 2020
+  scale: 32.67
+  reporter: bassilisk
+  measurements:
+    - description: "J:Neck"
+      value: 27.9
+    - description: "J:Bridge"
+      value: 36.9
+
+- brand: Sandberg
+  make: TT
+  year: 2013
+  scale: 34
+  reporter: Seven Basses
+  measurements:
+    - description: "J:Neck"
+      value: 27.7
+    - description: "J:Bridge"
+      value: 36.7
+
+- brand: Marleaux
+  make: Votan X-Tra
+  year: 2017
+  scale: 34
+  reporter: Seven Basses
+  measurements:
+    - description: "J:Neck"
+      value: 27.5
+    - description: "J:Bridge"
+      value: 36.5
