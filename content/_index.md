@@ -18,6 +18,8 @@ The list below consists of:
  * __Reporter__: Name or handle of the person or user who provided the measurement
  * __Comment__: An additional comment if the measurement needs any
 
+This project is published under the GPL v3 license. This explicitly includes the data of the following table.
+
 {{< table sortable="true" searchable="true" >}}
 |  #  | Brand | Make | Scale (inch) | Pickup/Coil | Measurement (cm) | Normalized | Target 34 (cm) | Target 32 (cm) | Target 30 (cm) | Reporter | Comment |
 | --- | ----- | ---- | ------------ | ----------- | ---------------- | ---------- | -------------- | -------------- | -------------- | -------- | ------- |
@@ -30,7 +32,7 @@ The list below consists of:
 | 4 | Sterling | SUB Ray 4 | 34.0 | MM: Neck Coil | 33.3 | 0.9794 | 33.3 | 31.3 | 29.4 | Seven Bass |  |
 | 4 | Sterling | SUB Ray 4 | 34.0 | MM: Bridge Coil | 35.8 | 1.0529 | 35.8 | 33.7 | 31.6 | Seven Bass |  |
 | 5 | Guild | Newark St. Starfire | 30.75 | Singlecoil | 31.1 | 1.0114 | 34.4 | 32.4 | 30.3 | RomanS | Bisonic Singlecoil |
-| 6 | Rickenbacker | 4003 / V63 | 33.25 | Neck | 20.7 | 0.6226 | 21.2 | 19.9 | 18.7 | Oli Wan | Test: per Bass-Comment. Test: per Measurement Comment |
-| 6 | Rickenbacker | 4003 / V63 | 33.25 | Bridge | 32.0 | 0.9624 | 32.7 | 30.8 | 28.9 | Oli Wan | Test: per Bass-Comment |
+| 6 | Rickenbacker | 4003 / V63 | 33.25 | Neck | 20.7 | 0.6226 | 21.2 | 19.9 | 18.7 | Oli Wan |  |
+| 6 | Rickenbacker | 4003 / V63 | 33.25 | Bridge | 32.0 | 0.9624 | 32.7 | 30.8 | 28.9 | Oli Wan |  |
 
 {{< /table >}}

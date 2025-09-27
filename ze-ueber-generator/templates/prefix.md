@@ -18,4 +18,6 @@ The list below consists of:
  * __Reporter__: Name or handle of the person or user who provided the measurement
  * __Comment__: An additional comment if the measurement needs any
 
+This project is published under the GPL v3 license. This explicitly includes the data of the following table.
+
 {{< table sortable="true" searchable="true" >}}
