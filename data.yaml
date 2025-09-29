@@ -306,3 +306,210 @@
     - description: "P: D/G"
       value: 31.0
 
+- brand: Travis Bean
+  make: TB 2000
+  year: 1977
+  scale: 33.25
+  reporter: quarkfrosch
+  measurements:
+    - description: "SC: Neck"
+      value: 18.9
+    - description: "SC: Bridge"
+      value: 32.0
+
+- brand: Kramer
+  make: XKB-20
+  year: 1980
+  scale: 33.75
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 27.4
+    - description: "P: D/G"
+      value: 30.4
+
+- brand: Vantage
+  make: VP-795B
+  year: 1979
+  scale: 33.25
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: Neck E/A"
+      value: 22.3
+    - description: "P: Neck D/G"
+      value: 25.7
+    - description: "P: Bridge E/A"
+      value: 31.7
+    - description: "P: Bridge D/G"
+      value: 34.6
+
+- brand: Warwick
+  make: Corvette Std
+  year: 2003
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "J: Neck"
+      value: 29.8
+    - description: "2J1: Bridge"
+      value: 38.0
+    - description: "2J2: Bridge"
+      value: 40.4
+
+- brand: Warwick
+  make: Fortress One
+  year: 1994
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 30.2
+    - description: "P: D/G"
+      value: 33.0
+    - description: "J: Bridge"
+      value: 38.6
+
+- brand: Charvel
+  make: 2B
+  year: 1988
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 28.3
+    - description: "P: D/G"
+      value: 31.2
+    - description: "J: Bridge"
+      value: 37.7
+
+- brand: Fenix
+  make: P-Bass
+  year: 1991
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 28.2
+    - description: "P: D/G"
+      value: 31.1
+    - description: "J: Bridge"
+      value: 38.4
+
+- brand: Fenix
+  make: Jazz-Bass
+  year: 1994
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "J: Neck"
+      value: 27.5
+    - description: "J: Bridge"
+      value: 36.7
+
+- brand: Fenix
+  make: Jazz-Bass V
+  year: 1992
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "J: Neck"
+      value: 27.5
+    - description: "J: Bridge"
+      value: 36.7
+
+- brand: Squier
+  make: Jaguar VM
+  year: 2014
+  scale: 30
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 22.8
+    - description: "P: D/G"
+      value: 25.8
+    - description: "J: Bridge"
+      value: 33.7
+
+- brand: Mayones
+  make: Slogan Classic 4
+  year: 2009
+  scale: 34.25
+  reporter: quarkfrosch
+  measurements:
+    - description: "HB: Neck"
+      value: 29.2
+    - description: "HB: Bridge"
+      value: 38.0
+
+- brand: OLP
+  make: Tony Levin 5
+  year: 2005
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "MM1: Bridge"
+      value: 33.9
+    - description: "MM2: Bridge"
+      value: 39.2
+
+- brand: Bass Collection
+  make: SB302 PWH
+  year: 1987
+  scale: 34.25
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 30.1
+    - description: "P: D/G"
+      value: 33.2
+    - description: "J: Bridge"
+      value: 38.1
+
+- brand: Wotan
+  make: Shark
+  year: 1978
+  scale: 34.5
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: Neck E/A"
+      value: 21.0
+    - description: "P: Neck D/G"
+      value: 23.7
+    - description: "P: Bridge E/A"
+      value: 34.2
+    - description: "P: Bridge D/G"
+      value: 37.7
+
+- brand: Kramer
+  make: DMZ 5000
+  year: 1980
+  scale: 33.75
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: Neck E/A"
+      value: 27.5
+    - description: "P: Neck D/G"
+      value: 30.3
+    - description: "J: Bridge"
+      value: 39.0
+
+- brand: Esh
+  make: Stinger I
+  scale: 34.25
+  reporter: quarkfrosch
+  measurements:
+    - description: "HB: Neck"
+      value: 32.1
+    - description: "HB: Bridge"
+      value: 38.7
+
+- brand: Esh
+  make: Stinger II - V
+  scale: 34.25
+  reporter: quarkfrosch
+  measurements:
+    - description: "HB: Neck"
+      value: 30.0
+    - description: "HB: Bridge"
+      value: 37.8
+
