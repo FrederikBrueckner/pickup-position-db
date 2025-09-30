@@ -508,7 +508,7 @@
       value: 33.1
     - description: "HB: Bridge Coil 1"
       value: 37.7
-    - description: "HB: Bridge Coil 1"
+    - description: "HB: Bridge Coil 2"
       value: 39.7
 
 - brand: Esh
@@ -522,7 +522,7 @@
       value: 31.0
     - description: "HB: Bridge Coil 1"
       value: 36.8
-    - description: "HB: Bridge Coil 1"
+    - description: "HB: Bridge Coil 2"
       value: 38.8
 
 - brand: Daion
