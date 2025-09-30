@@ -78,5 +78,50 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 27 | Aria | Pro II RSB-Deluxe (Revers P) | 34.0 | P: D/G | 32.1 | 0.9441 | 32.1 | 30.2 | 28.3 | Youth |  |
 | 28 | Fenix | Precision | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | mosys |  |
 | 28 | Fenix | Precision | 34.0 | P: D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | mosys |  |
+| 29 | Travis Bean | TB 2000 | 33.25 | SC: Neck | 18.9 | 0.5684 | 19.3 | 18.2 | 17.1 | quarkfrosch |  |
+| 29 | Travis Bean | TB 2000 | 33.25 | SC: Bridge | 32.0 | 0.9624 | 32.7 | 30.8 | 28.9 | quarkfrosch |  |
+| 30 | Kramer | XKB-20 | 33.75 | P: E/A | 27.4 | 0.8119 | 27.6 | 26.0 | 24.4 | quarkfrosch |  |
+| 30 | Kramer | XKB-20 | 33.75 | P: D/G | 30.4 | 0.9007 | 30.6 | 28.8 | 27.0 | quarkfrosch |  |
+| 31 | Vantage | VP-795B | 33.25 | P: Neck E/A | 22.3 | 0.6707 | 22.8 | 21.5 | 20.1 | quarkfrosch |  |
+| 31 | Vantage | VP-795B | 33.25 | P: Neck D/G | 25.7 | 0.7729 | 26.3 | 24.7 | 23.2 | quarkfrosch |  |
+| 31 | Vantage | VP-795B | 33.25 | P: Bridge E/A | 31.7 | 0.9534 | 32.4 | 30.5 | 28.6 | quarkfrosch |  |
+| 31 | Vantage | VP-795B | 33.25 | P: Bridge D/G | 34.6 | 1.0406 | 35.4 | 33.3 | 31.2 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std | 34.0 | J: Neck | 29.8 | 0.8765 | 29.8 | 28.0 | 26.3 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std | 34.0 | 2J1: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std | 34.0 | 2J2: Bridge | 40.4 | 1.1882 | 40.4 | 38.0 | 35.6 | quarkfrosch |  |
+| 33 | Warwick | Fortress One | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
+| 33 | Warwick | Fortress One | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
+| 33 | Warwick | Fortress One | 34.0 | J: Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | quarkfrosch |  |
+| 34 | Charvel | 2B | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | quarkfrosch |  |
+| 34 | Charvel | 2B | 34.0 | P: D/G | 31.2 | 0.9176 | 31.2 | 29.4 | 27.5 | quarkfrosch |  |
+| 34 | Charvel | 2B | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | quarkfrosch |  |
+| 35 | Fenix | P-Bass | 34.0 | P: E/A | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | quarkfrosch |  |
+| 35 | Fenix | P-Bass | 34.0 | P: D/G | 31.1 | 0.9147 | 31.1 | 29.3 | 27.4 | quarkfrosch |  |
+| 35 | Fenix | P-Bass | 34.0 | J: Bridge | 38.4 | 1.1294 | 38.4 | 36.1 | 33.9 | quarkfrosch |  |
+| 36 | Fenix | Jazz-Bass | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
+| 36 | Fenix | Jazz-Bass | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
+| 37 | Fenix | Jazz-Bass V | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
+| 37 | Fenix | Jazz-Bass V | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM | 30.0 | P: E/A | 22.8 | 0.76 | 25.8 | 24.3 | 22.8 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM | 30.0 | P: D/G | 25.8 | 0.86 | 29.2 | 27.5 | 25.8 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM | 30.0 | J: Bridge | 33.7 | 1.1233 | 38.2 | 35.9 | 33.7 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Neck | 29.2 | 0.8526 | 29.0 | 27.3 | 25.6 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Bridge | 38.0 | 1.1095 | 37.7 | 35.5 | 33.3 | quarkfrosch |  |
+| 40 | OLP | Tony Levin 5 | 34.0 | MM1: Bridge | 33.9 | 0.9971 | 33.9 | 31.9 | 29.9 | quarkfrosch |  |
+| 40 | OLP | Tony Levin 5 | 34.0 | MM2: Bridge | 39.2 | 1.1529 | 39.2 | 36.9 | 34.6 | quarkfrosch |  |
+| 41 | Bass Collection | SB302 PWH | 34.25 | P: E/A | 30.1 | 0.8788 | 29.9 | 28.1 | 26.4 | quarkfrosch |  |
+| 41 | Bass Collection | SB302 PWH | 34.25 | P: D/G | 33.2 | 0.9693 | 33.0 | 31.0 | 29.1 | quarkfrosch |  |
+| 41 | Bass Collection | SB302 PWH | 34.25 | J: Bridge | 38.1 | 1.1124 | 37.8 | 35.6 | 33.4 | quarkfrosch |  |
+| 42 | Wotan | Shark | 34.5 | P: Neck E/A | 21.0 | 0.6087 | 20.7 | 19.5 | 18.3 | quarkfrosch |  |
+| 42 | Wotan | Shark | 34.5 | P: Neck D/G | 23.7 | 0.687 | 23.4 | 22.0 | 20.6 | quarkfrosch |  |
+| 42 | Wotan | Shark | 34.5 | P: Bridge E/A | 34.2 | 0.9913 | 33.7 | 31.7 | 29.7 | quarkfrosch |  |
+| 42 | Wotan | Shark | 34.5 | P: Bridge D/G | 37.7 | 1.0928 | 37.2 | 35.0 | 32.8 | quarkfrosch |  |
+| 43 | Kramer | DMZ 5000 | 33.75 | P: Neck E/A | 27.5 | 0.8148 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
+| 43 | Kramer | DMZ 5000 | 33.75 | P: Neck D/G | 30.3 | 0.8978 | 30.5 | 28.7 | 26.9 | quarkfrosch |  |
+| 43 | Kramer | DMZ 5000 | 33.75 | J: Bridge | 39.0 | 1.1556 | 39.3 | 37.0 | 34.7 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Neck | 32.1 | 0.9372 | 31.9 | 30.0 | 28.1 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Bridge | 38.7 | 1.1299 | 38.4 | 36.2 | 33.9 | quarkfrosch |  |
+| 45 | Esh | Stinger II - V | 34.25 | HB: Neck | 30.0 | 0.8759 | 29.8 | 28.0 | 26.3 | quarkfrosch |  |
+| 45 | Esh | Stinger II - V | 34.25 | HB: Bridge | 37.8 | 1.1036 | 37.5 | 35.3 | 33.1 | quarkfrosch |  |
 
 {{< /table >}}
