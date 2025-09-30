@@ -351,9 +351,9 @@
   measurements:
     - description: "J: Neck"
       value: 29.8
-    - description: "2J1: Bridge"
+    - description: "2J: Bridge Coil 1"
       value: 38.0
-    - description: "2J2: Bridge"
+    - description: "2J: Bridge Coil 2"
       value: 40.4
 
 - brand: Warwick
@@ -436,10 +436,14 @@
   scale: 34.25
   reporter: quarkfrosch
   measurements:
-    - description: "HB: Neck"
-      value: 29.2
-    - description: "HB: Bridge"
-      value: 38.0
+    - description: "HB: Neck Coil 1"
+      value: 27.9
+    - description: "HB: Neck Coil 2"
+      value: 20.5
+    - description: "HB: Bridge Coil 1"
+      value: 36.7
+    - description: "HB: Bridge Coil 2"
+      value: 39.3
 
 - brand: OLP
   make: Tony Levin 5
@@ -447,9 +451,9 @@
   scale: 34
   reporter: quarkfrosch
   measurements:
-    - description: "MM1: Bridge"
+    - description: "MM: Bridge Coil 1"
       value: 33.9
-    - description: "MM2: Bridge"
+    - description: "MM: Bridge Coil 2"
       value: 39.2
 
 - brand: Bass Collection
@@ -498,18 +502,37 @@
   scale: 34.25
   reporter: quarkfrosch
   measurements:
-    - description: "HB: Neck"
-      value: 32.1
-    - description: "HB: Bridge"
-      value: 38.7
+    - description: "HB: Neck Coil 1"
+      value: 31.1
+    - description: "HB: Neck Coil 1"
+      value: 33.1
+    - description: "HB: Bridge Coil 1"
+      value: 37.7
+    - description: "HB: Bridge Coil 1"
+      value: 39.7
 
 - brand: Esh
   make: Stinger II - V
   scale: 34.25
   reporter: quarkfrosch
   measurements:
-    - description: "HB: Neck"
-      value: 30.0
-    - description: "HB: Bridge"
-      value: 37.8
+    - description: "HB: Neck Coil 1"
+      value: 29.0
+    - description: "HB: Neck Coil 2"
+      value: 31.0
+    - description: "HB: Bridge Coil 1"
+      value: 36.8
+    - description: "HB: Bridge Coil 1"
+      value: 38.8
+
+- brand: Daion
+  make: Power Mark X-B
+  year: 1982
+  scale: 34.0
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: E/A"
+      value: 30.2
+    - description: "P: D/G"
+      value: 33.0
 
