@@ -6,6 +6,8 @@ A collection of bass pickup measurements. Started here:  https://www.bassic.de/t
 Basically this is a [Hugo](https://gohugo.io/) generated website.
 We use the [Hinode theme](https://gethinode.com/) because its [data tables](https://gethinode.com/docs/content/tables/#data-tables) deliver all of the core requirements we need (sortable and searchable).
 
+The core data (in a normalized form) is stored in the [data.yaml](./data.yaml) file. A generator (written in Haskell) uses it to fill a data table and merges it with [templates](./ze-ueber-generator/templates) to fill the (index.md)[./content/_index.md] which in turn will be picked up by Hugo to create the final website.
+
 ## Reqiurements
 
  * Hugo (tested with version v0.150.0)
