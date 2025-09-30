@@ -87,8 +87,8 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 31 | Vantage | VP-795B | 33.25 | P: Bridge E/A | 31.7 | 0.9534 | 32.4 | 30.5 | 28.6 | quarkfrosch |  |
 | 31 | Vantage | VP-795B | 33.25 | P: Bridge D/G | 34.6 | 1.0406 | 35.4 | 33.3 | 31.2 | quarkfrosch |  |
 | 32 | Warwick | Corvette Std | 34.0 | J: Neck | 29.8 | 0.8765 | 29.8 | 28.0 | 26.3 | quarkfrosch |  |
-| 32 | Warwick | Corvette Std | 34.0 | 2J1: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | quarkfrosch |  |
-| 32 | Warwick | Corvette Std | 34.0 | 2J2: Bridge | 40.4 | 1.1882 | 40.4 | 38.0 | 35.6 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std | 34.0 | 2J: Bridge Coil 1 | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std | 34.0 | 2J: Bridge Coil 2 | 40.4 | 1.1882 | 40.4 | 38.0 | 35.6 | quarkfrosch |  |
 | 33 | Warwick | Fortress One | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
 | 33 | Warwick | Fortress One | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
 | 33 | Warwick | Fortress One | 34.0 | J: Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | quarkfrosch |  |
@@ -105,10 +105,12 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 38 | Squier | Jaguar VM | 30.0 | P: E/A | 22.8 | 0.76 | 25.8 | 24.3 | 22.8 | quarkfrosch |  |
 | 38 | Squier | Jaguar VM | 30.0 | P: D/G | 25.8 | 0.86 | 29.2 | 27.5 | 25.8 | quarkfrosch |  |
 | 38 | Squier | Jaguar VM | 30.0 | J: Bridge | 33.7 | 1.1233 | 38.2 | 35.9 | 33.7 | quarkfrosch |  |
-| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Neck | 29.2 | 0.8526 | 29.0 | 27.3 | 25.6 | quarkfrosch |  |
-| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Bridge | 38.0 | 1.1095 | 37.7 | 35.5 | 33.3 | quarkfrosch |  |
-| 40 | OLP | Tony Levin 5 | 34.0 | MM1: Bridge | 33.9 | 0.9971 | 33.9 | 31.9 | 29.9 | quarkfrosch |  |
-| 40 | OLP | Tony Levin 5 | 34.0 | MM2: Bridge | 39.2 | 1.1529 | 39.2 | 36.9 | 34.6 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Neck Coil 1 | 27.9 | 0.8146 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Neck Coil 2 | 20.5 | 0.5985 | 20.3 | 19.2 | 18.0 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Bridge Coil 1 | 36.7 | 1.0715 | 36.4 | 34.3 | 32.1 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Bridge Coil 2 | 39.3 | 1.1474 | 39.0 | 36.7 | 34.4 | quarkfrosch |  |
+| 40 | OLP | Tony Levin 5 | 34.0 | MM: Bridge Coil 1 | 33.9 | 0.9971 | 33.9 | 31.9 | 29.9 | quarkfrosch |  |
+| 40 | OLP | Tony Levin 5 | 34.0 | MM: Bridge Coil 2 | 39.2 | 1.1529 | 39.2 | 36.9 | 34.6 | quarkfrosch |  |
 | 41 | Bass Collection | SB302 PWH | 34.25 | P: E/A | 30.1 | 0.8788 | 29.9 | 28.1 | 26.4 | quarkfrosch |  |
 | 41 | Bass Collection | SB302 PWH | 34.25 | P: D/G | 33.2 | 0.9693 | 33.0 | 31.0 | 29.1 | quarkfrosch |  |
 | 41 | Bass Collection | SB302 PWH | 34.25 | J: Bridge | 38.1 | 1.1124 | 37.8 | 35.6 | 33.4 | quarkfrosch |  |
@@ -119,9 +121,15 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 43 | Kramer | DMZ 5000 | 33.75 | P: Neck E/A | 27.5 | 0.8148 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
 | 43 | Kramer | DMZ 5000 | 33.75 | P: Neck D/G | 30.3 | 0.8978 | 30.5 | 28.7 | 26.9 | quarkfrosch |  |
 | 43 | Kramer | DMZ 5000 | 33.75 | J: Bridge | 39.0 | 1.1556 | 39.3 | 37.0 | 34.7 | quarkfrosch |  |
-| 44 | Esh | Stinger I | 34.25 | HB: Neck | 32.1 | 0.9372 | 31.9 | 30.0 | 28.1 | quarkfrosch |  |
-| 44 | Esh | Stinger I | 34.25 | HB: Bridge | 38.7 | 1.1299 | 38.4 | 36.2 | 33.9 | quarkfrosch |  |
-| 45 | Esh | Stinger II - V | 34.25 | HB: Neck | 30.0 | 0.8759 | 29.8 | 28.0 | 26.3 | quarkfrosch |  |
-| 45 | Esh | Stinger II - V | 34.25 | HB: Bridge | 37.8 | 1.1036 | 37.5 | 35.3 | 33.1 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 31.1 | 0.908 | 30.9 | 29.1 | 27.2 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 33.1 | 0.9664 | 32.9 | 30.9 | 29.0 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Bridge Coil 1 | 37.7 | 1.1007 | 37.4 | 35.2 | 33.0 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Bridge Coil 2 | 39.7 | 1.1591 | 39.4 | 37.1 | 34.8 | quarkfrosch |  |
+| 45 | Esh | Stinger II - V | 34.25 | HB: Neck Coil 1 | 29.0 | 0.8467 | 28.8 | 27.1 | 25.4 | quarkfrosch |  |
+| 45 | Esh | Stinger II - V | 34.25 | HB: Neck Coil 2 | 31.0 | 0.9051 | 30.8 | 29.0 | 27.2 | quarkfrosch |  |
+| 45 | Esh | Stinger II - V | 34.25 | HB: Bridge Coil 1 | 36.8 | 1.0745 | 36.5 | 34.4 | 32.2 | quarkfrosch |  |
+| 45 | Esh | Stinger II - V | 34.25 | HB: Bridge Coil 2 | 38.8 | 1.1328 | 38.5 | 36.2 | 34.0 | quarkfrosch |  |
+| 46 | Daion | Power Mark X-B | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
+| 46 | Daion | Power Mark X-B | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
 
 {{< /table >}}
