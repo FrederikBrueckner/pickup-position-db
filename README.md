@@ -42,6 +42,7 @@ The structure of the elements is:
  * **scale**: Numeric. Optional. The scale of the bass in inch. If ommited every measurement requires a **scale** element.
  * **reporter**: Text. Optional. The name/handle of the person who reported the measurement.
  * **comment**: Text. Optional. Global comment on the bass.
+ * **year**: Text. Optional. The year the bass was made. _Currently not used. Will be rendered into the make._
  * **measurements**: Array of objects.
     * **description**: Text. Mandatory. Description of the measurement.
     * **value**: Numeric. Mandatory. Value of the measurement (in cm) from the 12th fret.
