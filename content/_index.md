@@ -3,7 +3,7 @@ title: Pickup Position DB
 modules: ["simple-datatables"]
 ---
 
-A modest searchable and sortable list of Pickup measurements. Mostly compiled by the good people of [bassic.de](https://www.bassic.de/threads/pu-positions-database.14789156/).
+A modest searchable and sortable list of pickup measurements. Mostly compiled by the good people of [bassic.de](https://www.bassic.de/threads/pu-positions-database.14789156/).
 
 The list below consists of:
 
@@ -157,5 +157,44 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 58 | von Paris | Piccolo (1999) | 30.0 | Bridge | 38.4 | 1.28 | 43.5 | 41.0 | 38.4 | Papa | Only the middle of the humbucker was measured |
 | 59 | Yamaha | BBG4S II (2001) | 34.0 | Neck | 29.7 | 0.8735 | 29.7 | 28.0 | 26.2 | Seven Basses | Only the middle of the humbucker was measured |
 | 59 | Yamaha | BBG4S II (2001) | 34.0 | Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | Seven Basses | Only the middle of the humbucker was measured |
+| 60 | Basscollection | SB301 | 34.0 | P: Neck E/A | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | mulhofa |  |
+| 60 | Basscollection | SB301 | 34.0 | P: Neck D/G | 32.0 | 0.9412 | 32.0 | 30.1 | 28.2 | mulhofa |  |
+| 60 | Basscollection | SB301 | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | mulhofa |  |
+| 61 | Squier Hohner | Frankenstein | 34.0 | P: Neck E/A | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | EMUBASS |  |
+| 61 | Squier Hohner | Frankenstein | 34.0 | P: Neck D/G | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | EMUBASS |  |
+| 61 | Squier Hohner | Frankenstein | 34.0 | J: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | EMUBASS |  |
+| 62 | Warwick | Streamer LX-4 | 34.0 | P: Neck E/A | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | Doschd |  |
+| 62 | Warwick | Streamer LX-4 | 34.0 | P: Neck D/G | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | Doschd |  |
+| 62 | Warwick | Streamer LX-4 | 34.0 | J: Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Doschd |  |
+| 63 | Warwick | Streamer One MEC (1990) | 34.0 | P: Neck E/A | 33.2 | 0.9765 | 33.2 | 31.2 | 29.3 | EMUBASS |  |
+| 63 | Warwick | Streamer One MEC (1990) | 34.0 | P: Neck D/G | 30.3 | 0.8912 | 30.3 | 28.5 | 26.7 | EMUBASS |  |
+| 63 | Warwick | Streamer One MEC (1990) | 34.0 | J: Bridge | 38.7 | 1.1382 | 38.7 | 36.4 | 34.1 | EMUBASS |  |
+| 64 | Warwick | Fortress One MEC (1993) | 34.0 | P: Neck E/A | 30.4 | 0.8941 | 30.4 | 28.6 | 26.8 | EMUBASS |  |
+| 64 | Warwick | Fortress One MEC (1993) | 34.0 | P: Neck D/G | 33.3 | 0.9794 | 33.3 | 31.3 | 29.4 | EMUBASS |  |
+| 64 | Warwick | Fortress One MEC (1993) | 34.0 | J: Bridge | 38.9 | 1.1441 | 38.9 | 36.6 | 34.3 | EMUBASS |  |
+| 65 | Warwick | Fortress One | 34.0 | P: Neck E/A | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | Doschd |  |
+| 65 | Warwick | Fortress One | 34.0 | P: Neck D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | Doschd |  |
+| 65 | Warwick | Fortress One | 34.0 | J: Bridge | 41.0 | 1.2059 | 41.0 | 38.6 | 36.2 | Doschd | Measurment was marked as questionable in the old list |
+| 66 | HotWire | Prezzman (2005) | 34.0 | P: Neck E/A | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | olebass |  |
+| 66 | HotWire | Prezzman (2005) | 34.0 | P: Neck D/G | 31.5 | 0.9265 | 31.5 | 29.6 | 27.8 | olebass |  |
+| 66 | HotWire | Prezzman (2005) | 34.0 | J: Bridge | 37.2 | 1.0941 | 37.2 | 35.0 | 32.8 | olebass |  |
+| 67 | Ibanez | Destroyer DT650 (1982) | 34.0 | P: Neck E/A | 25.0 | 0.7353 | 25.0 | 23.5 | 22.1 | boeb |  |
+| 67 | Ibanez | Destroyer DT650 (1982) | 34.0 | P: Neck D/G | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | boeb |  |
+| 67 | Ibanez | Destroyer DT650 (1982) | 34.0 | J: Bridge | 35.5 | 1.0441 | 35.5 | 33.4 | 31.3 | boeb |  |
+| 68 | Fender | Vintage Hot Rod 70s Jazz Bass | 34.0 | P: Neck E/A | 25.8 | 0.7588 | 25.8 | 24.3 | 22.8 | Xaver |  |
+| 68 | Fender | Vintage Hot Rod 70s Jazz Bass | 34.0 | P: Neck D/G | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | Xaver |  |
+| 68 | Fender | Vintage Hot Rod 70s Jazz Bass | 34.0 | J: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | Xaver |  |
+| 69 | Yamaha | BB414 | 34.0 | P: Neck E/A | 27.8 | 0.8176 | 27.8 | 26.2 | 24.5 | stoneface |  |
+| 69 | Yamaha | BB414 | 34.0 | P: Neck D/G | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | stoneface |  |
+| 69 | Yamaha | BB414 | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | stoneface |  |
+| 70 | Ibanez | Blazer | 34.0 | P: Neck E/A | 25.7 | 0.7559 | 25.7 | 24.2 | 22.7 | mosys |  |
+| 70 | Ibanez | Blazer | 34.0 | P: Neck D/G | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | mosys |  |
+| 70 | Ibanez | Blazer | 34.0 | J: Bridge | 35.9 | 1.0559 | 35.9 | 33.8 | 31.7 | mosys |  |
+| 71 | Yamaha | BB1024X (2012) | 34.0 | P: Neck E/A | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | Seven Basses |  |
+| 71 | Yamaha | BB1024X (2012) | 34.0 | P: Neck D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | Seven Basses |  |
+| 71 | Yamaha | BB1024X (2012) | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | Seven Basses |  |
+| 72 | Squier | Affinity P (2014) | 34.0 | P: Neck E/A | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | Seven Basses | with EMG GZR |
+| 72 | Squier | Affinity P (2014) | 34.0 | P: Neck D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | Seven Basses | with EMG GZR |
+| 72 | Squier | Affinity P (2014) | 34.0 | J: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | Seven Basses | with EMG GZR |
 
 {{< /table >}}

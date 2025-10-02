@@ -3,7 +3,7 @@ title: Pickup Position DB
 modules: ["simple-datatables"]
 ---
 
-A modest searchable and sortable list of Pickup measurements. Mostly compiled by the good people of [bassic.de](https://www.bassic.de/threads/pu-positions-database.14789156/).
+A modest searchable and sortable list of pickup measurements. Mostly compiled by the good people of [bassic.de](https://www.bassic.de/threads/pu-positions-database.14789156/).
 
 The list below consists of:
 

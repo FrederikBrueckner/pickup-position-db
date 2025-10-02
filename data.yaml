@@ -697,3 +697,174 @@
       value: 29.7
     - description: Bridge
       value: 37.7
+
+- brand: Basscollection
+  make: SB301
+  year:
+  reporter: mulhofa
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 29.5
+    - description: "P: Neck D/G"
+      value: 32
+    - description: "J: Bridge"
+      value: 37.5
+
+- brand: Squier Hohner
+  make: Frankenstein
+  year:
+  reporter: EMUBASS
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 26.9
+    - description: "P: Neck D/G"
+      value: 30
+    - description: "J: Bridge"
+      value: 38
+
+- brand: Warwick
+  make: Streamer LX-4
+  year:
+  reporter: Doschd
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 33
+    - description: "P: Neck D/G"
+      value: 30
+    - description: "J: Bridge"
+      value: 38.5
+
+- brand: Warwick
+  make: Streamer One MEC
+  year: 1990
+  reporter: EMUBASS
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 33.2
+    - description: "P: Neck D/G"
+      value: 30.3
+    - description: "J: Bridge"
+      value: 38.7
+
+- brand: Warwick
+  make: Fortress One MEC
+  year: 1993
+  reporter: EMUBASS
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 30.4
+    - description: "P: Neck D/G"
+      value: 33.3
+    - description: "J: Bridge"
+      value: 38.9
+
+- brand: Warwick
+  make: Fortress One
+  year:
+  reporter: Doschd
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 30
+    - description: "P: Neck D/G"
+      value: 33
+    - description: "J: Bridge"
+      value: 41
+      comment: Measurment was marked as questionable in the old list
+
+- brand: HotWire
+  make: Prezzman
+  year: 2005
+  reporter: olebass
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 28.5
+    - description: "P: Neck D/G"
+      value: 31.5
+    - description: "J: Bridge"
+      value: 37.2
+
+- brand: Ibanez
+  make: Destroyer DT650
+  year: 1982
+  reporter: boeb
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 25
+    - description: "P: Neck D/G"
+      value: 28.2
+    - description: "J: Bridge"
+      value: 35.5
+
+- brand: Fender
+  make: Vintage Hot Rod 70s Jazz Bass
+  year:
+  reporter: Xaver
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 25.8
+    - description: "P: Neck D/G"
+      value: 28.5
+    - description: "J: Bridge"
+      value: 38
+
+- brand: Yamaha
+  make: BB414
+  year:
+  reporter: stoneface
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 27.8
+    - description: "P: Neck D/G"
+      value: 30.9
+    - description: "J: Bridge"
+      value: 37.5
+
+- brand: Ibanez
+  make: Blazer
+  year:
+  reporter: mosys
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 25.7
+    - description: "P: Neck D/G"
+      value: 28.5
+    - description: "J: Bridge"
+      value: 35.9
+
+- brand: Yamaha
+  make: BB1024X
+  year: 2012
+  reporter: Seven Basses
+  scale: 34
+  measurements:
+    - description: "P: Neck E/A"
+      value: 28
+    - description: "P: Neck D/G"
+      value: 31
+    - description: "J: Bridge"
+      value: 37.5
+
+- brand: Squier
+  make: Affinity P
+  year: 2014
+  reporter: Seven Basses
+  scale: 34
+  comment: with EMG GZR
+  measurements:
+    - description: "P: Neck E/A"
+      value: 28
+    - description: "P: Neck D/G"
+      value: 31
+    - description: "J: Bridge"
+      value: 38
