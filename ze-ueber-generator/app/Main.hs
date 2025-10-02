@@ -4,11 +4,14 @@
 
 module Main where
 
+import           Data.Aeson.Types       (typeMismatch)
 import           Data.List              (intersperse)
 import           Data.Maybe             (fromMaybe, catMaybes)
+import qualified Data.Scientific     as DS
 import           Data.Text              (Text, unpack)
 import qualified Data.Text           as T
-import           Data.Yaml              (FromJSON(..), withObject, decodeFileThrow, (.:), (.:?))
+import           Data.Yaml              (FromJSON(..), withObject, decodeFileThrow, (.:), (.:?), Value(String, Number))
+import qualified Data.Yaml           as Yaml
 
 import           Options.Applicative    (execParser, strOption, long, metavar, help, info, fullDesc)
 import qualified Options.Applicative as OA
@@ -64,7 +67,7 @@ mkTable lineData = concat . intersperse "\n" $ headerLine : separatorLine : data
 columns :: [(String, LineData -> String)]
 columns = [ (" # "             , show . ld'instrumentID)
           , ("Brand"           , unpack . ld'brand)
-          , ("Make"            , unpack . ld'make)
+          , ("Make"            , make)
           , ("Scale (inch)"    , show . ld'scale)
           , ("Pickup/Coil"     , unpack . ld'description)
           , ("Measurement (cm)", show . ld'value)
@@ -77,6 +80,8 @@ columns = [ (" # "             , show . ld'instrumentID)
           ]
   where
     normalized LineData{..} = truncate' 4 $ ld'value / ld'scale
+
+    make LineData{..} = unpack $ T.concat [ld'make, maybe "" (\y -> " (" <> y <> ")") ld'year]
 
     targeted target = truncate' 1 . (*target) . normalized
 
@@ -109,6 +114,7 @@ toLineData = concat . map (uncurry singleInstrument) . zip [1..]
             ld'comment      = case catMaybes [yi'comment, ym'comment] of
                                 [] -> Nothing
                                 cs -> Just $ T.concat $ intersperse ". " cs
+            ld'year         = yi'year
 
 data LineData = LineData {
       ld'instrumentID :: Int
@@ -119,6 +125,7 @@ data LineData = LineData {
     , ld'value        :: Float
     , ld'reporter     :: Maybe Text
     , ld'comment      :: Maybe Text
+    , ld'year         :: Maybe Text
     } deriving (Show)
 
 -- representation of parsed data
@@ -144,7 +151,10 @@ data Yaml'Instrument = Yaml'Instrument {
     , yi'reporter     :: Maybe Text
     , yi'comment      :: Maybe Text
     , yi'measurements :: [Yaml'Measurment]
+    , yi'year         :: Maybe Text
     } deriving (Show)
+
+
 
 instance FromJSON Yaml'Instrument where
   parseJSON = withObject "Instrument" $ \o ->
@@ -154,3 +164,12 @@ instance FromJSON Yaml'Instrument where
                                 <*> o .:? "reporter"
                                 <*> o .:? "comment"
                                 <*> o .:  "measurements"
+                                <*> (o .:? "year" >>= numOrStringToText)
+    where
+      numOrStringToText :: Maybe Value -> Yaml.Parser (Maybe Text)
+      numOrStringToText Nothing  = pure Nothing
+      numOrStringToText (Just x) = inner x
+        where
+          inner (Number scientific) = pure $ Just $ T.pack $ DS.formatScientific DS.Fixed (Just 0) scientific
+          inner (String t)          = pure $ Just $ t
+          inner e                   = typeMismatch "Number or String" e

@@ -31,96 +31,96 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 3 | Fender | USA Jazz Standard S1 | 34.0 | J: Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | lenni |  |
 | 4 | Fender | CIJ Jazz Bass 62-83US | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | griznak |  |
 | 4 | Fender | CIJ Jazz Bass 62-83US | 34.0 | J: Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | griznak |  |
-| 5 | Fender | Jazzbass Fretless | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | EMUBASS |  |
-| 5 | Fender | Jazzbass Fretless | 34.0 | J: Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | EMUBASS |  |
-| 6 | Fender | Fender JB Special Edition 70s Spacing | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | BassManni |  |
-| 6 | Fender | Fender JB Special Edition 70s Spacing | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | BassManni |  |
+| 5 | Fender | Jazzbass Fretless (1998) | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | EMUBASS |  |
+| 5 | Fender | Jazzbass Fretless (1998) | 34.0 | J: Bridge | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | EMUBASS |  |
+| 6 | Fender | Fender JB Special Edition 70s Spacing (1982?) | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | BassManni |  |
+| 6 | Fender | Fender JB Special Edition 70s Spacing (1982?) | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | BassManni |  |
 | 7 | Johnson | Jazzbass | 34.0 | J: Neck | 27.8 | 0.8176 | 27.8 | 26.2 | 24.5 | BigB |  |
 | 7 | Johnson | Jazzbass | 34.0 | J: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | BigB |  |
 | 8 | Warwick | Streamer Stage 2 (2 J-Singlecoils) | 34.0 | J: Neck | 31.4 | 0.9235 | 31.4 | 29.6 | 27.7 | jam_bass |  |
 | 8 | Warwick | Streamer Stage 2 (2 J-Singlecoils) | 34.0 | J: Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | jam_bass |  |
-| 9 | Fender | Jaguar Deluxe MIJ | 34.0 | J: Neck | 27.4 | 0.8059 | 27.4 | 25.8 | 24.2 | stoneface |  |
-| 9 | Fender | Jaguar Deluxe MIJ | 34.0 | J: Bridge | 38.9 | 1.1441 | 38.9 | 36.6 | 34.3 | stoneface |  |
-| 10 | Fenix | Jazzbass | 34.0 | J: Neck | 27.6 | 0.8118 | 27.6 | 26.0 | 24.4 | stoneface |  |
-| 10 | Fenix | Jazzbass | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | stoneface |  |
-| 11 | Guilber | ??? | 34.0 | J: Neck | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
-| 11 | Guilber | ??? | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | stoneface |  |
-| 12 | Fender | Victor Nailey JB | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | olebass |  |
-| 12 | Fender | Victor Nailey JB | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | olebass |  |
+| 9 | Fender | Jaguar Deluxe MIJ (2014) | 34.0 | J: Neck | 27.4 | 0.8059 | 27.4 | 25.8 | 24.2 | stoneface |  |
+| 9 | Fender | Jaguar Deluxe MIJ (2014) | 34.0 | J: Bridge | 38.9 | 1.1441 | 38.9 | 36.6 | 34.3 | stoneface |  |
+| 10 | Fenix | Jazzbass (1989) | 34.0 | J: Neck | 27.6 | 0.8118 | 27.6 | 26.0 | 24.4 | stoneface |  |
+| 10 | Fenix | Jazzbass (1989) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | stoneface |  |
+| 11 | Guilber | ??? (1992) | 34.0 | J: Neck | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
+| 11 | Guilber | ??? (1992) | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | stoneface |  |
+| 12 | Fender | Victor Nailey JB (2007) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | olebass |  |
+| 12 | Fender | Victor Nailey JB (2007) | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | olebass |  |
 | 13 | Lodestone | Primal Artist V JB | 34.0 | J: Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
 | 13 | Lodestone | Primal Artist V JB | 34.0 | J: Bridge | 37.0 | 1.0882 | 37.0 | 34.8 | 32.6 | olebass |  |
-| 14 | Sandberg | California JM V | 34.0 | J: Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
-| 14 | Sandberg | California JM V | 34.0 | J: Bridge | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | olebass |  |
-| 15 | Vester | Clipper IV | 34.0 | J: Neck | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | olebass |  |
-| 15 | Vester | Clipper IV | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | olebass |  |
-| 16 | Yamaha | BB Standard | 34.0 | J: Neck | 27.2 | 0.8 | 27.2 | 25.6 | 24.0 | Youth |  |
-| 16 | Yamaha | BB Standard | 34.0 | J: Bridge | 36.4 | 1.0706 | 36.4 | 34.3 | 32.1 | Youth |  |
+| 14 | Sandberg | California JM V (2005) | 34.0 | J: Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
+| 14 | Sandberg | California JM V (2005) | 34.0 | J: Bridge | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | olebass |  |
+| 15 | Vester | Clipper IV (1990) | 34.0 | J: Neck | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | olebass |  |
+| 15 | Vester | Clipper IV (1990) | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | olebass |  |
+| 16 | Yamaha | BB Standard (1997) | 34.0 | J: Neck | 27.2 | 0.8 | 27.2 | 25.6 | 24.0 | Youth |  |
+| 16 | Yamaha | BB Standard (1997) | 34.0 | J: Bridge | 36.4 | 1.0706 | 36.4 | 34.3 | 32.1 | Youth |  |
 | 17 | Yamaha | BB604 | 34.0 | J: Neck | 30.5 | 0.8971 | 30.5 | 28.7 | 26.9 | Youth |  |
 | 17 | Yamaha | BB604 | 34.0 | J: Bridge | 38.2 | 1.1235 | 38.2 | 36.0 | 33.7 | Youth |  |
 | 18 | Fender | Jaguar MIJ | 34.0 | J: Neck | 27.3 | 0.8029 | 27.3 | 25.7 | 24.1 | Youth |  |
 | 18 | Fender | Jaguar MIJ | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | Youth |  |
-| 19 | BolleBass | Corinna | 32.67 | J: Neck | 27.9 | 0.854 | 29.0 | 27.3 | 25.6 | bassilisk |  |
-| 19 | BolleBass | Corinna | 32.67 | J: Bridge | 36.9 | 1.1295 | 38.4 | 36.1 | 33.9 | bassilisk |  |
-| 20 | Sandberg | TT | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Seven Basses |  |
-| 20 | Sandberg | TT | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | Seven Basses |  |
-| 21 | Marleaux | Votan X-Tra | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | Seven Basses |  |
-| 21 | Marleaux | Votan X-Tra | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Seven Basses |  |
+| 19 | BolleBass | Corinna (2020) | 32.67 | J: Neck | 27.9 | 0.854 | 29.0 | 27.3 | 25.6 | bassilisk |  |
+| 19 | BolleBass | Corinna (2020) | 32.67 | J: Bridge | 36.9 | 1.1295 | 38.4 | 36.1 | 33.9 | bassilisk |  |
+| 20 | Sandberg | TT (2013) | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Seven Basses |  |
+| 20 | Sandberg | TT (2013) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | Seven Basses |  |
+| 21 | Marleaux | Votan X-Tra (2017) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | Seven Basses |  |
+| 21 | Marleaux | Votan X-Tra (2017) | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Seven Basses |  |
 | 22 | Squier | Affinity Precision - 20th Anniversary | 34.0 | P: E/A | 28.1 | 0.8265 | 28.1 | 26.4 | 24.8 | Axel |  |
 | 22 | Squier | Affinity Precision - 20th Anniversary | 34.0 | P: D/G | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | Axel |  |
 | 23 | Self-Built | Precision | 34.0 | P: E/A | 28.1 | 0.8265 | 28.1 | 26.4 | 24.8 | stoneface |  |
 | 23 | Self-Built | Precision | 34.0 | P: D/G | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | stoneface |  |
-| 24 | Fender | Precision Road Worn | 34.0 | P: E/A | 28.4 | 0.8353 | 28.4 | 26.7 | 25.1 | indian66 |  |
-| 24 | Fender | Precision Road Worn | 34.0 | P: D/G | 31.1 | 0.9147 | 31.1 | 29.3 | 27.4 | indian66 |  |
-| 25 | Fender | Precision | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | Nick McNoise |  |
-| 25 | Fender | Precision | 34.0 | P: D/G | 30.8 | 0.9059 | 30.8 | 29.0 | 27.2 | Nick McNoise |  |
-| 26 | Fender | 51 Model CIJ (Singlecoil) | 34.0 | P Singlecoil | 26.2 | 0.7706 | 26.2 | 24.7 | 23.1 |  |  |
-| 27 | Aria | Pro II RSB-Deluxe (Revers P) | 34.0 | P: E/A | 33.8 | 0.9941 | 33.8 | 31.8 | 29.8 | Youth |  |
-| 27 | Aria | Pro II RSB-Deluxe (Revers P) | 34.0 | P: D/G | 32.1 | 0.9441 | 32.1 | 30.2 | 28.3 | Youth |  |
-| 28 | Fenix | Precision | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | mosys |  |
-| 28 | Fenix | Precision | 34.0 | P: D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | mosys |  |
-| 29 | Travis Bean | TB 2000 | 33.25 | SC: Neck | 18.9 | 0.5684 | 19.3 | 18.2 | 17.1 | quarkfrosch |  |
-| 29 | Travis Bean | TB 2000 | 33.25 | SC: Bridge | 32.0 | 0.9624 | 32.7 | 30.8 | 28.9 | quarkfrosch |  |
-| 30 | Kramer | XKB-20 | 33.75 | P: E/A | 27.4 | 0.8119 | 27.6 | 26.0 | 24.4 | quarkfrosch |  |
-| 30 | Kramer | XKB-20 | 33.75 | P: D/G | 30.4 | 0.9007 | 30.6 | 28.8 | 27.0 | quarkfrosch |  |
-| 31 | Vantage | VP-795B | 33.25 | P: Neck E/A | 22.3 | 0.6707 | 22.8 | 21.5 | 20.1 | quarkfrosch |  |
-| 31 | Vantage | VP-795B | 33.25 | P: Neck D/G | 25.7 | 0.7729 | 26.3 | 24.7 | 23.2 | quarkfrosch |  |
-| 31 | Vantage | VP-795B | 33.25 | P: Bridge E/A | 31.7 | 0.9534 | 32.4 | 30.5 | 28.6 | quarkfrosch |  |
-| 31 | Vantage | VP-795B | 33.25 | P: Bridge D/G | 34.6 | 1.0406 | 35.4 | 33.3 | 31.2 | quarkfrosch |  |
-| 32 | Warwick | Corvette Std | 34.0 | J: Neck | 29.8 | 0.8765 | 29.8 | 28.0 | 26.3 | quarkfrosch |  |
-| 32 | Warwick | Corvette Std | 34.0 | 2J: Bridge Coil 1 | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | quarkfrosch |  |
-| 32 | Warwick | Corvette Std | 34.0 | 2J: Bridge Coil 2 | 40.4 | 1.1882 | 40.4 | 38.0 | 35.6 | quarkfrosch |  |
-| 33 | Warwick | Fortress One | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
-| 33 | Warwick | Fortress One | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
-| 33 | Warwick | Fortress One | 34.0 | J: Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | quarkfrosch |  |
-| 34 | Charvel | 2B | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | quarkfrosch |  |
-| 34 | Charvel | 2B | 34.0 | P: D/G | 31.2 | 0.9176 | 31.2 | 29.4 | 27.5 | quarkfrosch |  |
-| 34 | Charvel | 2B | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | quarkfrosch |  |
-| 35 | Fenix | P-Bass | 34.0 | P: E/A | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | quarkfrosch |  |
-| 35 | Fenix | P-Bass | 34.0 | P: D/G | 31.1 | 0.9147 | 31.1 | 29.3 | 27.4 | quarkfrosch |  |
-| 35 | Fenix | P-Bass | 34.0 | J: Bridge | 38.4 | 1.1294 | 38.4 | 36.1 | 33.9 | quarkfrosch |  |
-| 36 | Fenix | Jazz-Bass | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
-| 36 | Fenix | Jazz-Bass | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
-| 37 | Fenix | Jazz-Bass V | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
-| 37 | Fenix | Jazz-Bass V | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
-| 38 | Squier | Jaguar VM | 30.0 | P: E/A | 22.8 | 0.76 | 25.8 | 24.3 | 22.8 | quarkfrosch |  |
-| 38 | Squier | Jaguar VM | 30.0 | P: D/G | 25.8 | 0.86 | 29.2 | 27.5 | 25.8 | quarkfrosch |  |
-| 38 | Squier | Jaguar VM | 30.0 | J: Bridge | 33.7 | 1.1233 | 38.2 | 35.9 | 33.7 | quarkfrosch |  |
-| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Neck Coil 1 | 27.9 | 0.8146 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
-| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Neck Coil 2 | 20.5 | 0.5985 | 20.3 | 19.2 | 18.0 | quarkfrosch |  |
-| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Bridge Coil 1 | 36.7 | 1.0715 | 36.4 | 34.3 | 32.1 | quarkfrosch |  |
-| 39 | Mayones | Slogan Classic 4 | 34.25 | HB: Bridge Coil 2 | 39.3 | 1.1474 | 39.0 | 36.7 | 34.4 | quarkfrosch |  |
-| 40 | OLP | Tony Levin 5 | 34.0 | MM: Bridge Coil 1 | 33.9 | 0.9971 | 33.9 | 31.9 | 29.9 | quarkfrosch |  |
-| 40 | OLP | Tony Levin 5 | 34.0 | MM: Bridge Coil 2 | 39.2 | 1.1529 | 39.2 | 36.9 | 34.6 | quarkfrosch |  |
-| 41 | Bass Collection | SB302 PWH | 34.25 | P: E/A | 30.1 | 0.8788 | 29.9 | 28.1 | 26.4 | quarkfrosch |  |
-| 41 | Bass Collection | SB302 PWH | 34.25 | P: D/G | 33.2 | 0.9693 | 33.0 | 31.0 | 29.1 | quarkfrosch |  |
-| 41 | Bass Collection | SB302 PWH | 34.25 | J: Bridge | 38.1 | 1.1124 | 37.8 | 35.6 | 33.4 | quarkfrosch |  |
-| 42 | Wotan | Shark | 34.5 | P: Neck E/A | 21.0 | 0.6087 | 20.7 | 19.5 | 18.3 | quarkfrosch |  |
-| 42 | Wotan | Shark | 34.5 | P: Neck D/G | 23.7 | 0.687 | 23.4 | 22.0 | 20.6 | quarkfrosch |  |
-| 42 | Wotan | Shark | 34.5 | P: Bridge E/A | 34.2 | 0.9913 | 33.7 | 31.7 | 29.7 | quarkfrosch |  |
-| 42 | Wotan | Shark | 34.5 | P: Bridge D/G | 37.7 | 1.0928 | 37.2 | 35.0 | 32.8 | quarkfrosch |  |
-| 43 | Kramer | DMZ 5000 | 33.75 | P: Neck E/A | 27.5 | 0.8148 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
-| 43 | Kramer | DMZ 5000 | 33.75 | P: Neck D/G | 30.3 | 0.8978 | 30.5 | 28.7 | 26.9 | quarkfrosch |  |
-| 43 | Kramer | DMZ 5000 | 33.75 | J: Bridge | 39.0 | 1.1556 | 39.3 | 37.0 | 34.7 | quarkfrosch |  |
+| 24 | Fender | Precision Road Worn (2011) | 34.0 | P: E/A | 28.4 | 0.8353 | 28.4 | 26.7 | 25.1 | indian66 |  |
+| 24 | Fender | Precision Road Worn (2011) | 34.0 | P: D/G | 31.1 | 0.9147 | 31.1 | 29.3 | 27.4 | indian66 |  |
+| 25 | Fender | Precision (1972) | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | Nick McNoise |  |
+| 25 | Fender | Precision (1972) | 34.0 | P: D/G | 30.8 | 0.9059 | 30.8 | 29.0 | 27.2 | Nick McNoise |  |
+| 26 | Fender | 51 Model CIJ (Singlecoil) (2006) | 34.0 | P Singlecoil | 26.2 | 0.7706 | 26.2 | 24.7 | 23.1 |  |  |
+| 27 | Aria | Pro II RSB-Deluxe (Revers P) (1983) | 34.0 | P: E/A | 33.8 | 0.9941 | 33.8 | 31.8 | 29.8 | Youth |  |
+| 27 | Aria | Pro II RSB-Deluxe (Revers P) (1983) | 34.0 | P: D/G | 32.1 | 0.9441 | 32.1 | 30.2 | 28.3 | Youth |  |
+| 28 | Fenix | Precision (1991) | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | mosys |  |
+| 28 | Fenix | Precision (1991) | 34.0 | P: D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | mosys |  |
+| 29 | Travis Bean | TB 2000 (1977) | 33.25 | SC: Neck | 18.9 | 0.5684 | 19.3 | 18.2 | 17.1 | quarkfrosch |  |
+| 29 | Travis Bean | TB 2000 (1977) | 33.25 | SC: Bridge | 32.0 | 0.9624 | 32.7 | 30.8 | 28.9 | quarkfrosch |  |
+| 30 | Kramer | XKB-20 (1980) | 33.75 | P: E/A | 27.4 | 0.8119 | 27.6 | 26.0 | 24.4 | quarkfrosch |  |
+| 30 | Kramer | XKB-20 (1980) | 33.75 | P: D/G | 30.4 | 0.9007 | 30.6 | 28.8 | 27.0 | quarkfrosch |  |
+| 31 | Vantage | VP-795B (1979) | 33.25 | P: Neck E/A | 22.3 | 0.6707 | 22.8 | 21.5 | 20.1 | quarkfrosch |  |
+| 31 | Vantage | VP-795B (1979) | 33.25 | P: Neck D/G | 25.7 | 0.7729 | 26.3 | 24.7 | 23.2 | quarkfrosch |  |
+| 31 | Vantage | VP-795B (1979) | 33.25 | P: Bridge E/A | 31.7 | 0.9534 | 32.4 | 30.5 | 28.6 | quarkfrosch |  |
+| 31 | Vantage | VP-795B (1979) | 33.25 | P: Bridge D/G | 34.6 | 1.0406 | 35.4 | 33.3 | 31.2 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std (2003) | 34.0 | J: Neck | 29.8 | 0.8765 | 29.8 | 28.0 | 26.3 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std (2003) | 34.0 | 2J: Bridge Coil 1 | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | quarkfrosch |  |
+| 32 | Warwick | Corvette Std (2003) | 34.0 | 2J: Bridge Coil 2 | 40.4 | 1.1882 | 40.4 | 38.0 | 35.6 | quarkfrosch |  |
+| 33 | Warwick | Fortress One (1994) | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
+| 33 | Warwick | Fortress One (1994) | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
+| 33 | Warwick | Fortress One (1994) | 34.0 | J: Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | quarkfrosch |  |
+| 34 | Charvel | 2B (1988) | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | quarkfrosch |  |
+| 34 | Charvel | 2B (1988) | 34.0 | P: D/G | 31.2 | 0.9176 | 31.2 | 29.4 | 27.5 | quarkfrosch |  |
+| 34 | Charvel | 2B (1988) | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | quarkfrosch |  |
+| 35 | Fenix | P-Bass (1991) | 34.0 | P: E/A | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | quarkfrosch |  |
+| 35 | Fenix | P-Bass (1991) | 34.0 | P: D/G | 31.1 | 0.9147 | 31.1 | 29.3 | 27.4 | quarkfrosch |  |
+| 35 | Fenix | P-Bass (1991) | 34.0 | J: Bridge | 38.4 | 1.1294 | 38.4 | 36.1 | 33.9 | quarkfrosch |  |
+| 36 | Fenix | Jazz-Bass (1994) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
+| 36 | Fenix | Jazz-Bass (1994) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
+| 37 | Fenix | Jazz-Bass V (1992) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
+| 37 | Fenix | Jazz-Bass V (1992) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM (2014) | 30.0 | P: E/A | 22.8 | 0.76 | 25.8 | 24.3 | 22.8 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM (2014) | 30.0 | P: D/G | 25.8 | 0.86 | 29.2 | 27.5 | 25.8 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM (2014) | 30.0 | J: Bridge | 33.7 | 1.1233 | 38.2 | 35.9 | 33.7 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 (2009) | 34.25 | HB: Neck Coil 1 | 27.9 | 0.8146 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 (2009) | 34.25 | HB: Neck Coil 2 | 20.5 | 0.5985 | 20.3 | 19.2 | 18.0 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 (2009) | 34.25 | HB: Bridge Coil 1 | 36.7 | 1.0715 | 36.4 | 34.3 | 32.1 | quarkfrosch |  |
+| 39 | Mayones | Slogan Classic 4 (2009) | 34.25 | HB: Bridge Coil 2 | 39.3 | 1.1474 | 39.0 | 36.7 | 34.4 | quarkfrosch |  |
+| 40 | OLP | Tony Levin 5 (2005) | 34.0 | MM: Bridge Coil 1 | 33.9 | 0.9971 | 33.9 | 31.9 | 29.9 | quarkfrosch |  |
+| 40 | OLP | Tony Levin 5 (2005) | 34.0 | MM: Bridge Coil 2 | 39.2 | 1.1529 | 39.2 | 36.9 | 34.6 | quarkfrosch |  |
+| 41 | Bass Collection | SB302 PWH (1987) | 34.25 | P: E/A | 30.1 | 0.8788 | 29.9 | 28.1 | 26.4 | quarkfrosch |  |
+| 41 | Bass Collection | SB302 PWH (1987) | 34.25 | P: D/G | 33.2 | 0.9693 | 33.0 | 31.0 | 29.1 | quarkfrosch |  |
+| 41 | Bass Collection | SB302 PWH (1987) | 34.25 | J: Bridge | 38.1 | 1.1124 | 37.8 | 35.6 | 33.4 | quarkfrosch |  |
+| 42 | Wotan | Shark (1978) | 34.5 | P: Neck E/A | 21.0 | 0.6087 | 20.7 | 19.5 | 18.3 | quarkfrosch |  |
+| 42 | Wotan | Shark (1978) | 34.5 | P: Neck D/G | 23.7 | 0.687 | 23.4 | 22.0 | 20.6 | quarkfrosch |  |
+| 42 | Wotan | Shark (1978) | 34.5 | P: Bridge E/A | 34.2 | 0.9913 | 33.7 | 31.7 | 29.7 | quarkfrosch |  |
+| 42 | Wotan | Shark (1978) | 34.5 | P: Bridge D/G | 37.7 | 1.0928 | 37.2 | 35.0 | 32.8 | quarkfrosch |  |
+| 43 | Kramer | DMZ 5000 (1980) | 33.75 | P: Neck E/A | 27.5 | 0.8148 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
+| 43 | Kramer | DMZ 5000 (1980) | 33.75 | P: Neck D/G | 30.3 | 0.8978 | 30.5 | 28.7 | 26.9 | quarkfrosch |  |
+| 43 | Kramer | DMZ 5000 (1980) | 33.75 | J: Bridge | 39.0 | 1.1556 | 39.3 | 37.0 | 34.7 | quarkfrosch |  |
 | 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 31.1 | 0.908 | 30.9 | 29.1 | 27.2 | quarkfrosch |  |
 | 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 33.1 | 0.9664 | 32.9 | 30.9 | 29.0 | quarkfrosch |  |
 | 44 | Esh | Stinger I | 34.25 | HB: Bridge Coil 1 | 37.7 | 1.1007 | 37.4 | 35.2 | 33.0 | quarkfrosch |  |
@@ -129,7 +129,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 45 | Esh | Stinger II - V | 34.25 | HB: Neck Coil 2 | 31.0 | 0.9051 | 30.8 | 29.0 | 27.2 | quarkfrosch |  |
 | 45 | Esh | Stinger II - V | 34.25 | HB: Bridge Coil 1 | 36.8 | 1.0745 | 36.5 | 34.4 | 32.2 | quarkfrosch |  |
 | 45 | Esh | Stinger II - V | 34.25 | HB: Bridge Coil 2 | 38.8 | 1.1328 | 38.5 | 36.2 | 34.0 | quarkfrosch |  |
-| 46 | Daion | Power Mark X-B | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
-| 46 | Daion | Power Mark X-B | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
+| 46 | Daion | Power Mark X-B (1982) | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
+| 46 | Daion | Power Mark X-B (1982) | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
 
 {{< /table >}}

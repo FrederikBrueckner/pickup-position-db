@@ -75,8 +75,10 @@ executable ze-ueber-generator
 
     -- Other library packages from which modules are imported.
     build-depends:
-      , base                 ^>=4.15.1.0
+      , aeson                ^>= 2.2.3
+      , base                 ^>= 4.15.1.0
       , optparse-applicative ^>= 0.15
+      , scientific           ^>= 0.3.8
       , text                 ^>= 1.2.5
       , yaml                 ^>= 0.11.11
 
