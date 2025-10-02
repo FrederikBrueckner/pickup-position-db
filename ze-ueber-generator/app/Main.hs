@@ -71,25 +71,23 @@ columns = [ (" # "             , show . ld'instrumentID)
           , ("Scale (inch)"    , show . ld'scale)
           , ("Pickup/Coil"     , unpack . ld'description)
           , ("Measurement (cm)", show . ld'value)
-          , ("Normalized"      , show . normalized)
-          , ("Target 34 (cm)"  , show . targeted 34)
-          , ("Target 32 (cm)"  , show . targeted 32)
-          , ("Target 30 (cm)"  , show . targeted 30)
+          , ("Normalized"      , show . ld'normalized)
+          , ("Target 34 (cm)"  , targeted 34)
+          , ("Target 32 (cm)"  , targeted 32)
+          , ("Target 30 (cm)"  , targeted 30)
           , ("Reporter"        , maybe "" unpack . ld'reporter)
           , ("Comment"         , maybe "" unpack . ld'comment)
           ]
   where
-    normalized LineData{..} = truncate' 4 $ ld'value / ld'scale
-
     make LineData{..} = unpack $ T.concat [ld'make, maybe "" (\y -> " (" <> y <> ")") ld'year]
 
-    targeted target = truncate' 1 . (*target) . normalized
+    targeted target = show . truncate' 1 . (*target) . ld'normalized
 
-    truncate' :: Int -> Float -> Float
-    truncate' n x = fromIntegral y / r
-        where
-          r = 10^n
-          y = round (x * r) :: Int
+truncate' :: Int -> Float -> Float
+truncate' n x = fromIntegral y / r
+    where
+      r = 10^n
+      y = round (x * r) :: Int
 
 
 toLineData :: [Yaml'Instrument] -> [LineData]
@@ -110,6 +108,7 @@ toLineData = concat . map (uncurry singleInstrument) . zip [1..]
                                 Nothing -> fromMaybe (err "no scale defined") yi'scale
             ld'description  = ym'description
             ld'value        = ym'value
+            ld'normalized   = truncate' 4 $ ld'value / ld'scale -- truncating to 4 gives us enough precision to compute the target position with mm precision
             ld'reporter     = yi'reporter
             ld'comment      = case catMaybes [yi'comment, ym'comment] of
                                 [] -> Nothing
@@ -123,6 +122,7 @@ data LineData = LineData {
     , ld'scale        :: Float
     , ld'description  :: Text
     , ld'value        :: Float
+    , ld'normalized   :: Float
     , ld'reporter     :: Maybe Text
     , ld'comment      :: Maybe Text
     , ld'year         :: Maybe Text
