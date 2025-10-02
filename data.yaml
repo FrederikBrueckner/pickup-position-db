@@ -903,3 +903,133 @@
     - description: "J: Bridge. G-String"
       scale: 31.89
       value: 34
+
+- brand: Höfner
+  make: 500/1
+  scale: 30
+  reporter: Oli Wan
+  measurements:
+    - description: "Neck"
+      value: 34.5
+    - description: "Bridge"
+      value: 39.4
+
+- brand: Rickenbacker
+  make: 4003/V63
+  year: 1991
+  scale: 33.25
+  reporter: Oli Wan
+  measurements:
+    - description: "Neck"
+      value: 21.7
+    - description: "Bridge"
+      value: 32.7
+
+- brand: Sandberg
+  make: California MM-5
+  year:
+  scale: 35
+  reporter: Doschd
+  comment: "Only the middle of the humbucker was measured"
+  measurements:
+    - description: "Neck"
+      value: 21.7
+    - description: "Bridge"
+      value: 32.7
+
+- brand: MusicMan
+  make: Sterling 4-String
+  year:
+  scale: 34
+  reporter: Bassonovo
+  measurements:
+    - description: "MM"
+      comment: "Only the middle of the humbucker was measured"
+      value: 34.3
+
+- brand: Ibanez
+  make: ATK 300
+  year:
+  scale: 34
+  reporter: griznak
+  measurements:
+    - description: "Humbucker"
+      value: 34.7
+      comment: "Triplecoil with dummy-coil. Only the middle of the humbucker was measured"
+
+- brand: Warwick
+  make: Rockbass Corvette $$
+  year:
+  scale: 34
+  reporter: EMUBASS
+  comment: Not clear whether the model had soapbars or singlecoils.
+  measurements:
+    - description: "Neck"
+      value: 29.7
+    - description: "Bridge"
+      value: 35.7
+
+- brand: Rickenbacker
+  make: "4003"
+  year: 2010
+  scale: 33.25
+  reporter: stoneface
+  measurements:
+    - description: "Neck"
+      value: 21.6
+    - description: "Bridge"
+      value: 32.9
+
+- brand: Danelectro
+  make: "63 Longscale"
+  year:
+  scale: 34
+  reporter: Axel
+  measurements:
+    - description: "Neck"
+      value: 28.2
+    - description: "Bridge"
+      value: 38.5
+
+- brand: Career
+  make: Stingray Copy
+  year:
+  scale: 34
+  reporter: triple-U
+  measurements:
+    - description: "MM"
+      value: 34.8
+      comment: "Only the middle of the humbucker was measured"
+
+- brand: Esh
+  make: Notorious 2 V
+  year: 2005
+  scale: 34
+  reporter: olebass
+  measurements:
+    - description: "MM"
+      value: 35
+      comment: "Only the middle of the humbucker was measured"
+
+- brand: MusicMan
+  make: Stingray
+  year: 2009
+  scale: 34
+  reporter: 4enima
+  comment: There should be a newer measurement in the thread . . .
+  measurements:
+    - description: "MM"
+      value: 34.2
+      comment: "Only the middle of the humbucker was measured"
+
+- brand: Rickenbacker
+  make: 4003S5
+  year: 2019
+  scale: 33.25
+  reporter: Mc Valve
+  measurements:
+    - description: "Neck"
+      value: 21.7
+    - description: "Bridge"
+      value: 35.3
+

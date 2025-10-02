@@ -206,5 +206,24 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 73 | Dingwall | SP-1 5-string | 32.68 | J: Bridge. D-String | 35.4 | 1.0832 | 36.8 | 34.7 | 32.5 | foxtrott |  |
 | 73 | Dingwall | SP-1 5-string | 31.89 | P: Bridge-Coil. G-String | 29.0 | 0.9094 | 30.9 | 29.1 | 27.3 | foxtrott |  |
 | 73 | Dingwall | SP-1 5-string | 31.89 | J: Bridge. G-String | 34.0 | 1.0662 | 36.3 | 34.1 | 32.0 | foxtrott |  |
+| 74 | Höfner | 500/1 | 30.0 | Neck | 34.5 | 1.15 | 39.1 | 36.8 | 34.5 | Oli Wan |  |
+| 74 | Höfner | 500/1 | 30.0 | Bridge | 39.4 | 1.3133 | 44.7 | 42.0 | 39.4 | Oli Wan |  |
+| 75 | Rickenbacker | 4003/V63 (1991) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Oli Wan |  |
+| 75 | Rickenbacker | 4003/V63 (1991) | 33.25 | Bridge | 32.7 | 0.9835 | 33.4 | 31.5 | 29.5 | Oli Wan |  |
+| 76 | Sandberg | California MM-5 | 35.0 | Neck | 21.7 | 0.62 | 21.1 | 19.8 | 18.6 | Doschd | Only the middle of the humbucker was measured |
+| 76 | Sandberg | California MM-5 | 35.0 | Bridge | 32.7 | 0.9343 | 31.8 | 29.9 | 28.0 | Doschd | Only the middle of the humbucker was measured |
+| 77 | MusicMan | Sterling 4-String | 34.0 | MM | 34.3 | 1.0088 | 34.3 | 32.3 | 30.3 | Bassonovo | Only the middle of the humbucker was measured |
+| 78 | Ibanez | ATK 300 | 34.0 | Humbucker | 34.7 | 1.0206 | 34.7 | 32.7 | 30.6 | griznak | Triplecoil with dummy-coil. Only the middle of the humbucker was measured |
+| 79 | Warwick | Rockbass Corvette $$ | 34.0 | Neck | 29.7 | 0.8735 | 29.7 | 28.0 | 26.2 | EMUBASS | Not clear whether the model had soapbars or singlecoils. |
+| 79 | Warwick | Rockbass Corvette $$ | 34.0 | Bridge | 35.7 | 1.05 | 35.7 | 33.6 | 31.5 | EMUBASS | Not clear whether the model had soapbars or singlecoils. |
+| 80 | Rickenbacker | 4003 (2010) | 33.25 | Neck | 21.6 | 0.6496 | 22.1 | 20.8 | 19.5 | stoneface |  |
+| 80 | Rickenbacker | 4003 (2010) | 33.25 | Bridge | 32.9 | 0.9895 | 33.6 | 31.7 | 29.7 | stoneface |  |
+| 81 | Danelectro | 63 Longscale | 34.0 | Neck | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | Axel |  |
+| 81 | Danelectro | 63 Longscale | 34.0 | Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Axel |  |
+| 82 | Career | Stingray Copy | 34.0 | MM | 34.8 | 1.0235 | 34.8 | 32.8 | 30.7 | triple-U | Only the middle of the humbucker was measured |
+| 83 | Esh | Notorious 2 V (2005) | 34.0 | MM | 35.0 | 1.0294 | 35.0 | 32.9 | 30.9 | olebass | Only the middle of the humbucker was measured |
+| 84 | MusicMan | Stingray (2009) | 34.0 | MM | 34.2 | 1.0059 | 34.2 | 32.2 | 30.2 | 4enima | There should be a newer measurement in the thread . . .. Only the middle of the humbucker was measured |
+| 85 | Rickenbacker | 4003S5 (2019) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Mc Valve |  |
+| 85 | Rickenbacker | 4003S5 (2019) | 33.25 | Bridge | 35.3 | 1.0617 | 36.1 | 34.0 | 31.9 | Mc Valve |  |
 
 {{< /table >}}
