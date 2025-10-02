@@ -131,5 +131,31 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 45 | Esh | Stinger II - V | 34.25 | HB: Bridge Coil 2 | 38.8 | 1.1328 | 38.5 | 36.2 | 34.0 | quarkfrosch |  |
 | 46 | Daion | Power Mark X-B (1982) | 34.0 | P: E/A | 30.2 | 0.8882 | 30.2 | 28.4 | 26.6 | quarkfrosch |  |
 | 46 | Daion | Power Mark X-B (1982) | 34.0 | P: D/G | 33.0 | 0.9706 | 33.0 | 31.1 | 29.1 | quarkfrosch |  |
+| 47 | Gibson | Thunderbird (2005) | 34.0 | Neck | 26.0 | 0.7647 | 26.0 | 24.5 | 22.9 | Oli Wan | Only the middle of the humbucker was measured |
+| 47 | Gibson | Thunderbird (2005) | 34.0 | Bridge | 37.0 | 1.0882 | 37.0 | 34.8 | 32.6 | Oli Wan | Only the middle of the humbucker was measured |
+| 48 | Ibanez | TR Expressionist 500 | 34.0 | Neck | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | lenni | Only the middle of the humbucker was measured |
+| 48 | Ibanez | TR Expressionist 500 | 34.0 | Bridge | 37.0 | 1.0882 | 37.0 | 34.8 | 32.6 | lenni | Only the middle of the humbucker was measured |
+| 49 | Ibanez | SR-500 | 34.0 | Neck | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | Doschd | Only the middle of the humbucker was measured |
+| 49 | Ibanez | SR-500 | 34.0 | Bridge | 38.7 | 1.1382 | 38.7 | 36.4 | 34.1 | Doschd | Only the middle of the humbucker was measured |
+| 50 | Ibanez | BTB675 | 35.0 | Neck | 29.1 | 0.8314 | 28.3 | 26.6 | 24.9 | TheBrian | Only the middle of the humbucker was measured |
+| 50 | Ibanez | BTB675 | 35.0 | Bridge | 38.4 | 1.0971 | 37.3 | 35.1 | 32.9 | TheBrian | Only the middle of the humbucker was measured |
+| 51 | Lakland | Skyline 55-01 | 35.0 | Neck | 27.6 | 0.7886 | 26.8 | 25.2 | 23.7 | EMUBASS | Only the middle of the humbucker was measured. Bartolini Humbucker |
+| 51 | Lakland | Skyline 55-01 | 35.0 | Bridge | 35.9 | 1.0257 | 34.9 | 32.8 | 30.8 | EMUBASS | Only the middle of the humbucker was measured. Bartolini Humbucker |
+| 52 | Epiphone | Thunderbird Classic IV Pro (2015) | 34.0 | Neck | 25.7 | 0.7559 | 25.7 | 24.2 | 22.7 | stoneface | Only the middle of the humbucker was measured |
+| 52 | Epiphone | Thunderbird Classic IV Pro (2015) | 34.0 | Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | stoneface | Only the middle of the humbucker was measured |
+| 53 | Esh | Sovereign | 34.0 | Neck | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | Stratitis | Only the middle of the humbucker was measured. Soapbar, EMG35DC |
+| 53 | Esh | Sovereign | 34.0 | Bridge | 36.4 | 1.0706 | 36.4 | 34.3 | 32.1 | Stratitis | Only the middle of the humbucker was measured. Soapbar, EMG35DC |
+| 54 | Epiphone | Thunderbird Classic IV Pro (2018) | 34.0 | Neck | 25.7 | 0.7559 | 25.7 | 24.2 | 22.7 | indian66 | Only the middle of the humbucker was measured |
+| 54 | Epiphone | Thunderbird Classic IV Pro (2018) | 34.0 | Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | indian66 | Only the middle of the humbucker was measured |
+| 55 | Esh | Sovereign V | 34.0 | Neck | 31.8 | 0.9353 | 31.8 | 29.9 | 28.1 | aBaxxi | Only the middle of the humbucker was measured. Soapbar. Probably BD5S |
+| 55 | Esh | Sovereign V | 34.0 | Bridge | 38.3 | 1.1265 | 38.3 | 36.0 | 33.8 | aBaxxi | Only the middle of the humbucker was measured. Soapbar. Probably BD5S |
+| 56 | Ibanez | RB850 (1986) | 34.0 | Neck | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | boeb | Only the middle of the humbucker was measured |
+| 56 | Ibanez | RB850 (1986) | 34.0 | Bridge | 38.4 | 1.1294 | 38.4 | 36.1 | 33.9 | boeb | Only the middle of the humbucker was measured |
+| 57 | Washburn | Bantham XB400 | 34.0 | Neck | 30.5 | 0.8971 | 30.5 | 28.7 | 26.9 | Youth | Only the middle of the humbucker was measured |
+| 57 | Washburn | Bantham XB400 | 34.0 | Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | Youth | Only the middle of the humbucker was measured |
+| 58 | von Paris | Piccolo (1999) | 30.0 | Neck | 29.0 | 0.9667 | 32.9 | 30.9 | 29.0 | Papa | Only the middle of the humbucker was measured |
+| 58 | von Paris | Piccolo (1999) | 30.0 | Bridge | 38.4 | 1.28 | 43.5 | 41.0 | 38.4 | Papa | Only the middle of the humbucker was measured |
+| 59 | Yamaha | BBG4S II (2001) | 34.0 | Neck | 29.7 | 0.8735 | 29.7 | 28.0 | 26.2 | Seven Basses | Only the middle of the humbucker was measured |
+| 59 | Yamaha | BBG4S II (2001) | 34.0 | Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | Seven Basses | Only the middle of the humbucker was measured |
 
 {{< /table >}}

@@ -536,3 +536,164 @@
     - description: "P: D/G"
       value: 33.0
 
+- brand: Gibson
+  make: Thunderbird
+  year: 2005
+  reporter: Oli Wan
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 26
+    - description: Bridge
+      value: 37
+
+- brand: Ibanez
+  make: TR Expressionist 500
+  year:
+  reporter: lenni
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 26.9
+    - description: Bridge
+      value: 37
+
+- brand: Ibanez
+  make: SR-500
+  year:
+  reporter: Doschd
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 31
+    - description: Bridge
+      value: 38.7
+
+- brand: Ibanez
+  make: BTB675
+  year:
+  reporter: TheBrian
+  comment: "Only the middle of the humbucker was measured"
+  scale: 35
+  measurements:
+    - description: Neck
+      value: 29.1
+    - description: Bridge
+      value: 38.4
+
+- brand: Lakland
+  make: Skyline 55-01
+  year:
+  reporter: EMUBASS
+  comment: "Only the middle of the humbucker was measured"
+  scale: 35
+  measurements:
+    - description: Neck
+      value: 27.6
+      comment: Bartolini Humbucker
+    - description: Bridge
+      value: 35.9
+      comment: Bartolini Humbucker
+
+- brand: Epiphone
+  make: Thunderbird Classic IV Pro
+  year: 2015
+  reporter: stoneface
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 25.7
+    - description: Bridge
+      value: 36.7
+
+- brand: Esh
+  make: Sovereign
+  year:
+  reporter: Stratitis
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 30
+      comment: Soapbar, EMG35DC
+    - description: Bridge
+      value: 36.4
+      comment: Soapbar, EMG35DC
+
+- brand: Epiphone
+  make: Thunderbird Classic IV Pro
+  year: 2018
+  reporter: indian66
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 25.7
+    - description: Bridge
+      value: 36.7
+
+- brand: Esh
+  make: Sovereign V
+  year:
+  reporter: aBaxxi
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 31.8
+      comment: Soapbar. Probably BD5S
+    - description: Bridge
+      value: 38.3
+      comment: Soapbar. Probably BD5S
+
+- brand: Ibanez
+  make: RB850
+  year: 1986
+  reporter: boeb
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 29.5
+    - description: Bridge
+      value: 38.4
+
+- brand: Washburn
+  make: Bantham XB400
+  year:
+  reporter: Youth
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 30.5
+    - description: Bridge
+      value: 37.5
+
+- brand: von Paris
+  make: Piccolo
+  year: 1999
+  reporter: Papa
+  comment: "Only the middle of the humbucker was measured"
+  scale: 30
+  measurements:
+    - description: Neck
+      value: 29
+    - description: Bridge
+      value: 38.4
+
+- brand: Yamaha
+  make: BBG4S II
+  year: 2001
+  reporter: Seven Basses
+  comment: "Only the middle of the humbucker was measured"
+  scale: 34
+  measurements:
+    - description: Neck
+      value: 29.7
+    - description: Bridge
+      value: 37.7
