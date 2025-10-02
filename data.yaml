@@ -868,3 +868,38 @@
       value: 31
     - description: "J: Bridge"
       value: 38
+
+- brand: Dingwall
+  make: SP-1 5-string
+  reporter: foxtrott
+  measurements:
+    - description: "P: Neck-Coil. B-String "
+      scale: 34.8
+      value: 29
+    - description: "J: Bridge. B-String"
+      scale: 34.8
+      value: 36
+    - description: "P: Neck-Coil. E-String"
+      scale: 34.02
+      value: 30.5
+    - description: "J: Bridge. E-String"
+      scale: 34.02
+      value: 35.5
+    - description: "P: Bridge-Coil. A-String"
+      scale: 33.39
+      value: 30
+    - description: "J: Bridge. A-String"
+      scale: 33.39
+      value: 35
+    - description: "P: Bridge-Coil. D-String"
+      scale: 32.68
+      value: 30.6
+    - description: "J: Bridge. D-String"
+      scale: 32.68
+      value: 35.4
+    - description: "P: Bridge-Coil. G-String"
+      scale: 31.89
+      value: 29
+    - description: "J: Bridge. G-String"
+      scale: 31.89
+      value: 34

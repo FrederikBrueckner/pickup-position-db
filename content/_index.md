@@ -196,5 +196,15 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 72 | Squier | Affinity P (2014) | 34.0 | P: Neck E/A | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | Seven Basses | with EMG GZR |
 | 72 | Squier | Affinity P (2014) | 34.0 | P: Neck D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | Seven Basses | with EMG GZR |
 | 72 | Squier | Affinity P (2014) | 34.0 | J: Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | Seven Basses | with EMG GZR |
+| 73 | Dingwall | SP-1 5-string | 34.8 | P: Neck-Coil. B-String  | 29.0 | 0.8333 | 28.3 | 26.7 | 25.0 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 34.8 | J: Bridge. B-String | 36.0 | 1.0345 | 35.2 | 33.1 | 31.0 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 34.02 | P: Neck-Coil. E-String | 30.5 | 0.8965 | 30.5 | 28.7 | 26.9 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 34.02 | J: Bridge. E-String | 35.5 | 1.0435 | 35.5 | 33.4 | 31.3 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 33.39 | P: Bridge-Coil. A-String | 30.0 | 0.8985 | 30.5 | 28.8 | 27.0 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 33.39 | J: Bridge. A-String | 35.0 | 1.0482 | 35.6 | 33.5 | 31.4 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 32.68 | P: Bridge-Coil. D-String | 30.6 | 0.9364 | 31.8 | 30.0 | 28.1 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 32.68 | J: Bridge. D-String | 35.4 | 1.0832 | 36.8 | 34.7 | 32.5 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 31.89 | P: Bridge-Coil. G-String | 29.0 | 0.9094 | 30.9 | 29.1 | 27.3 | foxtrott |  |
+| 73 | Dingwall | SP-1 5-string | 31.89 | J: Bridge. G-String | 34.0 | 1.0662 | 36.3 | 34.1 | 32.0 | foxtrott |  |
 
 {{< /table >}}
