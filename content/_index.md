@@ -53,13 +53,13 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 14 | Sandberg | California JM V (2005) | 34.0 | J: Bridge | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | olebass |  |
 | 15 | Vester | Clipper IV (1990) | 34.0 | J: Neck | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | olebass |  |
 | 15 | Vester | Clipper IV (1990) | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | olebass |  |
-| 16 | Yamaha | BB Standard (1997) | 34.0 | J: Neck | 27.2 | 0.8 | 27.2 | 25.6 | 24.0 | Youth |  |
+| 16 | Yamaha | BB Standard (1997) | 34.0 | J: Neck | 27.2 | 0.8000 | 27.2 | 25.6 | 24.0 | Youth |  |
 | 16 | Yamaha | BB Standard (1997) | 34.0 | J: Bridge | 36.4 | 1.0706 | 36.4 | 34.3 | 32.1 | Youth |  |
 | 17 | Yamaha | BB604 | 34.0 | J: Neck | 30.5 | 0.8971 | 30.5 | 28.7 | 26.9 | Youth |  |
 | 17 | Yamaha | BB604 | 34.0 | J: Bridge | 38.2 | 1.1235 | 38.2 | 36.0 | 33.7 | Youth |  |
 | 18 | Fender | Jaguar MIJ | 34.0 | J: Neck | 27.3 | 0.8029 | 27.3 | 25.7 | 24.1 | Youth |  |
 | 18 | Fender | Jaguar MIJ | 34.0 | J: Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | Youth |  |
-| 19 | BolleBass | Corinna (2020) | 32.67 | J: Neck | 27.9 | 0.854 | 29.0 | 27.3 | 25.6 | bassilisk |  |
+| 19 | BolleBass | Corinna (2020) | 32.67 | J: Neck | 27.9 | 0.8540 | 29.0 | 27.3 | 25.6 | bassilisk |  |
 | 19 | BolleBass | Corinna (2020) | 32.67 | J: Bridge | 36.9 | 1.1295 | 38.4 | 36.1 | 33.9 | bassilisk |  |
 | 20 | Sandberg | TT (2013) | 34.0 | J: Neck | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Seven Basses |  |
 | 20 | Sandberg | TT (2013) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | Seven Basses |  |
@@ -102,8 +102,8 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 36 | Fenix | Jazz-Bass (1994) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
 | 37 | Fenix | Jazz-Bass V (1992) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | quarkfrosch |  |
 | 37 | Fenix | Jazz-Bass V (1992) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | quarkfrosch |  |
-| 38 | Squier | Jaguar VM (2014) | 30.0 | P: E/A | 22.8 | 0.76 | 25.8 | 24.3 | 22.8 | quarkfrosch |  |
-| 38 | Squier | Jaguar VM (2014) | 30.0 | P: D/G | 25.8 | 0.86 | 29.2 | 27.5 | 25.8 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM (2014) | 30.0 | P: E/A | 22.8 | 0.7600 | 25.8 | 24.3 | 22.8 | quarkfrosch |  |
+| 38 | Squier | Jaguar VM (2014) | 30.0 | P: D/G | 25.8 | 0.8600 | 29.2 | 27.5 | 25.8 | quarkfrosch |  |
 | 38 | Squier | Jaguar VM (2014) | 30.0 | J: Bridge | 33.7 | 1.1233 | 38.2 | 35.9 | 33.7 | quarkfrosch |  |
 | 39 | Mayones | Slogan Classic 4 (2009) | 34.25 | HB: Neck Coil 1 | 27.9 | 0.8146 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
 | 39 | Mayones | Slogan Classic 4 (2009) | 34.25 | HB: Neck Coil 2 | 20.5 | 0.5985 | 20.3 | 19.2 | 18.0 | quarkfrosch |  |
@@ -115,13 +115,13 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 41 | Bass Collection | SB302 PWH (1987) | 34.25 | P: D/G | 33.2 | 0.9693 | 33.0 | 31.0 | 29.1 | quarkfrosch |  |
 | 41 | Bass Collection | SB302 PWH (1987) | 34.25 | J: Bridge | 38.1 | 1.1124 | 37.8 | 35.6 | 33.4 | quarkfrosch |  |
 | 42 | Wotan | Shark (1978) | 34.5 | P: Neck E/A | 21.0 | 0.6087 | 20.7 | 19.5 | 18.3 | quarkfrosch |  |
-| 42 | Wotan | Shark (1978) | 34.5 | P: Neck D/G | 23.7 | 0.687 | 23.4 | 22.0 | 20.6 | quarkfrosch |  |
+| 42 | Wotan | Shark (1978) | 34.5 | P: Neck D/G | 23.7 | 0.6870 | 23.4 | 22.0 | 20.6 | quarkfrosch |  |
 | 42 | Wotan | Shark (1978) | 34.5 | P: Bridge E/A | 34.2 | 0.9913 | 33.7 | 31.7 | 29.7 | quarkfrosch |  |
 | 42 | Wotan | Shark (1978) | 34.5 | P: Bridge D/G | 37.7 | 1.0928 | 37.2 | 35.0 | 32.8 | quarkfrosch |  |
 | 43 | Kramer | DMZ 5000 (1980) | 33.75 | P: Neck E/A | 27.5 | 0.8148 | 27.7 | 26.1 | 24.4 | quarkfrosch |  |
 | 43 | Kramer | DMZ 5000 (1980) | 33.75 | P: Neck D/G | 30.3 | 0.8978 | 30.5 | 28.7 | 26.9 | quarkfrosch |  |
 | 43 | Kramer | DMZ 5000 (1980) | 33.75 | J: Bridge | 39.0 | 1.1556 | 39.3 | 37.0 | 34.7 | quarkfrosch |  |
-| 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 31.1 | 0.908 | 30.9 | 29.1 | 27.2 | quarkfrosch |  |
+| 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 31.1 | 0.9080 | 30.9 | 29.1 | 27.2 | quarkfrosch |  |
 | 44 | Esh | Stinger I | 34.25 | HB: Neck Coil 1 | 33.1 | 0.9664 | 32.9 | 30.9 | 29.0 | quarkfrosch |  |
 | 44 | Esh | Stinger I | 34.25 | HB: Bridge Coil 1 | 37.7 | 1.1007 | 37.4 | 35.2 | 33.0 | quarkfrosch |  |
 | 44 | Esh | Stinger I | 34.25 | HB: Bridge Coil 2 | 39.7 | 1.1591 | 39.4 | 37.1 | 34.8 | quarkfrosch |  |
@@ -154,7 +154,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 57 | Washburn | Bantham XB400 | 34.0 | Neck | 30.5 | 0.8971 | 30.5 | 28.7 | 26.9 | Youth | Only the middle of the humbucker was measured |
 | 57 | Washburn | Bantham XB400 | 34.0 | Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | Youth | Only the middle of the humbucker was measured |
 | 58 | von Paris | Piccolo (1999) | 30.0 | Neck | 29.0 | 0.9667 | 32.9 | 30.9 | 29.0 | Papa | Only the middle of the humbucker was measured |
-| 58 | von Paris | Piccolo (1999) | 30.0 | Bridge | 38.4 | 1.28 | 43.5 | 41.0 | 38.4 | Papa | Only the middle of the humbucker was measured |
+| 58 | von Paris | Piccolo (1999) | 30.0 | Bridge | 38.4 | 1.2800 | 43.5 | 41.0 | 38.4 | Papa | Only the middle of the humbucker was measured |
 | 59 | Yamaha | BBG4S II (2001) | 34.0 | Neck | 29.7 | 0.8735 | 29.7 | 28.0 | 26.2 | Seven Basses | Only the middle of the humbucker was measured |
 | 59 | Yamaha | BBG4S II (2001) | 34.0 | Bridge | 37.7 | 1.1088 | 37.7 | 35.5 | 33.3 | Seven Basses | Only the middle of the humbucker was measured |
 | 60 | Basscollection | SB301 | 34.0 | P: Neck E/A | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | mulhofa |  |
@@ -206,16 +206,16 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 73 | Dingwall | SP-1 5-string | 32.68 | J: Bridge. D-String | 35.4 | 1.0832 | 36.8 | 34.7 | 32.5 | foxtrott |  |
 | 73 | Dingwall | SP-1 5-string | 31.89 | P: Bridge-Coil. G-String | 29.0 | 0.9094 | 30.9 | 29.1 | 27.3 | foxtrott |  |
 | 73 | Dingwall | SP-1 5-string | 31.89 | J: Bridge. G-String | 34.0 | 1.0662 | 36.3 | 34.1 | 32.0 | foxtrott |  |
-| 74 | Höfner | 500/1 | 30.0 | Neck | 34.5 | 1.15 | 39.1 | 36.8 | 34.5 | Oli Wan |  |
+| 74 | Höfner | 500/1 | 30.0 | Neck | 34.5 | 1.1500 | 39.1 | 36.8 | 34.5 | Oli Wan |  |
 | 74 | Höfner | 500/1 | 30.0 | Bridge | 39.4 | 1.3133 | 44.7 | 42.0 | 39.4 | Oli Wan |  |
 | 75 | Rickenbacker | 4003/V63 (1991) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Oli Wan |  |
 | 75 | Rickenbacker | 4003/V63 (1991) | 33.25 | Bridge | 32.7 | 0.9835 | 33.4 | 31.5 | 29.5 | Oli Wan |  |
-| 76 | Sandberg | California MM-5 | 35.0 | Neck | 21.7 | 0.62 | 21.1 | 19.8 | 18.6 | Doschd | Only the middle of the humbucker was measured |
+| 76 | Sandberg | California MM-5 | 35.0 | Neck | 21.7 | 0.6200 | 21.1 | 19.8 | 18.6 | Doschd | Only the middle of the humbucker was measured |
 | 76 | Sandberg | California MM-5 | 35.0 | Bridge | 32.7 | 0.9343 | 31.8 | 29.9 | 28.0 | Doschd | Only the middle of the humbucker was measured |
 | 77 | MusicMan | Sterling 4-String | 34.0 | MM | 34.3 | 1.0088 | 34.3 | 32.3 | 30.3 | Bassonovo | Only the middle of the humbucker was measured |
 | 78 | Ibanez | ATK 300 | 34.0 | Humbucker | 34.7 | 1.0206 | 34.7 | 32.7 | 30.6 | griznak | Triplecoil with dummy-coil. Only the middle of the humbucker was measured |
 | 79 | Warwick | Rockbass Corvette $$ | 34.0 | Neck | 29.7 | 0.8735 | 29.7 | 28.0 | 26.2 | EMUBASS | Not clear whether the model had soapbars or singlecoils. |
-| 79 | Warwick | Rockbass Corvette $$ | 34.0 | Bridge | 35.7 | 1.05 | 35.7 | 33.6 | 31.5 | EMUBASS | Not clear whether the model had soapbars or singlecoils. |
+| 79 | Warwick | Rockbass Corvette $$ | 34.0 | Bridge | 35.7 | 1.0500 | 35.7 | 33.6 | 31.5 | EMUBASS | Not clear whether the model had soapbars or singlecoils. |
 | 80 | Rickenbacker | 4003 (2010) | 33.25 | Neck | 21.6 | 0.6496 | 22.1 | 20.8 | 19.5 | stoneface |  |
 | 80 | Rickenbacker | 4003 (2010) | 33.25 | Bridge | 32.9 | 0.9895 | 33.6 | 31.7 | 29.7 | stoneface |  |
 | 81 | Danelectro | 63 Longscale | 34.0 | Neck | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | Axel |  |

@@ -12,7 +12,7 @@ import           Data.Text              (Text, unpack)
 import qualified Data.Text           as T
 import           Data.Yaml              (FromJSON(..), withObject, decodeFileThrow, (.:), (.:?), Value(String, Number))
 import qualified Data.Yaml           as Yaml
-
+import qualified Formatting          as F
 import           Options.Applicative    (execParser, strOption, long, metavar, help, info, fullDesc)
 import qualified Options.Applicative as OA
 
@@ -71,7 +71,8 @@ columns = [ (" # "             , show . ld'instrumentID)
           , ("Scale (inch)"    , show . ld'scale)
           , ("Pickup/Coil"     , unpack . ld'description)
           , ("Measurement (cm)", show . ld'value)
-          , ("Normalized"      , show . ld'normalized)
+          -- formating this to 4 fixed decimals to make the sorting stable
+          , ("Normalized"      , (F.formatToString $ F.fixed 4) . ld'normalized)
           , ("Target 34 (cm)"  , targeted 34)
           , ("Target 32 (cm)"  , targeted 32)
           , ("Target 30 (cm)"  , targeted 30)

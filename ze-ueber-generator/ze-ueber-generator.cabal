@@ -77,6 +77,7 @@ executable ze-ueber-generator
     build-depends:
       , aeson                ^>= 2.2.3
       , base                 ^>= 4.15.1.0
+      , formatting           ^>= 7.2
       , optparse-applicative ^>= 0.15
       , scientific           ^>= 0.3.8
       , text                 ^>= 1.2.5
