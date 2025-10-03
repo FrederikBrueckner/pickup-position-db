@@ -1033,3 +1033,43 @@
     - description: "Bridge"
       value: 35.3
 
+- brand: Fender
+  make: Jazz Bass - Roscoe Beck
+  year: 1996
+  scale: 34
+  reporter: Lowender
+  comment: Double J Humbucker. Measurments were taken from a photo and might be off.
+  measurements:
+    - description: "Neck PU; Neck Coil"
+      value: 27.8
+    - description: "Neck PU; Bridge Coil"
+      value: 29.4
+    - description: "Bridge PU; Neck Coil"
+      value: 36.9
+    - description: "Bridge PU; Bridge Coil"
+      value: 38.5
+
+- brand: MusicMan
+  make: Stingray 4 HH
+  scale: 34
+  reporter: Marten
+  measurements:
+    - description: "Neck PU; Neck Coil"
+      value: 25.3
+    - description: "Neck PU; Bridge Coil"
+      value: 27.7
+    - description: "Bridge PU; Neck Coil"
+      value: 34.4
+    - description: "Bridge PU; Bridge Coil"
+      value: 36.8
+
+- brand: MusicMan
+  make: Stingray 5 H
+  scale: 34
+  year: 2009
+  reporter: 4enima
+  measurements:
+    - description: "MM Neck Coil"
+      value: 33.1
+    - description: "Neck PU; Bridge Coil"
+      value: 35.4

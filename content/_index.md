@@ -225,5 +225,15 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 84 | MusicMan | Stingray (2009) | 34.0 | MM | 34.2 | 1.0059 | 34.2 | 32.2 | 30.2 | 4enima | There should be a newer measurement in the thread . . .. Only the middle of the humbucker was measured |
 | 85 | Rickenbacker | 4003S5 (2019) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Mc Valve |  |
 | 85 | Rickenbacker | 4003S5 (2019) | 33.25 | Bridge | 35.3 | 1.0617 | 36.1 | 34.0 | 31.9 | Mc Valve |  |
+| 86 | Fender | Jazz Bass - Roscoe Beck (1996) | 34.0 | Neck PU; Neck Coil | 27.8 | 0.8176 | 27.8 | 26.2 | 24.5 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 86 | Fender | Jazz Bass - Roscoe Beck (1996) | 34.0 | Neck PU; Bridge Coil | 29.4 | 0.8647 | 29.4 | 27.7 | 25.9 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 86 | Fender | Jazz Bass - Roscoe Beck (1996) | 34.0 | Bridge PU; Neck Coil | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 86 | Fender | Jazz Bass - Roscoe Beck (1996) | 34.0 | Bridge PU; Bridge Coil | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 87 | MusicMan | Stingray 4 HH | 34.0 | Neck PU; Neck Coil | 25.3 | 0.7441 | 25.3 | 23.8 | 22.3 | Marten |  |
+| 87 | MusicMan | Stingray 4 HH | 34.0 | Neck PU; Bridge Coil | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Marten |  |
+| 87 | MusicMan | Stingray 4 HH | 34.0 | Bridge PU; Neck Coil | 34.4 | 1.0118 | 34.4 | 32.4 | 30.4 | Marten |  |
+| 87 | MusicMan | Stingray 4 HH | 34.0 | Bridge PU; Bridge Coil | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | Marten |  |
+| 88 | MusicMan | Stingray 5 H (2009) | 34.0 | MM Neck Coil | 33.1 | 0.9735 | 33.1 | 31.2 | 29.2 | 4enima |  |
+| 88 | MusicMan | Stingray 5 H (2009) | 34.0 | Neck PU; Bridge Coil | 35.4 | 1.0412 | 35.4 | 33.3 | 31.2 | 4enima |  |
 
 {{< /table >}}
