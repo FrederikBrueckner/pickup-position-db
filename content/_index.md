@@ -45,8 +45,8 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 10 | Fenix | Jazzbass (1989) | 34.0 | J: Bridge | 36.7 | 1.0794 | 36.7 | 34.5 | 32.4 | stoneface |  |
 | 11 | Guilber | ??? (1992) | 34.0 | J: Neck | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
 | 11 | Guilber | ??? (1992) | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | stoneface |  |
-| 12 | Fender | Victor Nailey JB (2007) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | olebass |  |
-| 12 | Fender | Victor Nailey JB (2007) | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | olebass |  |
+| 12 | Fender | Victor Bailey JB (2007) | 34.0 | J: Neck | 27.5 | 0.8088 | 27.5 | 25.9 | 24.3 | olebass |  |
+| 12 | Fender | Victor Bailey JB (2007) | 34.0 | J: Bridge | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | olebass |  |
 | 13 | Lodestone | Primal Artist V JB | 34.0 | J: Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
 | 13 | Lodestone | Primal Artist V JB | 34.0 | J: Bridge | 37.0 | 1.0882 | 37.0 | 34.8 | 32.6 | olebass |  |
 | 14 | Sandberg | California JM V (2005) | 34.0 | J: Neck | 28.0 | 0.8235 | 28.0 | 26.4 | 24.7 | olebass |  |
