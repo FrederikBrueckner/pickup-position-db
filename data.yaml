@@ -1034,7 +1034,7 @@
       value: 35.3
 
 - brand: Fender
-  make: Jazz Bass - Roscoe Beck
+  make: Jazz Bass V - Roscoe Beck
   year: 1996
   scale: 34
   reporter: Lowender
@@ -1073,3 +1073,316 @@
       value: 33.1
     - description: "Neck PU; Bridge Coil"
       value: 35.4
+
+- brand: Harley Benton
+  make: Marquess-4
+  scale: 34
+  reporter: Dommbasstisch
+  measurements:
+    - description: "P: E/A"
+      value: 29.5
+    - description: "P: D/G"
+      value: 32.3
+    - description: "J: Bridge"
+      value: 38.6
+
+- brand: Harley Benton
+  make: PJ-4 SBK
+  scale: 34
+  reporter: Dommbasstisch
+  measurements:
+    - description: "P: E/A"
+      value: 28.5
+    - description: "P: D/G"
+      value: 31.3
+    - description: "J: Bridge"
+      value: 38.5
+
+- brand: Yamaha
+  make: RBX374
+  scale: 34
+  reporter: Dommbasstisch
+  measurements:
+    - description: "HB: Neck Coil 1"
+      value: 26.9
+    - description: "HB: Neck Coil 2"
+      value: 28.7
+    - description: "HB: Bridge Coil 1"
+      value: 34.9
+    - description: "HB: Bridge Coil 2"
+      value: 36.5
+
+- brand: Ibanez
+  make: BTB200
+  scale: 35
+  reporter: Dommbasstisch
+  measurements:
+    - description: "HB: Neck Coil 1"
+      value: 26.7
+    - description: "HB: Neck Coil 2"
+      value: 29.5
+    - description: "HB: Bridge Coil 1"
+      value: 35.8
+    - description: "HB: Bridge Coil 2"
+      value: 38.6
+
+- brand: Squier
+  make: Vintage Modified Precision Bass TB
+  scale: 34
+  reporter:
+  comment: Apparently a split-coil in a fat humbucker housing.
+  measurements:
+    - description: "HB: E/A"
+      value: 19.4
+    - description: "HB: D/G"
+      value: 21.8
+
+- brand: G&L
+  make: SB-1
+  scale: 34
+  year: 1982
+  reporter: matteagle
+  measurements:
+    - description: Singlecoil (Splitcoil?)
+      value: 29.4
+
+
+- brand: Guild
+  make: Newark St. Starfire I
+  year: 2013
+  scale: 30.75
+  measurements:
+    - description: Singlecoil
+      value: 31.1
+      comment: Bisonic Single-Coil
+
+- brand: Fender
+  make: Bullet B30
+  scale: 30
+  reporter: matt-o-
+  measurements:
+    - description: "Splitcoil: E/A"
+      value: 26.5
+    - description: "Splitcoil: D/G"
+      value: 28.5
+
+- brand: Squier
+  make: Bronco
+  scale: 30
+  reporter: matt-o-
+  measurements:
+    - description: "Singlecoil"
+      value: 23.9
+
+- brand: Epiphone
+  make: Jack Casady
+  scale: 34
+  reporter: DaniG3
+  measurements:
+    - description: Middle of humbucker
+      comment: "Polepieces not visible. Breadth of pickup: 3cm"
+      value: 29.0
+
+- brand: Modulus
+  make: Flea
+  scale: 34
+  reporter: DaniG3
+  measurements:
+    - description: Middle of humbucker
+      comment: "Polepieces not visible. Breadth of pickup: 4.8cm"
+      value: 33.8
+
+- brand: Yamaha
+  make: Attitude 3
+  scale: 34
+  reporter: DaniG3
+  measurements:
+    - description: "Neck HB; Coil 1"
+      value: 21.6
+    - description: "Neck HB; Coil 2"
+      value: 23.3
+    - description: "P: E/A"
+      value: 28.3
+    - description: "P: D/G"
+      value: 31
+
+- brand: Warwick
+  make: Streamer
+  year: 1984
+  scale: 34
+  reporter: xsteps
+  measurements:
+    - description: "P: E/A"
+      value: 32.7
+      comment: reverse P
+    - description: "P: D/G"
+      value: 29.9
+      comment: reverse P
+    - description: "J: Bridge"
+      value: 38.3
+
+- brand: Gibson
+  make: Thunderbird
+  year: 1996
+  scale: 34
+  reporter: MauMau
+  comment: "Only the middle of the humbucker was measured"
+  measurements:
+    - description: "HB: Neck"
+      value: 25.9
+    - description: "HB: Bridge"
+      value: 36.9
+
+- brand: Spector
+  make: Euro LX5
+  scale: 35
+  comment: "Only the middle of the humbucker was measured"
+  reporter: MauMau
+  measurements:
+    - description: "HB: Neck"
+      value: 31.4
+    - description: "HB: Bridge"
+      value: 38.3
+
+- brand: Self-Built
+  make: Leland Sklar Frankenstein
+  scale: 34
+  comment: "measurements were revers engineered from various pictures"
+  reporter: KTi01
+  measurements:
+    - description: "Neck: P E/A"
+      comment: reverse P
+      value: 24.7
+    - description: "Neck: P D/G"
+      comment: reverse P
+      value: 21.7
+    - description: "Bridge: P E/A"
+      comment: reverse P
+      value: 36.9
+    - description: "Bridge: P D/G"
+      comment: reverse P
+      value: 34.1
+
+- brand: Danelectro
+  make: Longhorn
+  scale: 29.75
+  reporter: Mad Jazz Morales
+  comment: the pickups are installed at an angle
+  measurements:
+    - description: "Neck @ G-String"
+      value: 24.3
+    - description: "Neck @ E-String"
+      value: 23.8
+    - description: "Bridge @ G-String"
+      value: 34.3
+    - description: "Bridge @ E-String"
+      value: 33.8
+
+- brand: Sire
+  make: U5 Shortscale
+  scale: 30
+  reporter: triple-U
+  measurements:
+    - description: "P: E/A"
+      value: 23.2
+    - description: "P: D/G"
+      value: 25.9
+    - description: "J: Bridge"
+      value: 34.7
+
+- brand: Sadowsky
+  make: MetroExpress Jazz Bass 21 Vintage (Gen. 1)
+  scale: 34
+  reporter: xsteps
+  measurements:
+    - description: "J: Neck"
+      value: 28.5
+    - description: "J: Bridge"
+      value: 37.5
+
+- brand: MusicMan
+  make: Stingray SS4 Shortscale
+  scale: 30
+  reporter: triple-U
+  comment: "Only the middle of the humbucker was measured"
+  measurements:
+    - description: "MM"
+      value: 303
+
+- brand: Fender
+  make: Cabronita Precision
+  scale: 34
+  reporter: basslife
+  comment: "Replacement Pickup: TV Jones Thundermag"
+  measurements:
+    - description: "Splitcoil: E/A"
+      value: 30.9
+    - description: "Splitcoil: D/G"
+      value: 29.2
+
+- brand: Rickenbacker
+  make: 4003S5 Fireglo
+  scale: 33.25
+  reporter: McValve
+  measurements:
+    - description: Neck
+      value: 21.2
+    - description: Bridge
+      value: 34.5
+
+- brand: Hohner
+  make: B2
+  year: 1989
+  scale: 34
+  reporter: Scriptura
+  comment: "Only the middle of the humbucker was measured"
+  measurements:
+    - description: Neck
+      value: 28.2
+    - description: Bridge
+      value: 38.6
+
+- brand: MusicMan
+  make: Stingray 3EQ Fretless
+  year: 1991
+  scale: 34
+  reporter: Scriptura
+  comment: "Only the middle of the humbucker was measured"
+  measurements:
+    - description: MM
+      value: 34.5
+
+- brand: Human Base
+  make: Jonas
+  year: 2004
+  scale: 34
+  reporter: Scriptura
+  comment: "Only the middle of the humbucker was measured"
+  measurements:
+    - description: HB Neck
+      value: 29.5
+    - description: HB Bridge
+      value: 38
+
+- brand: Warwick
+  make: RB Starbass
+  scale: 32
+  reporter: triple-U
+  measurements:
+    - description: "J: Neck"
+      value: 23.6
+    - description: "J: Bridge"
+      value: 34.6
+
+- brand: Ibanez
+  make: Musician MC924
+  year: 1982
+  scale: 34
+  reporter: stoneface
+  measurements:
+    - description: "P: E/A"
+      value: 26.9
+    - description: "P: D/G"
+      value: 29.9
+    - description: "J: Bridge"
+      value: 38.7
