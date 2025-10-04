@@ -1011,17 +1011,6 @@
       value: 35
       comment: "Only the middle of the humbucker was measured"
 
-- brand: MusicMan
-  make: Stingray
-  year: 2009
-  scale: 34
-  reporter: 4enima
-  comment: There should be a newer measurement in the thread . . .
-  measurements:
-    - description: "MM"
-      value: 34.2
-      comment: "Only the middle of the humbucker was measured"
-
 - brand: Rickenbacker
   make: 4003S5
   year: 2019
@@ -1071,7 +1060,7 @@
   measurements:
     - description: "MM Neck Coil"
       value: 33.1
-    - description: "Neck PU; Bridge Coil"
+    - description: "MM Bridge Coil"
       value: 35.4
 
 - brand: Harley Benton

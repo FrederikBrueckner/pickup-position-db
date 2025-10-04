@@ -222,82 +222,81 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 81 | Danelectro | 63 Longscale | 34.0 | Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Axel |  |
 | 82 | Career | Stingray Copy | 34.0 | MM | 34.8 | 1.0235 | 34.8 | 32.8 | 30.7 | triple-U | Only the middle of the humbucker was measured |
 | 83 | Esh | Notorious 2 V (2005) | 34.0 | MM | 35.0 | 1.0294 | 35.0 | 32.9 | 30.9 | olebass | Only the middle of the humbucker was measured |
-| 84 | MusicMan | Stingray (2009) | 34.0 | MM | 34.2 | 1.0059 | 34.2 | 32.2 | 30.2 | 4enima | There should be a newer measurement in the thread . . .. Only the middle of the humbucker was measured |
-| 85 | Rickenbacker | 4003S5 (2019) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Mc Valve |  |
-| 85 | Rickenbacker | 4003S5 (2019) | 33.25 | Bridge | 35.3 | 1.0617 | 36.1 | 34.0 | 31.9 | Mc Valve |  |
-| 86 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Neck PU; Neck Coil | 27.8 | 0.8176 | 27.8 | 26.2 | 24.5 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
-| 86 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Neck PU; Bridge Coil | 29.4 | 0.8647 | 29.4 | 27.7 | 25.9 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
-| 86 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Bridge PU; Neck Coil | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
-| 86 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Bridge PU; Bridge Coil | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
-| 87 | MusicMan | Stingray 4 HH | 34.0 | Neck PU; Neck Coil | 25.3 | 0.7441 | 25.3 | 23.8 | 22.3 | Marten |  |
-| 87 | MusicMan | Stingray 4 HH | 34.0 | Neck PU; Bridge Coil | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Marten |  |
-| 87 | MusicMan | Stingray 4 HH | 34.0 | Bridge PU; Neck Coil | 34.4 | 1.0118 | 34.4 | 32.4 | 30.4 | Marten |  |
-| 87 | MusicMan | Stingray 4 HH | 34.0 | Bridge PU; Bridge Coil | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | Marten |  |
-| 88 | MusicMan | Stingray 5 H (2009) | 34.0 | MM Neck Coil | 33.1 | 0.9735 | 33.1 | 31.2 | 29.2 | 4enima |  |
-| 88 | MusicMan | Stingray 5 H (2009) | 34.0 | Neck PU; Bridge Coil | 35.4 | 1.0412 | 35.4 | 33.3 | 31.2 | 4enima |  |
-| 89 | Harley Benton | Marquess-4 | 34.0 | P: E/A | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | Dommbasstisch |  |
-| 89 | Harley Benton | Marquess-4 | 34.0 | P: D/G | 32.3 | 0.9500 | 32.3 | 30.4 | 28.5 | Dommbasstisch |  |
-| 89 | Harley Benton | Marquess-4 | 34.0 | J: Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | Dommbasstisch |  |
-| 90 | Harley Benton | PJ-4 SBK | 34.0 | P: E/A | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | Dommbasstisch |  |
-| 90 | Harley Benton | PJ-4 SBK | 34.0 | P: D/G | 31.3 | 0.9206 | 31.3 | 29.5 | 27.6 | Dommbasstisch |  |
-| 90 | Harley Benton | PJ-4 SBK | 34.0 | J: Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Dommbasstisch |  |
-| 91 | Yamaha | RBX374 | 34.0 | HB: Neck Coil 1 | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | Dommbasstisch |  |
-| 91 | Yamaha | RBX374 | 34.0 | HB: Neck Coil 2 | 28.7 | 0.8441 | 28.7 | 27.0 | 25.3 | Dommbasstisch |  |
-| 91 | Yamaha | RBX374 | 34.0 | HB: Bridge Coil 1 | 34.9 | 1.0265 | 34.9 | 32.8 | 30.8 | Dommbasstisch |  |
-| 91 | Yamaha | RBX374 | 34.0 | HB: Bridge Coil 2 | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Dommbasstisch |  |
-| 92 | Ibanez | BTB200 | 35.0 | HB: Neck Coil 1 | 26.7 | 0.7629 | 25.9 | 24.4 | 22.9 | Dommbasstisch |  |
-| 92 | Ibanez | BTB200 | 35.0 | HB: Neck Coil 2 | 29.5 | 0.8429 | 28.7 | 27.0 | 25.3 | Dommbasstisch |  |
-| 92 | Ibanez | BTB200 | 35.0 | HB: Bridge Coil 1 | 35.8 | 1.0229 | 34.8 | 32.7 | 30.7 | Dommbasstisch |  |
-| 92 | Ibanez | BTB200 | 35.0 | HB: Bridge Coil 2 | 38.6 | 1.1029 | 37.5 | 35.3 | 33.1 | Dommbasstisch |  |
-| 93 | Squier | Vintage Modified Precision Bass TB | 34.0 | HB: E/A | 19.4 | 0.5706 | 19.4 | 18.3 | 17.1 |  | Apparently a split-coil in a fat humbucker housing. |
-| 93 | Squier | Vintage Modified Precision Bass TB | 34.0 | HB: D/G | 21.8 | 0.6412 | 21.8 | 20.5 | 19.2 |  | Apparently a split-coil in a fat humbucker housing. |
-| 94 | G&L | SB-1 (1982) | 34.0 | Singlecoil (Splitcoil?) | 29.4 | 0.8647 | 29.4 | 27.7 | 25.9 | matteagle |  |
-| 95 | Guild | Newark St. Starfire I (2013) | 30.75 | Singlecoil | 31.1 | 1.0114 | 34.4 | 32.4 | 30.3 |  | Bisonic Single-Coil |
-| 96 | Fender | Bullet B30 | 30.0 | Splitcoil: E/A | 26.5 | 0.8833 | 30.0 | 28.3 | 26.5 | matt-o- |  |
-| 96 | Fender | Bullet B30 | 30.0 | Splitcoil: D/G | 28.5 | 0.9500 | 32.3 | 30.4 | 28.5 | matt-o- |  |
-| 97 | Squier | Bronco | 30.0 | Singlecoil | 23.9 | 0.7967 | 27.1 | 25.5 | 23.9 | matt-o- |  |
-| 98 | Epiphone | Jack Casady | 34.0 | Middle of humbucker | 29.0 | 0.8529 | 29.0 | 27.3 | 25.6 | DaniG3 | Polepieces not visible. Breadth of pickup: 3cm |
-| 99 | Modulus | Flea | 34.0 | Middle of humbucker | 33.8 | 0.9941 | 33.8 | 31.8 | 29.8 | DaniG3 | Polepieces not visible. Breadth of pickup: 4.8cm |
-| 100 | Yamaha | Attitude 3 | 34.0 | Neck HB; Coil 1 | 21.6 | 0.6353 | 21.6 | 20.3 | 19.1 | DaniG3 |  |
-| 100 | Yamaha | Attitude 3 | 34.0 | Neck HB; Coil 2 | 23.3 | 0.6853 | 23.3 | 21.9 | 20.6 | DaniG3 |  |
-| 100 | Yamaha | Attitude 3 | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | DaniG3 |  |
-| 100 | Yamaha | Attitude 3 | 34.0 | P: D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | DaniG3 |  |
-| 101 | Warwick | Streamer (1984) | 34.0 | P: E/A | 32.7 | 0.9618 | 32.7 | 30.8 | 28.9 | xsteps | reverse P |
-| 101 | Warwick | Streamer (1984) | 34.0 | P: D/G | 29.9 | 0.8794 | 29.9 | 28.1 | 26.4 | xsteps | reverse P |
-| 101 | Warwick | Streamer (1984) | 34.0 | J: Bridge | 38.3 | 1.1265 | 38.3 | 36.0 | 33.8 | xsteps |  |
-| 102 | Gibson | Thunderbird (1996) | 34.0 | HB: Neck | 25.9 | 0.7618 | 25.9 | 24.4 | 22.9 | MauMau | Only the middle of the humbucker was measured |
-| 102 | Gibson | Thunderbird (1996) | 34.0 | HB: Bridge | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | MauMau | Only the middle of the humbucker was measured |
-| 103 | Spector | Euro LX5 | 35.0 | HB: Neck | 31.4 | 0.8971 | 30.5 | 28.7 | 26.9 | MauMau | Only the middle of the humbucker was measured |
-| 103 | Spector | Euro LX5 | 35.0 | HB: Bridge | 38.3 | 1.0943 | 37.2 | 35.0 | 32.8 | MauMau | Only the middle of the humbucker was measured |
-| 104 | Self-Built | Leland Sklar Frankenstein | 34.0 | Neck: P E/A | 24.7 | 0.7265 | 24.7 | 23.2 | 21.8 | KTi01 | measurements were revers engineered from various pictures. reverse P |
-| 104 | Self-Built | Leland Sklar Frankenstein | 34.0 | Neck: P D/G | 21.7 | 0.6382 | 21.7 | 20.4 | 19.1 | KTi01 | measurements were revers engineered from various pictures. reverse P |
-| 104 | Self-Built | Leland Sklar Frankenstein | 34.0 | Bridge: P E/A | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | KTi01 | measurements were revers engineered from various pictures. reverse P |
-| 104 | Self-Built | Leland Sklar Frankenstein | 34.0 | Bridge: P D/G | 34.1 | 1.0029 | 34.1 | 32.1 | 30.1 | KTi01 | measurements were revers engineered from various pictures. reverse P |
-| 105 | Danelectro | Longhorn | 29.75 | Neck @ G-String | 24.3 | 0.8168 | 27.8 | 26.1 | 24.5 | Mad Jazz Morales | the pickups are installed at an angle |
-| 105 | Danelectro | Longhorn | 29.75 | Neck @ E-String | 23.8 | 0.8000 | 27.2 | 25.6 | 24.0 | Mad Jazz Morales | the pickups are installed at an angle |
-| 105 | Danelectro | Longhorn | 29.75 | Bridge @ G-String | 34.3 | 1.1529 | 39.2 | 36.9 | 34.6 | Mad Jazz Morales | the pickups are installed at an angle |
-| 105 | Danelectro | Longhorn | 29.75 | Bridge @ E-String | 33.8 | 1.1361 | 38.6 | 36.4 | 34.1 | Mad Jazz Morales | the pickups are installed at an angle |
-| 106 | Sire | U5 Shortscale | 30.0 | P: E/A | 23.2 | 0.7733 | 26.3 | 24.7 | 23.2 | triple-U |  |
-| 106 | Sire | U5 Shortscale | 30.0 | P: D/G | 25.9 | 0.8633 | 29.4 | 27.6 | 25.9 | triple-U |  |
-| 106 | Sire | U5 Shortscale | 30.0 | J: Bridge | 34.7 | 1.1567 | 39.3 | 37.0 | 34.7 | triple-U |  |
-| 107 | Sadowsky | MetroExpress Jazz Bass 21 Vintage (Gen. 1) | 34.0 | J: Neck | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | xsteps |  |
-| 107 | Sadowsky | MetroExpress Jazz Bass 21 Vintage (Gen. 1) | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | xsteps |  |
-| 108 | MusicMan | Stingray SS4 Shortscale | 30.0 | MM | 303.0 | 10.1000 | 343.4 | 323.2 | 303.0 | triple-U | Only the middle of the humbucker was measured |
-| 109 | Fender | Cabronita Precision | 34.0 | Splitcoil: E/A | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | basslife | Replacement Pickup: TV Jones Thundermag |
-| 109 | Fender | Cabronita Precision | 34.0 | Splitcoil: D/G | 29.2 | 0.8588 | 29.2 | 27.5 | 25.8 | basslife | Replacement Pickup: TV Jones Thundermag |
-| 110 | Rickenbacker | 4003S5 Fireglo | 33.25 | Neck | 21.2 | 0.6376 | 21.7 | 20.4 | 19.1 | McValve |  |
-| 110 | Rickenbacker | 4003S5 Fireglo | 33.25 | Bridge | 34.5 | 1.0376 | 35.3 | 33.2 | 31.1 | McValve |  |
-| 111 | Hohner | B2 (1989) | 34.0 | Neck | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | Scriptura | Only the middle of the humbucker was measured |
-| 111 | Hohner | B2 (1989) | 34.0 | Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | Scriptura | Only the middle of the humbucker was measured |
-| 112 | MusicMan | Stingray 3EQ Fretless (1991) | 34.0 | MM | 34.5 | 1.0147 | 34.5 | 32.5 | 30.4 | Scriptura | Only the middle of the humbucker was measured |
-| 113 | Human Base | Jonas (2004) | 34.0 | HB Neck | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | Scriptura | Only the middle of the humbucker was measured |
-| 113 | Human Base | Jonas (2004) | 34.0 | HB Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | Scriptura | Only the middle of the humbucker was measured |
-| 114 | Warwick | RB Starbass | 32.0 | J: Neck | 23.6 | 0.7375 | 25.1 | 23.6 | 22.1 | triple-U |  |
-| 114 | Warwick | RB Starbass | 32.0 | J: Bridge | 34.6 | 1.0812 | 36.8 | 34.6 | 32.4 | triple-U |  |
-| 115 | Ibanez | Musician MC924 (1982) | 34.0 | P: E/A | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
-| 115 | Ibanez | Musician MC924 (1982) | 34.0 | P: D/G | 29.9 | 0.8794 | 29.9 | 28.1 | 26.4 | stoneface |  |
-| 115 | Ibanez | Musician MC924 (1982) | 34.0 | J: Bridge | 38.7 | 1.1382 | 38.7 | 36.4 | 34.1 | stoneface |  |
-| 116 | Johnson | Stingray Copy | 34.0 | HB, Coil 1 | 34.0 | 1.0000 | 34.0 | 32.0 | 30.0 | Axel | the humbucker is thinner than a MM pickup |
-| 116 | Johnson | Stingray Copy | 34.0 | HB, Coil 2 | 35.7 | 1.0500 | 35.7 | 33.6 | 31.5 | Axel | the humbucker is thinner than a MM pickup |
+| 84 | Rickenbacker | 4003S5 (2019) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Mc Valve |  |
+| 84 | Rickenbacker | 4003S5 (2019) | 33.25 | Bridge | 35.3 | 1.0617 | 36.1 | 34.0 | 31.9 | Mc Valve |  |
+| 85 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Neck PU; Neck Coil | 27.8 | 0.8176 | 27.8 | 26.2 | 24.5 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 85 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Neck PU; Bridge Coil | 29.4 | 0.8647 | 29.4 | 27.7 | 25.9 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 85 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Bridge PU; Neck Coil | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 85 | Fender | Jazz Bass V - Roscoe Beck (1996) | 34.0 | Bridge PU; Bridge Coil | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Lowender | Double J Humbucker. Measurments were taken from a photo and might be off. |
+| 86 | MusicMan | Stingray 4 HH | 34.0 | Neck PU; Neck Coil | 25.3 | 0.7441 | 25.3 | 23.8 | 22.3 | Marten |  |
+| 86 | MusicMan | Stingray 4 HH | 34.0 | Neck PU; Bridge Coil | 27.7 | 0.8147 | 27.7 | 26.1 | 24.4 | Marten |  |
+| 86 | MusicMan | Stingray 4 HH | 34.0 | Bridge PU; Neck Coil | 34.4 | 1.0118 | 34.4 | 32.4 | 30.4 | Marten |  |
+| 86 | MusicMan | Stingray 4 HH | 34.0 | Bridge PU; Bridge Coil | 36.8 | 1.0824 | 36.8 | 34.6 | 32.5 | Marten |  |
+| 87 | MusicMan | Stingray 5 H (2009) | 34.0 | MM Neck Coil | 33.1 | 0.9735 | 33.1 | 31.2 | 29.2 | 4enima |  |
+| 87 | MusicMan | Stingray 5 H (2009) | 34.0 | MM Bridge Coil | 35.4 | 1.0412 | 35.4 | 33.3 | 31.2 | 4enima |  |
+| 88 | Harley Benton | Marquess-4 | 34.0 | P: E/A | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | Dommbasstisch |  |
+| 88 | Harley Benton | Marquess-4 | 34.0 | P: D/G | 32.3 | 0.9500 | 32.3 | 30.4 | 28.5 | Dommbasstisch |  |
+| 88 | Harley Benton | Marquess-4 | 34.0 | J: Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | Dommbasstisch |  |
+| 89 | Harley Benton | PJ-4 SBK | 34.0 | P: E/A | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | Dommbasstisch |  |
+| 89 | Harley Benton | PJ-4 SBK | 34.0 | P: D/G | 31.3 | 0.9206 | 31.3 | 29.5 | 27.6 | Dommbasstisch |  |
+| 89 | Harley Benton | PJ-4 SBK | 34.0 | J: Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | Dommbasstisch |  |
+| 90 | Yamaha | RBX374 | 34.0 | HB: Neck Coil 1 | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | Dommbasstisch |  |
+| 90 | Yamaha | RBX374 | 34.0 | HB: Neck Coil 2 | 28.7 | 0.8441 | 28.7 | 27.0 | 25.3 | Dommbasstisch |  |
+| 90 | Yamaha | RBX374 | 34.0 | HB: Bridge Coil 1 | 34.9 | 1.0265 | 34.9 | 32.8 | 30.8 | Dommbasstisch |  |
+| 90 | Yamaha | RBX374 | 34.0 | HB: Bridge Coil 2 | 36.5 | 1.0735 | 36.5 | 34.4 | 32.2 | Dommbasstisch |  |
+| 91 | Ibanez | BTB200 | 35.0 | HB: Neck Coil 1 | 26.7 | 0.7629 | 25.9 | 24.4 | 22.9 | Dommbasstisch |  |
+| 91 | Ibanez | BTB200 | 35.0 | HB: Neck Coil 2 | 29.5 | 0.8429 | 28.7 | 27.0 | 25.3 | Dommbasstisch |  |
+| 91 | Ibanez | BTB200 | 35.0 | HB: Bridge Coil 1 | 35.8 | 1.0229 | 34.8 | 32.7 | 30.7 | Dommbasstisch |  |
+| 91 | Ibanez | BTB200 | 35.0 | HB: Bridge Coil 2 | 38.6 | 1.1029 | 37.5 | 35.3 | 33.1 | Dommbasstisch |  |
+| 92 | Squier | Vintage Modified Precision Bass TB | 34.0 | HB: E/A | 19.4 | 0.5706 | 19.4 | 18.3 | 17.1 |  | Apparently a split-coil in a fat humbucker housing. |
+| 92 | Squier | Vintage Modified Precision Bass TB | 34.0 | HB: D/G | 21.8 | 0.6412 | 21.8 | 20.5 | 19.2 |  | Apparently a split-coil in a fat humbucker housing. |
+| 93 | G&L | SB-1 (1982) | 34.0 | Singlecoil (Splitcoil?) | 29.4 | 0.8647 | 29.4 | 27.7 | 25.9 | matteagle |  |
+| 94 | Guild | Newark St. Starfire I (2013) | 30.75 | Singlecoil | 31.1 | 1.0114 | 34.4 | 32.4 | 30.3 |  | Bisonic Single-Coil |
+| 95 | Fender | Bullet B30 | 30.0 | Splitcoil: E/A | 26.5 | 0.8833 | 30.0 | 28.3 | 26.5 | matt-o- |  |
+| 95 | Fender | Bullet B30 | 30.0 | Splitcoil: D/G | 28.5 | 0.9500 | 32.3 | 30.4 | 28.5 | matt-o- |  |
+| 96 | Squier | Bronco | 30.0 | Singlecoil | 23.9 | 0.7967 | 27.1 | 25.5 | 23.9 | matt-o- |  |
+| 97 | Epiphone | Jack Casady | 34.0 | Middle of humbucker | 29.0 | 0.8529 | 29.0 | 27.3 | 25.6 | DaniG3 | Polepieces not visible. Breadth of pickup: 3cm |
+| 98 | Modulus | Flea | 34.0 | Middle of humbucker | 33.8 | 0.9941 | 33.8 | 31.8 | 29.8 | DaniG3 | Polepieces not visible. Breadth of pickup: 4.8cm |
+| 99 | Yamaha | Attitude 3 | 34.0 | Neck HB; Coil 1 | 21.6 | 0.6353 | 21.6 | 20.3 | 19.1 | DaniG3 |  |
+| 99 | Yamaha | Attitude 3 | 34.0 | Neck HB; Coil 2 | 23.3 | 0.6853 | 23.3 | 21.9 | 20.6 | DaniG3 |  |
+| 99 | Yamaha | Attitude 3 | 34.0 | P: E/A | 28.3 | 0.8324 | 28.3 | 26.6 | 25.0 | DaniG3 |  |
+| 99 | Yamaha | Attitude 3 | 34.0 | P: D/G | 31.0 | 0.9118 | 31.0 | 29.2 | 27.4 | DaniG3 |  |
+| 100 | Warwick | Streamer (1984) | 34.0 | P: E/A | 32.7 | 0.9618 | 32.7 | 30.8 | 28.9 | xsteps | reverse P |
+| 100 | Warwick | Streamer (1984) | 34.0 | P: D/G | 29.9 | 0.8794 | 29.9 | 28.1 | 26.4 | xsteps | reverse P |
+| 100 | Warwick | Streamer (1984) | 34.0 | J: Bridge | 38.3 | 1.1265 | 38.3 | 36.0 | 33.8 | xsteps |  |
+| 101 | Gibson | Thunderbird (1996) | 34.0 | HB: Neck | 25.9 | 0.7618 | 25.9 | 24.4 | 22.9 | MauMau | Only the middle of the humbucker was measured |
+| 101 | Gibson | Thunderbird (1996) | 34.0 | HB: Bridge | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | MauMau | Only the middle of the humbucker was measured |
+| 102 | Spector | Euro LX5 | 35.0 | HB: Neck | 31.4 | 0.8971 | 30.5 | 28.7 | 26.9 | MauMau | Only the middle of the humbucker was measured |
+| 102 | Spector | Euro LX5 | 35.0 | HB: Bridge | 38.3 | 1.0943 | 37.2 | 35.0 | 32.8 | MauMau | Only the middle of the humbucker was measured |
+| 103 | Self-Built | Leland Sklar Frankenstein | 34.0 | Neck: P E/A | 24.7 | 0.7265 | 24.7 | 23.2 | 21.8 | KTi01 | measurements were revers engineered from various pictures. reverse P |
+| 103 | Self-Built | Leland Sklar Frankenstein | 34.0 | Neck: P D/G | 21.7 | 0.6382 | 21.7 | 20.4 | 19.1 | KTi01 | measurements were revers engineered from various pictures. reverse P |
+| 103 | Self-Built | Leland Sklar Frankenstein | 34.0 | Bridge: P E/A | 36.9 | 1.0853 | 36.9 | 34.7 | 32.6 | KTi01 | measurements were revers engineered from various pictures. reverse P |
+| 103 | Self-Built | Leland Sklar Frankenstein | 34.0 | Bridge: P D/G | 34.1 | 1.0029 | 34.1 | 32.1 | 30.1 | KTi01 | measurements were revers engineered from various pictures. reverse P |
+| 104 | Danelectro | Longhorn | 29.75 | Neck @ G-String | 24.3 | 0.8168 | 27.8 | 26.1 | 24.5 | Mad Jazz Morales | the pickups are installed at an angle |
+| 104 | Danelectro | Longhorn | 29.75 | Neck @ E-String | 23.8 | 0.8000 | 27.2 | 25.6 | 24.0 | Mad Jazz Morales | the pickups are installed at an angle |
+| 104 | Danelectro | Longhorn | 29.75 | Bridge @ G-String | 34.3 | 1.1529 | 39.2 | 36.9 | 34.6 | Mad Jazz Morales | the pickups are installed at an angle |
+| 104 | Danelectro | Longhorn | 29.75 | Bridge @ E-String | 33.8 | 1.1361 | 38.6 | 36.4 | 34.1 | Mad Jazz Morales | the pickups are installed at an angle |
+| 105 | Sire | U5 Shortscale | 30.0 | P: E/A | 23.2 | 0.7733 | 26.3 | 24.7 | 23.2 | triple-U |  |
+| 105 | Sire | U5 Shortscale | 30.0 | P: D/G | 25.9 | 0.8633 | 29.4 | 27.6 | 25.9 | triple-U |  |
+| 105 | Sire | U5 Shortscale | 30.0 | J: Bridge | 34.7 | 1.1567 | 39.3 | 37.0 | 34.7 | triple-U |  |
+| 106 | Sadowsky | MetroExpress Jazz Bass 21 Vintage (Gen. 1) | 34.0 | J: Neck | 28.5 | 0.8382 | 28.5 | 26.8 | 25.1 | xsteps |  |
+| 106 | Sadowsky | MetroExpress Jazz Bass 21 Vintage (Gen. 1) | 34.0 | J: Bridge | 37.5 | 1.1029 | 37.5 | 35.3 | 33.1 | xsteps |  |
+| 107 | MusicMan | Stingray SS4 Shortscale | 30.0 | MM | 303.0 | 10.1000 | 343.4 | 323.2 | 303.0 | triple-U | Only the middle of the humbucker was measured |
+| 108 | Fender | Cabronita Precision | 34.0 | Splitcoil: E/A | 30.9 | 0.9088 | 30.9 | 29.1 | 27.3 | basslife | Replacement Pickup: TV Jones Thundermag |
+| 108 | Fender | Cabronita Precision | 34.0 | Splitcoil: D/G | 29.2 | 0.8588 | 29.2 | 27.5 | 25.8 | basslife | Replacement Pickup: TV Jones Thundermag |
+| 109 | Rickenbacker | 4003S5 Fireglo | 33.25 | Neck | 21.2 | 0.6376 | 21.7 | 20.4 | 19.1 | McValve |  |
+| 109 | Rickenbacker | 4003S5 Fireglo | 33.25 | Bridge | 34.5 | 1.0376 | 35.3 | 33.2 | 31.1 | McValve |  |
+| 110 | Hohner | B2 (1989) | 34.0 | Neck | 28.2 | 0.8294 | 28.2 | 26.5 | 24.9 | Scriptura | Only the middle of the humbucker was measured |
+| 110 | Hohner | B2 (1989) | 34.0 | Bridge | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | Scriptura | Only the middle of the humbucker was measured |
+| 111 | MusicMan | Stingray 3EQ Fretless (1991) | 34.0 | MM | 34.5 | 1.0147 | 34.5 | 32.5 | 30.4 | Scriptura | Only the middle of the humbucker was measured |
+| 112 | Human Base | Jonas (2004) | 34.0 | HB Neck | 29.5 | 0.8676 | 29.5 | 27.8 | 26.0 | Scriptura | Only the middle of the humbucker was measured |
+| 112 | Human Base | Jonas (2004) | 34.0 | HB Bridge | 38.0 | 1.1176 | 38.0 | 35.8 | 33.5 | Scriptura | Only the middle of the humbucker was measured |
+| 113 | Warwick | RB Starbass | 32.0 | J: Neck | 23.6 | 0.7375 | 25.1 | 23.6 | 22.1 | triple-U |  |
+| 113 | Warwick | RB Starbass | 32.0 | J: Bridge | 34.6 | 1.0812 | 36.8 | 34.6 | 32.4 | triple-U |  |
+| 114 | Ibanez | Musician MC924 (1982) | 34.0 | P: E/A | 26.9 | 0.7912 | 26.9 | 25.3 | 23.7 | stoneface |  |
+| 114 | Ibanez | Musician MC924 (1982) | 34.0 | P: D/G | 29.9 | 0.8794 | 29.9 | 28.1 | 26.4 | stoneface |  |
+| 114 | Ibanez | Musician MC924 (1982) | 34.0 | J: Bridge | 38.7 | 1.1382 | 38.7 | 36.4 | 34.1 | stoneface |  |
+| 115 | Johnson | Stingray Copy | 34.0 | HB, Coil 1 | 34.0 | 1.0000 | 34.0 | 32.0 | 30.0 | Axel | the humbucker is thinner than a MM pickup |
+| 115 | Johnson | Stingray Copy | 34.0 | HB, Coil 2 | 35.7 | 1.0500 | 35.7 | 33.6 | 31.5 | Axel | the humbucker is thinner than a MM pickup |
 
 {{< /table >}}
