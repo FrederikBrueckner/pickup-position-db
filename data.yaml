@@ -1386,3 +1386,14 @@
       value: 29.9
     - description: "J: Bridge"
       value: 38.7
+
+- brand: Johnson
+  make: Stingray Copy
+  scale: 34
+  reporter: Axel
+  comment: the humbucker is thinner than a MM pickup
+  measurements:
+    - description: HB, Coil 1
+      value: 34
+    - description: HB, Coil 2
+      value: 35.7
