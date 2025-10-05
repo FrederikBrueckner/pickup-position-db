@@ -298,5 +298,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 114 | Ibanez | Musician MC924 (1982) | 34.0 | J: Bridge | 38.7 | 1.1382 | 38.7 | 36.4 | 34.1 | stoneface |  |
 | 115 | Johnson | Stingray Copy | 34.0 | HB, Coil 1 | 34.0 | 1.0000 | 34.0 | 32.0 | 30.0 | Axel | the humbucker is thinner than a MM pickup |
 | 115 | Johnson | Stingray Copy | 34.0 | HB, Coil 2 | 35.7 | 1.0500 | 35.7 | 33.6 | 31.5 | Axel | the humbucker is thinner than a MM pickup |
+| 116 | Hartwood | Satelite (2025) | 32.0 | P: E/A | 20.2 | 0.6312 | 21.5 | 20.2 | 18.9 | wasabi 2.0 |  |
+| 116 | Hartwood | Satelite (2025) | 32.0 | P: D/G | 23.0 | 0.7188 | 24.4 | 23.0 | 21.6 | wasabi 2.0 |  |
 
 {{< /table >}}

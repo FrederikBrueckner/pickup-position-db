@@ -1386,3 +1386,15 @@
       value: 34
     - description: HB, Coil 2
       value: 35.7
+
+- brand: Hartwood
+  make: Satelite
+  year: 2025
+  reporter: wasabi 2.0
+  scale: 32
+  measurements:
+    - description: "P: E/A"
+      value: 20.2
+    - description: "P: D/G"
+      value: 23
+
