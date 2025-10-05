@@ -206,7 +206,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 73 | Dingwall | SP-1 5-string | 32.68 | J: Bridge. D-String | 35.4 | 1.0832 | 36.8 | 34.7 | 32.5 | foxtrott |  |
 | 73 | Dingwall | SP-1 5-string | 31.89 | P: Bridge-Coil. G-String | 29.0 | 0.9094 | 30.9 | 29.1 | 27.3 | foxtrott |  |
 | 73 | Dingwall | SP-1 5-string | 31.89 | J: Bridge. G-String | 34.0 | 1.0662 | 36.3 | 34.1 | 32.0 | foxtrott |  |
-| 74 | Höfner | 500/1 | 30.0 | Neck | 34.5 | 1.1500 | 39.1 | 36.8 | 34.5 | Oli Wan |  |
+| 74 | Höfner | 500/1 | 30.0 | Neck | 23.5 | 0.7833 | 26.6 | 25.1 | 23.5 | Oli Wan |  |
 | 74 | Höfner | 500/1 | 30.0 | Bridge | 39.4 | 1.3133 | 44.7 | 42.0 | 39.4 | Oli Wan |  |
 | 75 | Rickenbacker | 4003/V63 (1991) | 33.25 | Neck | 21.7 | 0.6526 | 22.2 | 20.9 | 19.6 | Oli Wan |  |
 | 75 | Rickenbacker | 4003/V63 (1991) | 33.25 | Bridge | 32.7 | 0.9835 | 33.4 | 31.5 | 29.5 | Oli Wan |  |

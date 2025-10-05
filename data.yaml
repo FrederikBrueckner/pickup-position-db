@@ -910,7 +910,7 @@
   reporter: Oli Wan
   measurements:
     - description: "Neck"
-      value: 34.5
+      value: 23.5
     - description: "Bridge"
       value: 39.4
 
