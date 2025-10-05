@@ -1030,13 +1030,13 @@
   comment: Double J Humbucker. Measurments were taken from a photo and might be off.
   measurements:
     - description: "Neck PU; Neck Coil"
-      value: 27.8
+      value: 27.7
     - description: "Neck PU; Bridge Coil"
       value: 29.4
     - description: "Bridge PU; Neck Coil"
-      value: 36.9
+      value: 36.7
     - description: "Bridge PU; Bridge Coil"
-      value: 38.5
+      value: 38.4
 
 - brand: MusicMan
   make: Stingray 4 HH
