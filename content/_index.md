@@ -300,5 +300,38 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 115 | Johnson | Stingray Copy | 34.0 | HB, Coil 2 | 35.7 | 1.0500 | 35.7 | 33.6 | 31.5 | Axel | the humbucker is thinner than a MM pickup |
 | 116 | Hartwood | Satelite (2025) | 32.0 | P: E/A | 20.2 | 0.6312 | 21.5 | 20.2 | 18.9 | wasabi 2.0 |  |
 | 116 | Hartwood | Satelite (2025) | 32.0 | P: D/G | 23.0 | 0.7188 | 24.4 | 23.0 | 21.6 | wasabi 2.0 |  |
+| 117 | MusicMan | Stingray 5 H (1988, 1998, 1999, 2014) | 34.0 | Coil 1 | 33.3 | 0.9794 | 33.3 | 31.3 | 29.4 | 4enima |  |
+| 117 | MusicMan | Stingray 5 H (1988, 1998, 1999, 2014) | 34.0 | Coil 2 | 35.7 | 1.0500 | 35.7 | 33.6 | 31.5 | 4enima |  |
+| 118 | MusicMan | Big Al 5 SSS (2010) | 34.0 | Neck | 24.1 | 0.7088 | 24.1 | 22.7 | 21.3 | 4enima | Neodymium Single Coils |
+| 118 | MusicMan | Big Al 5 SSS (2010) | 34.0 | Middle | 30.8 | 0.9059 | 30.8 | 29.0 | 27.2 | 4enima | Neodymium Single Coils |
+| 118 | MusicMan | Big Al 5 SSS (2010) | 34.0 | Bridge | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | 4enima | Neodymium Single Coils. installed at an angle. Only the value of the G string was given |
+| 119 | MusicMan | Reflex 5 HSS (2012) | 34.0 | Neck | 24.1 | 0.7088 | 24.1 | 22.7 | 21.3 | 4enima | Neodymium Single Coil |
+| 119 | MusicMan | Reflex 5 HSS (2012) | 34.0 | Middle | 30.3 | 0.8912 | 30.3 | 28.5 | 26.7 | 4enima | Neodymium Single Coil |
+| 119 | MusicMan | Reflex 5 HSS (2012) | 34.0 | Neck, Coil 1 | 36.3 | 1.0676 | 36.3 | 34.2 | 32.0 | 4enima | Power Keramik Humbucker |
+| 119 | MusicMan | Reflex 5 HSS (2012) | 34.0 | Neck, Coil 2 | 38.6 | 1.1353 | 38.6 | 36.3 | 34.1 | 4enima | Power Keramik Humbucker |
+| 120 | MusicMan (Sterling by) | Stingray Shortscale | 30.0 | Coil 1 | 29.2 | 0.9733 | 33.1 | 31.1 | 29.2 | 4enima |  |
+| 120 | MusicMan (Sterling by) | Stingray Shortscale | 30.0 | Coil 2 | 31.6 | 1.0533 | 35.8 | 33.7 | 31.6 | 4enima |  |
+| 121 | Warwick | Thumb NT 5 | 34.0 | Neck @ G String | 34.5 | 1.0147 | 34.5 | 32.5 | 30.4 | 4enima | EMG SingleCoils at an angle |
+| 121 | Warwick | Thumb NT 5 | 34.0 | Neck @ B String | 35.9 | 1.0559 | 35.9 | 33.8 | 31.7 | 4enima | EMG SingleCoils at an angle |
+| 121 | Warwick | Thumb NT 5 | 34.0 | Bridge @ G String | 38.5 | 1.1324 | 38.5 | 36.2 | 34.0 | 4enima | EMG SingleCoils at an angle |
+| 121 | Warwick | Thumb NT 5 | 34.0 | Bridge @ B String | 39.9 | 1.1735 | 39.9 | 37.6 | 35.2 | 4enima | EMG SingleCoils at an angle |
+| 122 | Warwick | FNA Jazzman 5 / Streamer Jazzman 5 | 34.0 | Neck @ G String | 28.9 | 0.8500 | 28.9 | 27.2 | 25.5 | 4enima |  |
+| 122 | Warwick | FNA Jazzman 5 / Streamer Jazzman 5 | 34.0 | Neck @ B String | 29.8 | 0.8765 | 29.8 | 28.0 | 26.3 | 4enima |  |
+| 122 | Warwick | FNA Jazzman 5 / Streamer Jazzman 5 | 34.0 | Bridge, Coil 1 | 34.7 | 1.0206 | 34.7 | 32.7 | 30.6 | 4enima |  |
+| 122 | Warwick | FNA Jazzman 5 / Streamer Jazzman 5 | 34.0 | Bridge, Coil 2 | 37.6 | 1.1059 | 37.6 | 35.4 | 33.2 | 4enima |  |
+| 123 | Spector | Euro 5 (Limited White Edition) | 35.0 | Neck, Coil 1 | 30.5 | 0.8714 | 29.6 | 27.9 | 26.1 | 4enima |  |
+| 123 | Spector | Euro 5 (Limited White Edition) | 35.0 | Neck, Coil 2 | 32.5 | 0.9286 | 31.6 | 29.7 | 27.9 | 4enima |  |
+| 123 | Spector | Euro 5 (Limited White Edition) | 35.0 | Bridge, Coil 1 | 37.5 | 1.0714 | 36.4 | 34.3 | 32.1 | 4enima |  |
+| 123 | Spector | Euro 5 (Limited White Edition) | 35.0 | Bridge, Coil 2 | 39.5 | 1.1286 | 38.4 | 36.1 | 33.9 | 4enima |  |
+| 124 | Ibanez | EHB1506MS (multiscale) (2021) | 32.5 | Neck @ C String | 29.0 | 0.8923 | 30.3 | 28.6 | 26.8 | 4enima |  |
+| 124 | Ibanez | EHB1506MS (multiscale) (2021) | 35.0 | Neck @ B String | 31.2 | 0.8914 | 30.3 | 28.5 | 26.7 | 4enima |  |
+| 124 | Ibanez | EHB1506MS (multiscale) (2021) | 32.5 | Bridge @ C String | 37.3 | 1.1477 | 39.0 | 36.7 | 34.4 | 4enima |  |
+| 124 | Ibanez | EHB1506MS (multiscale) (2021) | 35.0 | Bridge @ B String | 39.4 | 1.1257 | 38.3 | 36.0 | 33.8 | 4enima |  |
+| 125 | Cort | SP-PB Precision Bass (2003) | 34.0 | P: E/A | 28.1 | 0.8265 | 28.1 | 26.4 | 24.8 | 4enima |  |
+| 125 | Cort | SP-PB Precision Bass (2003) | 34.0 | P: D/G | 30.8 | 0.9059 | 30.8 | 29.0 | 27.2 | 4enima |  |
+| 126 | Spear | S1-SP | 34.0 | Neck, Coil 1 | 30.0 | 0.8824 | 30.0 | 28.2 | 26.5 | 4enima |  |
+| 126 | Spear | S1-SP | 34.0 | Neck, Coil 2 | 31.5 | 0.9265 | 31.5 | 29.6 | 27.8 | 4enima |  |
+| 126 | Spear | S1-SP | 34.0 | Bridge, Coil 1 | 37.9 | 1.1147 | 37.9 | 35.7 | 33.4 | 4enima |  |
+| 126 | Spear | S1-SP | 34.0 | Bridge, Coil 2 | 39.4 | 1.1588 | 39.4 | 37.1 | 34.8 | 4enima |  |
 
 {{< /table >}}
