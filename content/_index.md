@@ -333,5 +333,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 126 | Spear | S1-SP | 34.0 | Neck, Coil 2 | 31.5 | 0.9265 | 31.5 | 29.6 | 27.8 | 4enima |  |
 | 126 | Spear | S1-SP | 34.0 | Bridge, Coil 1 | 37.9 | 1.1147 | 37.9 | 35.7 | 33.4 | 4enima |  |
 | 126 | Spear | S1-SP | 34.0 | Bridge, Coil 2 | 39.4 | 1.1588 | 39.4 | 37.1 | 34.8 | 4enima |  |
+| 127 | Fligh | Mini Bass | 23.0 | P: E/A | 20.7 | 0.9000 | 30.6 | 28.8 | 27.0 | StWu |  |
+| 127 | Fligh | Mini Bass | 23.0 | P: D/G | 23.7 | 1.0304 | 35.0 | 33.0 | 30.9 | StWu |  |
 
 {{< /table >}}

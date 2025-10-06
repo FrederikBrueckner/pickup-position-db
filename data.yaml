@@ -1539,3 +1539,12 @@
     - description: Bridge, Coil 2
       value: 39.4
 
+- brand: Fligh
+  make: Mini Bass
+  scale: 23
+  reporter: StWu
+  measurements:
+    - description: "P: E/A"
+      value: 20.7
+    - description: "P: D/G"
+      value: 23.7
