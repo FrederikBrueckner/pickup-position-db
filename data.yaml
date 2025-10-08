@@ -1548,3 +1548,23 @@
       value: 20.7
     - description: "P: D/G"
       value: 23.7
+
+- brand: Le Fay
+  make: Herr Schwarz 5
+  scale: 33.78
+  reporter: hugee
+  comment: Pickups are at a slight angle
+  measurements:
+    - description: Neck @ B-String
+      value: 28
+    - description: Neck @ G-String
+      value: 27.6
+    - description: Middle @ B-String
+      value: 34.9
+    - description: Middle @ G-String
+      value: 34.5
+    - description: Bridge @ B-String
+      value: 38.1
+    - description: Bridge @ G-String
+      value: 37.7
+
