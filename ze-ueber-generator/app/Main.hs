@@ -65,24 +65,24 @@ mkTable lineData = concat . intersperse "\n" $ headerLine : separatorLine : data
     formatCells = (<> " |") . ("| " <>) . concat . intersperse " | "
 
 columns :: [(String, LineData -> String)]
-columns = [ (" # "             , show . ld'instrumentID)
-          , ("Brand"           , unpack . ld'brand)
-          , ("Make"            , make)
-          , ("Scale (inch)"    , show . ld'scale)
-          , ("Pickup/Coil"     , unpack . ld'description)
-          , ("Measurement (cm)", show . ld'value)
+columns = [ (" # "         , show . ld'instrumentID)
+          , ("Brand"       , unpack . ld'brand)
+          , ("Make"        , make)
+          , ("Scale"       , (<>"″") . show . ld'scale)
+          , ("Pickup/Coil" , unpack . ld'description)
+          , ("Measurement" , (<> "cm") . show . ld'value)
           -- formating this to 4 fixed decimals to make the sorting stable
-          , ("Normalized"      , (F.formatToString $ F.fixed 4) . ld'normalized)
-          , ("Target 34 (cm)"  , targeted 34)
-          , ("Target 32 (cm)"  , targeted 32)
-          , ("Target 30 (cm)"  , targeted 30)
-          , ("Reporter"        , maybe "" unpack . ld'reporter)
-          , ("Comment"         , maybe "" unpack . ld'comment)
+          , ("Normalized"  , (F.formatToString $ F.fixed 4) . ld'normalized)
+          , ("Target 34″"  , targeted 34)
+          , ("Target 32″"  , targeted 32)
+          , ("Target 30″"  , targeted 30)
+          , ("Reporter"    , maybe "" unpack . ld'reporter)
+          , ("Comment"     , maybe "" unpack . ld'comment)
           ]
   where
     make LineData{..} = unpack $ T.concat [ld'make, maybe "" (\y -> " (" <> y <> ")") ld'year]
 
-    targeted target = show . truncate' 1 . (*target) . ld'normalized
+    targeted target = (<> "cm") . show . truncate' 1 . (*target) . ld'normalized
 
 truncate' :: Int -> Float -> Float
 truncate' n x = fromIntegral y / r
