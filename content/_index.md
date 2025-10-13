@@ -350,5 +350,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 130 | BassCulture | BoltOn (1990) | 33.8″ | Bridge, Coil 1 | 35.6cm | 1.0533 | 35.8cm | 33.7cm | 31.6cm | Jazz62 |  |
 | 130 | BassCulture | BoltOn (1990) | 33.8″ | Bridge, Coil 2 | 37.6cm | 1.1124 | 37.8cm | 35.6cm | 33.4cm | Jazz62 |  |
 | 131 | Guild | JetStar 1 (1974) | 30.7″ | Bisonic | 19.8cm | 0.6450 | 21.9cm | 20.6cm | 19.3cm | Jazz62 | Only neck-sided coil is magnetic |
+| 132 | Schack | Carbon Headless | 34.0″ | Neck | 28.5cm | 0.8382 | 28.5cm | 26.8cm | 25.1cm | Stefano | Only the middle of the pickups was measured. The pickups are 36mm wide |
+| 132 | Schack | Carbon Headless | 34.0″ | Bridge | 39.0cm | 1.1471 | 39.0cm | 36.7cm | 34.4cm | Stefano | Only the middle of the pickups was measured. The pickups are 36mm wide |
 
 {{< /table >}}

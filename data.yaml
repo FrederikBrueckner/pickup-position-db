@@ -1607,3 +1607,13 @@
       comment: Only neck-sided coil is magnetic
       value: 19.8
 
+- brand: Schack
+  make: Carbon Headless
+  scale: 34
+  reporter: Stefano
+  comment: Only the middle of the pickups was measured. The pickups are 36mm wide
+  measurements:
+    - description: Neck
+      value: 28.5
+    - description: Bridge
+      value: 39
