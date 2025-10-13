@@ -341,5 +341,9 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 128 | Le Fay | Herr Schwarz 5 | 33.78″ | Middle @ G-String | 34.5cm | 1.0213 | 34.7cm | 32.7cm | 30.6cm | hugee | Pickups are at a slight angle |
 | 128 | Le Fay | Herr Schwarz 5 | 33.78″ | Bridge @ B-String | 38.1cm | 1.1279 | 38.3cm | 36.1cm | 33.8cm | hugee | Pickups are at a slight angle |
 | 128 | Le Fay | Herr Schwarz 5 | 33.78″ | Bridge @ G-String | 37.7cm | 1.1160 | 37.9cm | 35.7cm | 33.5cm | hugee | Pickups are at a slight angle |
+| 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Neck, Coil 1 | 26.9cm | 0.7912 | 26.9cm | 25.3cm | 23.7cm | Reislöffel |  |
+| 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Neck, Coil 2 | 28.7cm | 0.8441 | 28.7cm | 27.0cm | 25.3cm | Reislöffel |  |
+| 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Bridge, Coil 1 | 36.4cm | 1.0706 | 36.4cm | 34.3cm | 32.1cm | Reislöffel |  |
+| 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Bridge, Coil 2 | 38.2cm | 1.1235 | 38.2cm | 36.0cm | 33.7cm | Reislöffel |  |
 
 {{< /table >}}

@@ -1568,3 +1568,16 @@
     - description: Bridge @ G-String
       value: 37.7
 
+- brand: Fender
+  make: Dimension 5 USA Deluxe
+  scale: 34
+  reporter: Reislöffel
+  measurements:
+    - description: Neck, Coil 1
+      value: 26.9
+    - description: Neck, Coil 2
+      value: 28.7
+    - description: Bridge, Coil 1
+      value: 36.4
+    - description: Bridge, Coil 2
+      value: 38.2
