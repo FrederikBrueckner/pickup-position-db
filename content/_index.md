@@ -345,5 +345,10 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Neck, Coil 2 | 28.7cm | 0.8441 | 28.7cm | 27.0cm | 25.3cm | Reislöffel |  |
 | 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Bridge, Coil 1 | 36.4cm | 1.0706 | 36.4cm | 34.3cm | 32.1cm | Reislöffel |  |
 | 129 | Fender | Dimension 5 USA Deluxe | 34.0″ | Bridge, Coil 2 | 38.2cm | 1.1235 | 38.2cm | 36.0cm | 33.7cm | Reislöffel |  |
+| 130 | BassCulture | BoltOn (1990) | 33.8″ | Neck, Coil 1 | 28.6cm | 0.8462 | 28.8cm | 27.1cm | 25.4cm | Jazz62 |  |
+| 130 | BassCulture | BoltOn (1990) | 33.8″ | Neck, Coil 2 | 30.6cm | 0.9053 | 30.8cm | 29.0cm | 27.2cm | Jazz62 |  |
+| 130 | BassCulture | BoltOn (1990) | 33.8″ | Bridge, Coil 1 | 35.6cm | 1.0533 | 35.8cm | 33.7cm | 31.6cm | Jazz62 |  |
+| 130 | BassCulture | BoltOn (1990) | 33.8″ | Bridge, Coil 2 | 37.6cm | 1.1124 | 37.8cm | 35.6cm | 33.4cm | Jazz62 |  |
+| 131 | Guild | JetStar 1 (1974) | 30.7″ | Bisonic | 19.8cm | 0.6450 | 21.9cm | 20.6cm | 19.3cm | Jazz62 | Only neck-sided coil is magnetic |
 
 {{< /table >}}
