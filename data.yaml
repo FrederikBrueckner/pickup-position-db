@@ -1617,3 +1617,14 @@
       value: 28.5
     - description: Bridge
       value: 39
+
+- brand: Guyatone
+  make: EB-1
+  scale: 24.75
+  year: 1967
+  reporter: BootsyCollins
+  measurements:
+    - description: Middle @ E-String
+      value: 15.4
+    - description: Middle @ G-String
+      value: 15.1

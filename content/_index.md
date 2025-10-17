@@ -352,5 +352,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 131 | Guild | JetStar 1 (1974) | 30.7″ | Bisonic | 19.8cm | 0.6450 | 21.9cm | 20.6cm | 19.3cm | Jazz62 | Only neck-sided coil is magnetic |
 | 132 | Schack | Carbon Headless | 34.0″ | Neck | 28.5cm | 0.8382 | 28.5cm | 26.8cm | 25.1cm | Stefano | Only the middle of the pickups was measured. The pickups are 36mm wide |
 | 132 | Schack | Carbon Headless | 34.0″ | Bridge | 39.0cm | 1.1471 | 39.0cm | 36.7cm | 34.4cm | Stefano | Only the middle of the pickups was measured. The pickups are 36mm wide |
+| 133 | Guyatone | EB-1 (1967) | 24.75″ | Middle @ E-String | 15.4cm | 0.6222 | 21.2cm | 19.9cm | 18.7cm | BootsyCollins |  |
+| 133 | Guyatone | EB-1 (1967) | 24.75″ | Middle @ G-String | 15.1cm | 0.6101 | 20.7cm | 19.5cm | 18.3cm | BootsyCollins |  |
 
 {{< /table >}}
