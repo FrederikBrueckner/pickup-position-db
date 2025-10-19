@@ -358,5 +358,11 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 134 | Sandberg | Ken Taylor | 34.2″ | Neck, Coil 2 | 32.0cm | 0.9357 | 31.8cm | 29.9cm | 28.1cm | Bassionator |  |
 | 134 | Sandberg | Ken Taylor | 34.2″ | Bridge, Coil 1 | 36.7cm | 1.0731 | 36.5cm | 34.3cm | 32.2cm | Bassionator |  |
 | 134 | Sandberg | Ken Taylor | 34.2″ | Bridge, Coil 2 | 39.1cm | 1.1433 | 38.9cm | 36.6cm | 34.3cm | Bassionator |  |
+| 135 | Squier | VI | 30.0″ | Neck | 19.8cm | 0.6600 | 22.4cm | 21.1cm | 19.8cm | walktheline |  |
+| 135 | Squier | VI | 30.0″ | Middle | 27.1cm | 0.9033 | 30.7cm | 28.9cm | 27.1cm | walktheline |  |
+| 135 | Squier | VI | 30.0″ | Bridge | 34.3cm | 1.1433 | 38.9cm | 36.6cm | 34.3cm | walktheline |  |
+| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | P: E/A | 28.0cm | 0.8235 | 28.0cm | 26.4cm | 24.7cm |  |  |
+| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | P: D/G | 30.7cm | 0.9029 | 30.7cm | 28.9cm | 27.1cm |  |  |
+| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | J: Bridge | 36.7cm | 1.0794 | 36.7cm | 34.5cm | 32.4cm |  |  |
 
 {{< /table >}}

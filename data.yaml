@@ -1642,3 +1642,27 @@
       value: 36.7
     - description: Bridge, Coil 2
       value: 39.1
+
+- brand: Squier
+  make: VI
+  scale: 30
+  reporter: walktheline
+  measurements:
+    - description: Neck
+      value: 19.8
+    - description: Middle
+      value: 27.1
+    - description: Bridge
+      value: 34.3
+
+- brand: Fender
+  make: Precision Bass Special "Cowpoke"
+  scale: 34
+  measurements:
+    - description: "P: E/A"
+      value: 28
+    - description: "P: D/G"
+      value: 30.7
+    - description: "J: Bridge"
+      value: 36.7
+
