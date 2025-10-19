@@ -1628,3 +1628,17 @@
       value: 15.4
     - description: Middle @ G-String
       value: 15.1
+
+- brand: Sandberg
+  make: Ken Taylor
+  scale: 34.2
+  reporter: Bassionator
+  measurements:
+    - description: Neck, Coil 1
+      value: 29.7
+    - description: Neck, Coil 2
+      value: 32
+    - description: Bridge, Coil 1
+      value: 36.7
+    - description: Bridge, Coil 2
+      value: 39.1

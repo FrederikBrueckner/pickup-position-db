@@ -354,5 +354,9 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 132 | Schack | Carbon Headless | 34.0″ | Bridge | 39.0cm | 1.1471 | 39.0cm | 36.7cm | 34.4cm | Stefano | Only the middle of the pickups was measured. The pickups are 36mm wide |
 | 133 | Guyatone | EB-1 (1967) | 24.75″ | Middle @ E-String | 15.4cm | 0.6222 | 21.2cm | 19.9cm | 18.7cm | BootsyCollins |  |
 | 133 | Guyatone | EB-1 (1967) | 24.75″ | Middle @ G-String | 15.1cm | 0.6101 | 20.7cm | 19.5cm | 18.3cm | BootsyCollins |  |
+| 134 | Sandberg | Ken Taylor | 34.2″ | Neck, Coil 1 | 29.7cm | 0.8684 | 29.5cm | 27.8cm | 26.1cm | Bassionator |  |
+| 134 | Sandberg | Ken Taylor | 34.2″ | Neck, Coil 2 | 32.0cm | 0.9357 | 31.8cm | 29.9cm | 28.1cm | Bassionator |  |
+| 134 | Sandberg | Ken Taylor | 34.2″ | Bridge, Coil 1 | 36.7cm | 1.0731 | 36.5cm | 34.3cm | 32.2cm | Bassionator |  |
+| 134 | Sandberg | Ken Taylor | 34.2″ | Bridge, Coil 2 | 39.1cm | 1.1433 | 38.9cm | 36.6cm | 34.3cm | Bassionator |  |
 
 {{< /table >}}
