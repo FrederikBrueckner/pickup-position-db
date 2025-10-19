@@ -13,7 +13,7 @@ import qualified Data.Text           as T
 import           Data.Yaml              (FromJSON(..), withObject, decodeFileThrow, (.:), (.:?), Value(String, Number))
 import qualified Data.Yaml           as Yaml
 import qualified Formatting          as F
-import           Options.Applicative    (execParser, strOption, long, metavar, help, info, fullDesc)
+import           Options.Applicative    (execParser, strOption, long, metavar, help, info, fullDesc, auto, option)
 import qualified Options.Applicative as OA
 
 
@@ -22,22 +22,37 @@ data Args = Args {
   , args'data    :: FilePath
   , args'postfix :: FilePath
   , args'target  :: FilePath
+  , args'rendering :: RenderingOptions
+} deriving (Show)
+
+data RenderingOptions = RenderingOptions {
+    ro'targets :: [Float]
 } deriving (Show)
 
 argsParser :: OA.Parser Args
-argsParser = Args <$> fileParam "prefix" "file that holds the prefix of the targetfile before the table"
-                  <*> fileParam "data" "yaml file holding the primary data"
-                  <*> fileParam "postfix" "file that holde the postfix of the targetfile after the table"
-                  <*> fileParam "target" "target file to generate"
+argsParser = Args <$> fileParam "prefix-file" "file that holds the prefix of the targetfile before the table"
+                  <*> fileParam "data-file" "yaml file holding the primary data"
+                  <*> fileParam "postfix-file" "file that holde the postfix of the targetfile after the table"
+                  <*> fileParam "target-file" "target file to generate"
+                  <*> renderingParser
   where
     fileParam l h = strOption (long l <> metavar "FILE" <> help h)
+
+    renderingParser :: OA.Parser RenderingOptions
+    renderingParser =
+        RenderingOptions <$> OA.many singleTargetParser
+
+    singleTargetParser :: OA.Parser Float
+    singleTargetParser = option auto (long "target-scale" <> metavar "FLOAT" <> help "target scale to compute the relative pickup position for")
+
+
 
 main :: IO ()
 main = do
     Args{..} <- execParser $ info argsParser fullDesc
     rawData  <- decodeFileThrow args'data
     let lineData = toLineData rawData
-        table = mkTable lineData
+        table = mkTable args'rendering lineData
 
     prefix  <- readFile args'prefix
     postfix <- readFile args'postfix
@@ -46,26 +61,29 @@ main = do
 
     writeFile args'target output
 
-mkTable :: [LineData] -> String
-mkTable lineData = concat . intersperse "\n" $ headerLine : separatorLine : dataLines
+mkTable :: RenderingOptions -> [LineData] -> String
+mkTable ro lineData = concat . intersperse "\n" $ headerLine : separatorLine : dataLines
   where
+    cols = columns ro
+
     headerLine :: String
-    headerLine = formatCells $ map fst columns
+    headerLine = formatCells $ map fst cols
 
     separatorLine :: String
-    separatorLine = formatCells $ map (flip replicate '-' . length . fst) columns
+    separatorLine = formatCells $ map (flip replicate '-' . length . fst) cols
 
     dataLines :: [String]
     dataLines = map singleDataLine lineData
 
     singleDataLine :: LineData -> String
-    singleDataLine ld = formatCells $ map ( ($ ld) . snd ) columns
+    singleDataLine ld = formatCells $ map ( ($ ld) . snd ) cols
 
     formatCells :: [String] -> String
     formatCells = (<> " |") . ("| " <>) . concat . intersperse " | "
 
-columns :: [(String, LineData -> String)]
-columns = [ (" # "         , show . ld'instrumentID)
+columns :: RenderingOptions -> [(String, LineData -> String)]
+columns RenderingOptions{..} =
+          [ (" # "         , show . ld'instrumentID)
           , ("Brand"       , unpack . ld'brand)
           , ("Make"        , make)
           , ("Scale"       , (<>"″") . show . ld'scale)
@@ -73,16 +91,30 @@ columns = [ (" # "         , show . ld'instrumentID)
           , ("Measurement" , (<> "cm") . show . ld'value)
           -- formating this to 4 fixed decimals to make the sorting stable
           , ("Normalized"  , (F.formatToString $ F.fixed 4) . ld'normalized)
-          , ("Target 34″"  , targeted 34)
-          , ("Target 32″"  , targeted 32)
-          , ("Target 30″"  , targeted 30)
-          , ("Reporter"    , maybe "" unpack . ld'reporter)
+          ]
+          <> targetColmns <>
+          [ ("Reporter"    , maybe "" unpack . ld'reporter)
           , ("Comment"     , maybe "" unpack . ld'comment)
           ]
   where
     make LineData{..} = unpack $ T.concat [ld'make, maybe "" (\y -> " (" <> y <> ")") ld'year]
 
-    targeted target = (<> "cm") . show . truncate' 1 . (*target) . ld'normalized
+    targetColmns :: [(String, LineData -> String)]
+    targetColmns = map singleTargetColumn ro'targets
+
+    singleTargetColumn :: Float -> (String, LineData -> String)
+    singleTargetColumn target = ("Target " <> renderFloat target <> "″", targetedValue target)
+
+    targetedValue :: Float -> LineData -> String
+    targetedValue target = (<> "cm") . show . truncate' 1 . (*target) . ld'normalized
+
+    -- renders a Float as String dropping ".0" postfixes
+    renderFloat :: Float -> String
+    renderFloat f = case reverse fAsString of
+        '0' : '.' : rest -> reverse rest
+        _                -> fAsString
+      where
+        fAsString = show f
 
 truncate' :: Int -> Float -> Float
 truncate' n x = fromIntegral y / r

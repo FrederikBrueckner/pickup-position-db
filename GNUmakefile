@@ -8,7 +8,7 @@ build-generator:
 
 .PHONY : run-generator
 run-generator:
-	cabal run --project-dir ze-ueber-generator ze-ueber-generator -- --prefix "./ze-ueber-generator/templates/prefix.md" --data "./data.yaml" --postfix "./ze-ueber-generator/templates/postfix.md" --target "./content/_index.md"
+	cabal run --project-dir ze-ueber-generator ze-ueber-generator -- --prefix-file "./ze-ueber-generator/templates/prefix.md" --data-file "./data.yaml" --postfix-file "./ze-ueber-generator/templates/postfix.md" --target-file "./content/_index.md" --target-scale 34 --target-scale 32 --target-scale 30
 
 .PHONY : clean-site
 clean-site:
