@@ -361,8 +361,13 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 135 | Squier | VI | 30.0″ | Neck | 19.8cm | 0.6600 | 22.4cm | 21.1cm | 19.8cm | walktheline |  |
 | 135 | Squier | VI | 30.0″ | Middle | 27.1cm | 0.9033 | 30.7cm | 28.9cm | 27.1cm | walktheline |  |
 | 135 | Squier | VI | 30.0″ | Bridge | 34.3cm | 1.1433 | 38.9cm | 36.6cm | 34.3cm | walktheline |  |
-| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | P: E/A | 28.0cm | 0.8235 | 28.0cm | 26.4cm | 24.7cm |  |  |
-| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | P: D/G | 30.7cm | 0.9029 | 30.7cm | 28.9cm | 27.1cm |  |  |
-| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | J: Bridge | 36.7cm | 1.0794 | 36.7cm | 34.5cm | 32.4cm |  |  |
+| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | P: E/A | 28.0cm | 0.8235 | 28.0cm | 26.4cm | 24.7cm | walktheline |  |
+| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | P: D/G | 30.7cm | 0.9029 | 30.7cm | 28.9cm | 27.1cm | walktheline |  |
+| 136 | Fender | Precision Bass Special "Cowpoke" | 34.0″ | J: Bridge | 36.7cm | 1.0794 | 36.7cm | 34.5cm | 32.4cm | walktheline |  |
+| 137 | U-Bass (licensed by LeDuc) | ??? (Frettless with JJ Pickups) | 34.0″ | Neck @ E-String | 28.8cm | 0.8471 | 28.8cm | 27.1cm | 25.4cm | Manuel (not bassic) |  |
+| 137 | U-Bass (licensed by LeDuc) | ??? (Frettless with JJ Pickups) | 34.0″ | Neck @ G-String | 28.0cm | 0.8235 | 28.0cm | 26.4cm | 24.7cm | Manuel (not bassic) |  |
+| 137 | U-Bass (licensed by LeDuc) | ??? (Frettless with JJ Pickups) | 34.0″ | Bridge @ E-String | 37.4cm | 1.1000 | 37.4cm | 35.2cm | 33.0cm | Manuel (not bassic) |  |
+| 137 | U-Bass (licensed by LeDuc) | ??? (Frettless with JJ Pickups) | 34.0″ | Bridge @ G-String | 36.6cm | 1.0765 | 36.6cm | 34.4cm | 32.3cm | Manuel (not bassic) |  |
+| 138 | Gretsch | Junior Jet (1st Version with one pickup) | 29.8″ | middle | 24.0cm | 0.8054 | 27.4cm | 25.8cm | 24.2cm | Manuel (not bassic) | only middle of pickup was measured. Width: 3.8cm |
 
 {{< /table >}}

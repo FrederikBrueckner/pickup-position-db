@@ -1658,6 +1658,7 @@
 - brand: Fender
   make: Precision Bass Special "Cowpoke"
   scale: 34
+  reporter: walktheline
   measurements:
     - description: "P: E/A"
       value: 28
@@ -1665,4 +1666,28 @@
       value: 30.7
     - description: "J: Bridge"
       value: 36.7
+
+- brand: U-Bass (licensed by LeDuc)
+  make: "??? (Frettless with JJ Pickups)"
+  scale: 34
+  reporter: Manuel (not bassic)
+  measurements:
+    - description: Neck @ E-String
+      value: 28.8
+    - description: Neck @ G-String
+      value: 28
+    - description: Bridge @ E-String
+      value: 37.4
+    - description: Bridge @ G-String
+      value: 36.6
+
+- brand: Gretsch
+  make: Junior Jet (1st Version with one pickup)
+  scale: 29.8
+  reporter: Manuel (not bassic)
+  measurements:
+    - description: middle
+      value: 24
+      comment: "only middle of pickup was measured. Width: 3.8cm"
+
 
