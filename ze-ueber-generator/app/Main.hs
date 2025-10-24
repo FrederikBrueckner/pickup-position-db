@@ -18,10 +18,10 @@ import qualified Options.Applicative as OA
 
 
 data Args = Args {
-    args'prefix  :: FilePath
-  , args'data    :: FilePath
-  , args'postfix :: FilePath
-  , args'target  :: FilePath
+    args'prefixes  :: [FilePath]
+  , args'data      :: FilePath
+  , args'postfixes :: [FilePath]
+  , args'target    :: FilePath
   , args'rendering :: RenderingOptions
 } deriving (Show)
 
@@ -30,9 +30,9 @@ data RenderingOptions = RenderingOptions {
 } deriving (Show)
 
 argsParser :: OA.Parser Args
-argsParser = Args <$> fileParam "prefix-file" "file that holds the prefix of the targetfile before the table"
+argsParser = Args <$> OA.many (fileParam "prefix-file" "file that holds the prefix of the targetfile before the table")
                   <*> fileParam "data-file" "yaml file holding the primary data"
-                  <*> fileParam "postfix-file" "file that holde the postfix of the targetfile after the table"
+                  <*> OA.many (fileParam "postfix-file" "file that holde the postfix of the targetfile after the table")
                   <*> fileParam "target-file" "target file to generate"
                   <*> renderingParser
   where
@@ -54,12 +54,15 @@ main = do
     let lineData = toLineData rawData
         table = mkTable args'rendering lineData
 
-    prefix  <- readFile args'prefix
-    postfix <- readFile args'postfix
+    prefix  <- readFiles args'prefixes
+    postfix <- readFiles args'postfixes
 
     let output = prefix <> table <> postfix
 
     writeFile args'target output
+  where
+    readFiles :: [FilePath] -> IO String
+    readFiles = fmap (concat . intersperse "\n") . mapM readFile
 
 mkTable :: RenderingOptions -> [LineData] -> String
 mkTable ro lineData = concat . intersperse "\n" $ headerLine : separatorLine : dataLines
