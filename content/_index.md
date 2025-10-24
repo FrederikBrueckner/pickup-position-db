@@ -369,5 +369,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 137 | U-Bass (licensed by LeDuc) | ??? (Frettless with JJ Pickups) | 34.0″ | Bridge @ E-String | 37.4cm | 1.1000 | 37.4cm | 35.2cm | 33.0cm | Manuel (not bassic) |  |
 | 137 | U-Bass (licensed by LeDuc) | ??? (Frettless with JJ Pickups) | 34.0″ | Bridge @ G-String | 36.6cm | 1.0765 | 36.6cm | 34.4cm | 32.3cm | Manuel (not bassic) |  |
 | 138 | Gretsch | Junior Jet (1st Version with one pickup) | 29.8″ | middle | 24.0cm | 0.8054 | 27.4cm | 25.8cm | 24.2cm | Manuel (not bassic) | only middle of pickup was measured. Width: 3.8cm |
+| 139 | Washburn | Status S1000 LE | 34.0″ | J: Neck | 29.5cm | 0.8676 | 29.5cm | 27.8cm | 26.0cm | evert | Equivalent to an 80s Status Energy |
+| 139 | Washburn | Status S1000 LE | 34.0″ | J: Bridge | 39.0cm | 1.1471 | 39.0cm | 36.7cm | 34.4cm | evert | Equivalent to an 80s Status Energy |
 
 {{< /table >}}

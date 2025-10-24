@@ -1691,3 +1691,14 @@
       comment: "only middle of pickup was measured. Width: 3.8cm"
 
 
+- brand: Washburn
+  make: Status S1000 LE
+  scale: 34
+  reporter: evert
+  comment: Equivalent to an 80s Status Energy
+  measurements:
+    - description: "J: Neck"
+      value: 29.5
+    - description: "J: Bridge"
+      value: 39
+
