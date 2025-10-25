@@ -93,7 +93,7 @@ columns RenderingOptions{..} =
           , ("Pickup/Coil" , unpack . ld'description)
           , ("Measurement" , (<> "cm") . show . ld'value)
           -- formating this to 4 fixed decimals to make the sorting stable
-          , ("Normalized"  , (F.formatToString $ F.fixed 4) . ld'normalized)
+          , ("Normalized"  ,  (F.formatToString $ F.fixed 4) . ld'normalized)
           ]
           <> targetColmns <>
           [ ("Reporter"    , maybe "" unpack . ld'reporter)
@@ -106,7 +106,7 @@ columns RenderingOptions{..} =
     targetColmns = map singleTargetColumn ro'targets
 
     singleTargetColumn :: Float -> (String, LineData -> String)
-    singleTargetColumn target = ("Target " <> renderFloat target <> "″", targetedValue target)
+    singleTargetColumn target = ("Target " <> renderFloat target <> "″", italic . targetedValue target)
 
     targetedValue :: Float -> LineData -> String
     targetedValue target = (<> "cm") . show . truncate' 1 . (*target) . ld'normalized
@@ -118,6 +118,9 @@ columns RenderingOptions{..} =
         _                -> fAsString
       where
         fAsString = show f
+
+    italic :: String -> String
+    italic = ("*" <>) . (<> "*")
 
 truncate' :: Int -> Float -> Float
 truncate' n x = fromIntegral y / r
