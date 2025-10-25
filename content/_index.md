@@ -20,6 +20,7 @@ The list below consists of:
 
 This project is published under the GPL v3 license. This explicitly includes the data of the following table.
 
+
 {{< table sortable="true" searchable="true" >}}
 |  #  | Brand | Make | Scale | Pickup/Coil | Measurement | Normalized | Target 34″ | Target 32″ | Target 30″ | Reporter | Comment |
 | --- | ----- | ---- | ----- | ----------- | ----------- | ---------- | ---------- | ---------- | ---------- | -------- | ------- |
