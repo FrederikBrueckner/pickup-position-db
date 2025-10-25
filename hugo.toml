@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Pickup Position "Database"'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
+version = 'v1.19.7'
 
 [caches]
   [caches.images]
