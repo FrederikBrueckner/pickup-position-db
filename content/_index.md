@@ -376,5 +376,9 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 138 | Gretsch | Junior Jet (1st Version with one pickup) | 29.8″ | middle | 24.0cm | 0.8054 | *27.4cm* | Manuel (not bassic) | only middle of pickup was measured. Width: 3.8cm |
 | 139 | Washburn | Status S1000 LE | 34.0″ | J: Neck | 29.5cm | 0.8676 | *29.5cm* | evert | Equivalent to an 80s Status Energy |
 | 139 | Washburn | Status S1000 LE | 34.0″ | J: Bridge | 39.0cm | 1.1471 | *39.0cm* | evert | Equivalent to an 80s Status Energy |
+| 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Neck, Coil 1 | 27.7cm | 0.8656 | *29.4cm* | Tiefton |  |
+| 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Neck, Coil 2 | 30.0cm | 0.9375 | *31.9cm* | Tiefton |  |
+| 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Bridge, Coil 1 | 38.0cm | 1.1875 | *40.4cm* | Tiefton |  |
+| 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Bridge, Coil 2 | 40.3cm | 1.2594 | *42.8cm* | Tiefton |  |
 
 {{< /table >}}

@@ -1702,3 +1702,16 @@
     - description: "J: Bridge"
       value: 39
 
+- brand: Mr. Bassman
+  make: Slapper (Series 6)
+  scale: 32
+  reporter: Tiefton
+  measurements:
+    - description: Neck, Coil 1
+      value: 27.7
+    - description: Neck, Coil 2
+      value: 30
+    - description: Bridge, Coil 1
+      value: 38
+    - description: Bridge, Coil 2
+      value: 40.3
