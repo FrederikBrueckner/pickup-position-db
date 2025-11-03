@@ -1715,3 +1715,77 @@
       value: 38
     - description: Bridge, Coil 2
       value: 40.3
+
+- brand: Chowny
+  make: Retrovibe Vantage
+  reporter: EMUBASS
+  scale: 33.8
+  measurements:
+    - description: Neck, Coil 1
+      value: 22.7
+    - description: Neck, Coil 2
+      value: 25.9
+    - description: Bridge, Coil 1
+      value: 32.6
+    - description: Bridge, Coil 2
+      value: 35
+
+- brand: Burns
+  make: Marquee
+  comment: should equal a 1964 Vista Sonic
+  scale: 31.9
+  measurements:
+    - description: Neck @ E-String
+      value: 19.2
+    - description: Neck @ G-String
+      value: 20
+    - description: Middle @ E-String
+      value: 26.5
+    - description: Middle @ G-String
+      value: 27.3
+    - description: Bridge @ E-String
+      value: 33.6
+    - description: Bridge @ G-String
+      value: 34.3
+
+- brand: Ibanez
+  make: 2354 B
+  reporter: krausinger
+  scale: 30.3
+  year: 1974/75
+  measurements:
+    - description: Neck
+      comment: "Mudbucker. Only one set of polepieces. Breadth: 77mm"
+      value: 18.4
+    - description: Bridge, Coil 1
+      value: 32.3
+    - description: Bridge, Coil 2
+      value: 34.5
+
+- brand: Ibanez
+  make: 2354 LB
+  reporter: krausinger
+  scale: 30.3
+  year: 1974/75
+  measurements:
+    - description: Neck
+      comment: "Mudbucker. Only one set of polepieces. Breadth: 77mm"
+      value: 18.5
+    - description: Bridge, Coil 1
+      value: 32.3
+    - description: Bridge, Coil 2
+      value: 34.6
+
+- brand: Ibanez
+  make: 2354 NB
+  reporter: krausinger
+  scale: 33.5
+  year: 1974/75
+  measurements:
+    - description: Neck
+      comment: "Mudbucker. Only one set of polepieces. Breadth: 77mm"
+      value: 20.2
+    - description: Bridge, Coil 1
+      value: 34.2
+    - description: Bridge, Coil 2
+      value: 36.4

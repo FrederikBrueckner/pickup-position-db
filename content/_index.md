@@ -380,5 +380,24 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Neck, Coil 2 | 30.0cm | 0.9375 | *31.9cm* | Tiefton |  |
 | 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Bridge, Coil 1 | 38.0cm | 1.1875 | *40.4cm* | Tiefton |  |
 | 140 | Mr. Bassman | Slapper (Series 6) | 32.0″ | Bridge, Coil 2 | 40.3cm | 1.2594 | *42.8cm* | Tiefton |  |
+| 141 | Chowny | Retrovibe Vantage | 33.8″ | Neck, Coil 1 | 22.7cm | 0.6716 | *22.8cm* | EMUBASS |  |
+| 141 | Chowny | Retrovibe Vantage | 33.8″ | Neck, Coil 2 | 25.9cm | 0.7663 | *26.1cm* | EMUBASS |  |
+| 141 | Chowny | Retrovibe Vantage | 33.8″ | Bridge, Coil 1 | 32.6cm | 0.9645 | *32.8cm* | EMUBASS |  |
+| 141 | Chowny | Retrovibe Vantage | 33.8″ | Bridge, Coil 2 | 35.0cm | 1.0355 | *35.2cm* | EMUBASS |  |
+| 142 | Burns | Marquee | 31.9″ | Neck @ E-String | 19.2cm | 0.6019 | *20.5cm* |  | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Neck @ G-String | 20.0cm | 0.6270 | *21.3cm* |  | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Middle @ E-String | 26.5cm | 0.8307 | *28.2cm* |  | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Middle @ G-String | 27.3cm | 0.8558 | *29.1cm* |  | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Bridge @ E-String | 33.6cm | 1.0533 | *35.8cm* |  | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Bridge @ G-String | 34.3cm | 1.0752 | *36.6cm* |  | should equal a 1964 Vista Sonic |
+| 143 | Ibanez | 2354 B (1974/75) | 30.3″ | Neck | 18.4cm | 0.6073 | *20.6cm* | krausinger | Mudbucker. Only one set of polepieces. Breadth: 77mm |
+| 143 | Ibanez | 2354 B (1974/75) | 30.3″ | Bridge, Coil 1 | 32.3cm | 1.0660 | *36.2cm* | krausinger |  |
+| 143 | Ibanez | 2354 B (1974/75) | 30.3″ | Bridge, Coil 2 | 34.5cm | 1.1386 | *38.7cm* | krausinger |  |
+| 144 | Ibanez | 2354 LB (1974/75) | 30.3″ | Neck | 18.5cm | 0.6106 | *20.8cm* | krausinger | Mudbucker. Only one set of polepieces. Breadth: 77mm |
+| 144 | Ibanez | 2354 LB (1974/75) | 30.3″ | Bridge, Coil 1 | 32.3cm | 1.0660 | *36.2cm* | krausinger |  |
+| 144 | Ibanez | 2354 LB (1974/75) | 30.3″ | Bridge, Coil 2 | 34.6cm | 1.1419 | *38.8cm* | krausinger |  |
+| 145 | Ibanez | 2354 NB (1974/75) | 33.5″ | Neck | 20.2cm | 0.6030 | *20.5cm* | krausinger | Mudbucker. Only one set of polepieces. Breadth: 77mm |
+| 145 | Ibanez | 2354 NB (1974/75) | 33.5″ | Bridge, Coil 1 | 34.2cm | 1.0209 | *34.7cm* | krausinger |  |
+| 145 | Ibanez | 2354 NB (1974/75) | 33.5″ | Bridge, Coil 2 | 36.4cm | 1.0866 | *36.9cm* | krausinger |  |
 
 {{< /table >}}
