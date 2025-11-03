@@ -384,12 +384,12 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 141 | Chowny | Retrovibe Vantage | 33.8″ | Neck, Coil 2 | 25.9cm | 0.7663 | *26.1cm* | *24.5cm* | *23.0cm* | EMUBASS |  |
 | 141 | Chowny | Retrovibe Vantage | 33.8″ | Bridge, Coil 1 | 32.6cm | 0.9645 | *32.8cm* | *30.9cm* | *28.9cm* | EMUBASS |  |
 | 141 | Chowny | Retrovibe Vantage | 33.8″ | Bridge, Coil 2 | 35.0cm | 1.0355 | *35.2cm* | *33.1cm* | *31.1cm* | EMUBASS |  |
-| 142 | Burns | Marquee | 31.9″ | Neck @ E-String | 19.2cm | 0.6019 | *20.5cm* | *19.3cm* | *18.1cm* |  | should equal a 1964 Vista Sonic |
-| 142 | Burns | Marquee | 31.9″ | Neck @ G-String | 20.0cm | 0.6270 | *21.3cm* | *20.1cm* | *18.8cm* |  | should equal a 1964 Vista Sonic |
-| 142 | Burns | Marquee | 31.9″ | Middle @ E-String | 26.5cm | 0.8307 | *28.2cm* | *26.6cm* | *24.9cm* |  | should equal a 1964 Vista Sonic |
-| 142 | Burns | Marquee | 31.9″ | Middle @ G-String | 27.3cm | 0.8558 | *29.1cm* | *27.4cm* | *25.7cm* |  | should equal a 1964 Vista Sonic |
-| 142 | Burns | Marquee | 31.9″ | Bridge @ E-String | 33.6cm | 1.0533 | *35.8cm* | *33.7cm* | *31.6cm* |  | should equal a 1964 Vista Sonic |
-| 142 | Burns | Marquee | 31.9″ | Bridge @ G-String | 34.3cm | 1.0752 | *36.6cm* | *34.4cm* | *32.3cm* |  | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Neck @ E-String | 19.2cm | 0.6019 | *20.5cm* | *19.3cm* | *18.1cm* | PeterChristof | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Neck @ G-String | 20.0cm | 0.6270 | *21.3cm* | *20.1cm* | *18.8cm* | PeterChristof | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Middle @ E-String | 26.5cm | 0.8307 | *28.2cm* | *26.6cm* | *24.9cm* | PeterChristof | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Middle @ G-String | 27.3cm | 0.8558 | *29.1cm* | *27.4cm* | *25.7cm* | PeterChristof | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Bridge @ E-String | 33.6cm | 1.0533 | *35.8cm* | *33.7cm* | *31.6cm* | PeterChristof | should equal a 1964 Vista Sonic |
+| 142 | Burns | Marquee | 31.9″ | Bridge @ G-String | 34.3cm | 1.0752 | *36.6cm* | *34.4cm* | *32.3cm* | PeterChristof | should equal a 1964 Vista Sonic |
 | 143 | Ibanez | 2354 B (1974/75) | 30.3″ | Neck | 18.4cm | 0.6073 | *20.6cm* | *19.4cm* | *18.2cm* | krausinger | Mudbucker. Only one set of polepieces. Breadth: 77mm |
 | 143 | Ibanez | 2354 B (1974/75) | 30.3″ | Bridge, Coil 1 | 32.3cm | 1.0660 | *36.2cm* | *34.1cm* | *32.0cm* | krausinger |  |
 | 143 | Ibanez | 2354 B (1974/75) | 30.3″ | Bridge, Coil 2 | 34.5cm | 1.1386 | *38.7cm* | *36.4cm* | *34.2cm* | krausinger |  |

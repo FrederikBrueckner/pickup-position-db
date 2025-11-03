@@ -1734,6 +1734,7 @@
   make: Marquee
   comment: should equal a 1964 Vista Sonic
   scale: 31.9
+  reporter: PeterChristof
   measurements:
     - description: Neck @ E-String
       value: 19.2
