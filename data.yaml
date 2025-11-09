@@ -1790,3 +1790,25 @@
       value: 34.2
     - description: Bridge, Coil 2
       value: 36.4
+
+- brand: Vantage
+  make: Avenger Precision Bass
+  scale: 34
+  reporter: Tom6000
+  measurements:
+    - description: "P: E/A"
+      value: 28
+    - description: "P: D/G"
+      value: 31
+
+- brand: Gibson
+  make: Les Paul Bass
+  year: 1979
+  scale: 30.7
+  reporter: Tom6000
+  measurements:
+    - description: Neck
+      value: 22.2
+    - description: Bridge
+      value: 32.2
+

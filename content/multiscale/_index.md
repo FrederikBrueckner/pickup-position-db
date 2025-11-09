@@ -399,5 +399,9 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 145 | Ibanez | 2354 NB (1974/75) | 33.5″ | Neck | 20.2cm | 0.6030 | *20.5cm* | *19.3cm* | *18.1cm* | krausinger | Mudbucker. Only one set of polepieces. Breadth: 77mm |
 | 145 | Ibanez | 2354 NB (1974/75) | 33.5″ | Bridge, Coil 1 | 34.2cm | 1.0209 | *34.7cm* | *32.7cm* | *30.6cm* | krausinger |  |
 | 145 | Ibanez | 2354 NB (1974/75) | 33.5″ | Bridge, Coil 2 | 36.4cm | 1.0866 | *36.9cm* | *34.8cm* | *32.6cm* | krausinger |  |
+| 146 | Vantage | Avenger Precision Bass | 34.0″ | P: E/A | 28.0cm | 0.8235 | *28.0cm* | *26.4cm* | *24.7cm* | Tom6000 |  |
+| 146 | Vantage | Avenger Precision Bass | 34.0″ | P: D/G | 31.0cm | 0.9118 | *31.0cm* | *29.2cm* | *27.4cm* | Tom6000 |  |
+| 147 | Gibson | Les Paul Bass (1979) | 30.7″ | Neck | 22.2cm | 0.7231 | *24.6cm* | *23.1cm* | *21.7cm* | Tom6000 |  |
+| 147 | Gibson | Les Paul Bass (1979) | 30.7″ | Bridge | 32.2cm | 1.0489 | *35.7cm* | *33.6cm* | *31.5cm* | Tom6000 |  |
 
 {{< /table >}}
