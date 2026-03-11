@@ -403,5 +403,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 146 | Vantage | Avenger Precision Bass | 34.0″ | P: D/G | 31.0cm | 0.9118 | *31.0cm* | *29.2cm* | *27.4cm* | Tom6000 |  |
 | 147 | Gibson | Les Paul Bass (1979) | 30.7″ | Neck | 22.2cm | 0.7231 | *24.6cm* | *23.1cm* | *21.7cm* | Tom6000 |  |
 | 147 | Gibson | Les Paul Bass (1979) | 30.7″ | Bridge | 32.2cm | 1.0489 | *35.7cm* | *33.6cm* | *31.5cm* | Tom6000 |  |
+| 148 | Klira | Kentucky | 30.0″ | Neck | 17.2cm | 0.5733 | *19.5cm* | *18.3cm* | *17.2cm* | walktheline |  |
+| 148 | Klira | Kentucky | 30.0″ | Bridge | 28.7cm | 0.9567 | *32.5cm* | *30.6cm* | *28.7cm* | walktheline |  |
 
 {{< /table >}}

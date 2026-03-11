@@ -1812,3 +1812,12 @@
     - description: Bridge
       value: 32.2
 
+- brand: Klira
+  make: Kentucky
+  scale: 30
+  reporter: walktheline
+  measurements:
+    - description: Neck
+      value: 17.2
+    - description: Bridge
+      value: 28.7
