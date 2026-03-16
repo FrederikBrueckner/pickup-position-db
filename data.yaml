@@ -1821,3 +1821,54 @@
       value: 17.2
     - description: Bridge
       value: 28.7
+
+- brand: Marleaux
+  make: JB-4 (active Jazz Bass)
+  year: 1991
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "J: Neck"
+      value: 27.7
+    - description: "J: Bridge"
+      value: 37
+
+- brand: Ibanez
+  make: ATK405 (Made in Korea)
+  year: 2001
+  scale: 34
+  comment: "Neck J + Bridge triple-coil humbucker, splitable, middle coil silent dummy"
+  reporter: quarkfrosch
+  measurements:
+    - description: "J: Neck"
+      value: 27.5
+    - description: "Bridge, Coil 1"
+      value: 34.7
+    - description: "Bridge, Coil 2"
+      value: 36.2
+    - description: "Bridge, Coil 3"
+      value: 37.7
+      
+
+- brand: Ibanez
+  make: ATK100 (Made in Japan)
+  year: 1996
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "Bridge, Coil 1"
+      value: 33.2
+    - description: "Bridge, Coil 2"
+      value: 36.2
+      
+- brand: Sire
+  make: P5R (Made in Indonesia)
+  year: 2024
+  scale: 34
+  reporter: quarkfrosch
+  measurements:
+    - description: "P: H/E/A"
+      value: 28.1
+    - description: "P: D/G"
+      value: 30.8
+      
