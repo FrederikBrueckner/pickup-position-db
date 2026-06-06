@@ -405,5 +405,15 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 147 | Gibson | Les Paul Bass (1979) | 30.7″ | Bridge | 32.2cm | 1.0489 | *35.7cm* | Tom6000 |  |
 | 148 | Klira | Kentucky | 30.0″ | Neck | 17.2cm | 0.5733 | *19.5cm* | walktheline |  |
 | 148 | Klira | Kentucky | 30.0″ | Bridge | 28.7cm | 0.9567 | *32.5cm* | walktheline |  |
+| 149 | Marleaux | JB-4 (active Jazz Bass) (1991) | 34.0″ | J: Neck | 27.7cm | 0.8147 | *27.7cm* | quarkfrosch |  |
+| 149 | Marleaux | JB-4 (active Jazz Bass) (1991) | 34.0″ | J: Bridge | 37.0cm | 1.0882 | *37.0cm* | quarkfrosch |  |
+| 150 | Ibanez | ATK405 (Made in Korea) (2001) | 34.0″ | J: Neck | 27.5cm | 0.8088 | *27.5cm* | quarkfrosch | Neck J + Bridge triple-coil humbucker, splitable, middle coil silent dummy |
+| 150 | Ibanez | ATK405 (Made in Korea) (2001) | 34.0″ | Bridge, Coil 1 | 34.7cm | 1.0206 | *34.7cm* | quarkfrosch | Neck J + Bridge triple-coil humbucker, splitable, middle coil silent dummy |
+| 150 | Ibanez | ATK405 (Made in Korea) (2001) | 34.0″ | Bridge, Coil 2 (dummy coil) | 36.2cm | 1.0647 | *36.2cm* | quarkfrosch | Neck J + Bridge triple-coil humbucker, splitable, middle coil silent dummy |
+| 150 | Ibanez | ATK405 (Made in Korea) (2001) | 34.0″ | Bridge, Coil 3 | 37.7cm | 1.1088 | *37.7cm* | quarkfrosch | Neck J + Bridge triple-coil humbucker, splitable, middle coil silent dummy |
+| 151 | Ibanez | ATK100 (Made in Japan) (1996) | 34.0″ | Bridge, Coil 1 | 33.2cm | 0.9765 | *33.2cm* | quarkfrosch |  |
+| 151 | Ibanez | ATK100 (Made in Japan) (1996) | 34.0″ | Bridge, Coil 2 | 36.2cm | 1.0647 | *36.2cm* | quarkfrosch |  |
+| 152 | Sire | P5R (Made in Indonesia) (2024) | 34.0″ | P: H/E/A | 28.1cm | 0.8265 | *28.1cm* | quarkfrosch |  |
+| 152 | Sire | P5R (Made in Indonesia) (2024) | 34.0″ | P: D/G | 30.8cm | 0.9059 | *30.8cm* | quarkfrosch |  |
 
 {{< /table >}}
