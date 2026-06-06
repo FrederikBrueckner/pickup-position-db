@@ -1871,3 +1871,13 @@
     - description: "P: D/G"
       value: 30.8
 
+- brand: Hagström
+  make: H II BN/F400N
+  year: 1970s
+  scale: 30.7
+  reporter: flamencito
+  measurements:
+    - description: Neck (only the visible polepieces were measured)
+      value: 19.6
+    - description: Bridge (only the visible polepieces were measured)
+      value: 32.7

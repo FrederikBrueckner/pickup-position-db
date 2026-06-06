@@ -415,5 +415,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 151 | Ibanez | ATK100 (Made in Japan) (1996) | 34.0″ | Bridge, Coil 2 | 36.2cm | 1.0647 | *36.2cm* | *34.1cm* | *31.9cm* | quarkfrosch |  |
 | 152 | Sire | P5R (Made in Indonesia) (2024) | 34.0″ | P: H/E/A | 28.1cm | 0.8265 | *28.1cm* | *26.4cm* | *24.8cm* | quarkfrosch |  |
 | 152 | Sire | P5R (Made in Indonesia) (2024) | 34.0″ | P: D/G | 30.8cm | 0.9059 | *30.8cm* | *29.0cm* | *27.2cm* | quarkfrosch |  |
+| 153 | Hagström | H II BN/F400N (1970s) | 30.7″ | Neck (only the visible polepieces were measured) | 19.6cm | 0.6384 | *21.7cm* | *20.4cm* | *19.2cm* | flamencito |  |
+| 153 | Hagström | H II BN/F400N (1970s) | 30.7″ | Bridge (only the visible polepieces were measured) | 32.7cm | 1.0651 | *36.2cm* | *34.1cm* | *32.0cm* | flamencito |  |
 
 {{< /table >}}
