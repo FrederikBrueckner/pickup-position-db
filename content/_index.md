@@ -417,5 +417,13 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 152 | Sire | P5R (Made in Indonesia) (2024) | 34.0″ | P: D/G | 30.8cm | 0.9059 | *30.8cm* | quarkfrosch |  |
 | 153 | Hagström | H II BN/F400N (1970s) | 30.7″ | Neck (only the visible polepieces were measured) | 19.6cm | 0.6384 | *21.7cm* | flamencito |  |
 | 153 | Hagström | H II BN/F400N (1970s) | 30.7″ | Bridge (only the visible polepieces were measured) | 32.7cm | 1.0651 | *36.2cm* | flamencito |  |
+| 154 | Epiphone | Thunderbird Vintage Pro | 34.0″ | Neck, Coil 1 | 26.8cm | 0.7882 | *26.8cm* | Flex Bass |  |
+| 154 | Epiphone | Thunderbird Vintage Pro | 34.0″ | Neck, Coil 2 | 28.6cm | 0.8412 | *28.6cm* | Flex Bass |  |
+| 154 | Epiphone | Thunderbird Vintage Pro | 34.0″ | Bridge, Coil 1 | 36.5cm | 1.0735 | *36.5cm* | Flex Bass |  |
+| 154 | Epiphone | Thunderbird Vintage Pro | 34.0″ | Brifge, Coil 2 | 38.3cm | 1.1265 | *38.3cm* | Flex Bass |  |
+| 155 | Hohner | B2A | 34.25″ | Neck, Coil 1 | 27.8cm | 0.8117 | *27.6cm* | Flex Bass |  |
+| 155 | Hohner | B2A | 34.25″ | Neck, Coil 2 | 29.8cm | 0.8701 | *29.6cm* | Flex Bass |  |
+| 155 | Hohner | B2A | 34.25″ | Bridge, Coil 1 | 38.1cm | 1.1124 | *37.8cm* | Flex Bass |  |
+| 155 | Hohner | B2A | 34.25″ | Brifge, Coil 2 | 40.1cm | 1.1708 | *39.8cm* | Flex Bass |  |
 
 {{< /table >}}

@@ -1881,3 +1881,32 @@
       value: 19.6
     - description: Bridge (only the visible polepieces were measured)
       value: 32.7
+
+- brand: Epiphone
+  make: Thunderbird Vintage Pro
+  reporter: Flex Bass
+  scale: 34
+  measurements:
+    - description: "Neck, Coil 1"
+      value: 26.8
+    - description: "Neck, Coil 2"
+      value: 28.6
+    - description: "Bridge, Coil 1"
+      value: 36.5
+    - description: "Brifge, Coil 2"
+      value: 38.3
+
+- brand: Hohner
+  make: B2A
+  reporter: Flex Bass
+  scale: 34.25
+  measurements:
+    - description: "Neck, Coil 1"
+      value: 27.8
+    - description: "Neck, Coil 2"
+      value: 29.8
+    - description: "Bridge, Coil 1"
+      value: 38.1
+    - description: "Brifge, Coil 2"
+      value: 40.1
+
