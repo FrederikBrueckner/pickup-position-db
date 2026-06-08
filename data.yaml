@@ -1893,7 +1893,7 @@
       value: 28.6
     - description: "Bridge, Coil 1"
       value: 36.5
-    - description: "Brifge, Coil 2"
+    - description: "Bridge, Coil 2"
       value: 38.3
 
 - brand: Hohner
@@ -1907,6 +1907,6 @@
       value: 29.8
     - description: "Bridge, Coil 1"
       value: 38.1
-    - description: "Brifge, Coil 2"
+    - description: "Bridge, Coil 2"
       value: 40.1
 
