@@ -425,5 +425,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 155 | Hohner | B2A | 34.25″ | Neck, Coil 2 | 29.8cm | 0.8701 | *29.6cm* | *27.8cm* | *26.1cm* | Flex Bass |  |
 | 155 | Hohner | B2A | 34.25″ | Bridge, Coil 1 | 38.1cm | 1.1124 | *37.8cm* | *35.6cm* | *33.4cm* | Flex Bass |  |
 | 155 | Hohner | B2A | 34.25″ | Bridge, Coil 2 | 40.1cm | 1.1708 | *39.8cm* | *37.5cm* | *35.1cm* | Flex Bass |  |
+| 156 | Harley Benton | HB50 Vintage | 34.0″ | Coil 1 | 33.6cm | 0.9882 | *33.6cm* | *31.6cm* | *29.6cm* | lauser |  |
+| 156 | Harley Benton | HB50 Vintage | 34.0″ | Coil 2 | 36.0cm | 1.0588 | *36.0cm* | *33.9cm* | *31.8cm* | lauser |  |
 
 {{< /table >}}

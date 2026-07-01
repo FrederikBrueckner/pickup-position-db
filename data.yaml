@@ -1910,3 +1910,12 @@
     - description: "Bridge, Coil 2"
       value: 40.1
 
+- brand: Harley Benton
+  make: HB50 Vintage
+  scale: 34
+  reporter: lauser
+  measurements:
+    - description: "Coil 1"
+      value: 33.6
+    - description: "Coil 2"
+      value: 36
