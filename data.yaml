@@ -1919,3 +1919,14 @@
       value: 33.6
     - description: "Coil 2"
       value: 36
+
+- brand: Epiphone
+  make: Jack Casady
+  scale: 34
+  reporter: lauser
+  comment: "The magnets (of the closed cover) were located with a drill bit"
+  measurements:
+    - description: "Coil 1"
+      value: 27.7
+    - description: "Coil 2"
+      value: 29.5

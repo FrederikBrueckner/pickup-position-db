@@ -427,5 +427,7 @@ This project is published under the GPL v3 license. This explicitly includes the
 | 155 | Hohner | B2A | 34.25″ | Bridge, Coil 2 | 40.1cm | 1.1708 | *39.8cm* | Flex Bass |  |
 | 156 | Harley Benton | HB50 Vintage | 34.0″ | Coil 1 | 33.6cm | 0.9882 | *33.6cm* | lauser |  |
 | 156 | Harley Benton | HB50 Vintage | 34.0″ | Coil 2 | 36.0cm | 1.0588 | *36.0cm* | lauser |  |
+| 157 | Epiphone | Jack Casady | 34.0″ | Coil 1 | 27.7cm | 0.8147 | *27.7cm* | lauser | The magnets (of the closed cover) were located with a drill bit |
+| 157 | Epiphone | Jack Casady | 34.0″ | Coil 2 | 29.5cm | 0.8676 | *29.5cm* | lauser | The magnets (of the closed cover) were located with a drill bit |
 
 {{< /table >}}
